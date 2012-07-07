@@ -1,0 +1,429 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LFHB>
+  <hymn id="1" author="Cowper" />
+  <hymn id="2" author="J.G. Deck" />
+  <hymn id="3" author="Watts" />
+  <hymn id="4" author="Cowper" />
+  <hymn id="5" author="Samuel M. Waring, 1827" />
+  <hymn id="6" author="Mary Bowley" />
+  <hymn id="7" author="J.G. Deck" />
+  <hymn id="8" author="Mary Bowley" />
+  <hymn id="9" author="Tregelles" />
+  <hymn id="10" author="T. Kelly, 1802" />
+  <hymn id="11" author="Haweis, 1792" />
+  <hymn id="12" author="J.N.D., 1856" />
+  <hymn id="13" author="C. Wesley" />
+  <hymn id="14" author="J.N.D., 1835" />
+  <hymn id="15" author="H. Bonar, 1845" />
+  <hymn id="16" author="Mary Bowley" />
+  <hymn id="17" author="J. Newton" />
+  <hymn id="18" author="J. Bakewell, 1757" />
+  <hymn id="19" author="T. Kelly" />
+  <hymn id="20" author="Marie de Fleury" />
+  <hymn id="21" author="J. G. Deck" />
+  <hymn id="22" author="G. V. Wigram, 1856" />
+  <hymn id="23" author="Hart, 1750" />
+  <hymn id="24" author="Wesley, 1799" />
+  <hymn id="25" author="J.N.D., 1879" />
+  <hymn id="26" author="J. A. Rothe, tr. by J. Wesley" />
+  <hymn id="27" author="J. G. Deck" />
+  <hymn id="28" author="J. G. Deck" />
+  <hymn id="29" author="J. G. Deck" />
+  <hymn id="30" author="J. G. Deck" />
+  <hymn id="31" author="Nicolai, 1598" />
+  <hymn id="32" author="Tregelles" />
+  <hymn id="33" author="Jacobi" />
+  <hymn id="34" author="W. P. Mackay" />
+  <hymn id="35" author="J. Denham Smith" />
+  <hymn id="36" author="Unknown Author" />
+  <hymn id="37" author="T. Kelly, 1806" />
+  <hymn id="38" author="Wesley" />
+  <hymn id="39" author="Miss H. K. Burlingham" />
+  <hymn id="40" author="Mrs. Wellesley" />
+  <hymn id="41" author="Unknown Author" />
+  <hymn id="42" author="Watts" />
+  <hymn id="43" author="Watts, 1709" />
+  <hymn id="44" author="H. Weir" />
+  <hymn id="45" author="Zinzendorf, tr. by J.Wesley, 1739" />
+  <hymn id="46" author="Wesley" />
+  <hymn id="47" author="Toplady; vs. 1 &amp; 5, Doddridge" />
+  <hymn id="48" author="J. G. Deck" />
+  <hymn id="49" author="Cowper, 1779" />
+  <hymn id="50" author="Lady Campbell" />
+  <hymn id="51" author="Watts" />
+  <hymn id="52" author="J. G. Deck" />
+  <hymn id="53" author="C.Wesley" />
+  <hymn id="54" author="John Newton, 1779" />
+  <hymn id="55" author="Gerhardt, tr. by J.Wesley" />
+  <hymn id="56" author="Mary Bowley" />
+  <hymn id="57" author="Tr. by Mrs. Bevan" />
+  <hymn id="58" author="Unknown Author" />
+  <hymn id="59" author="Lady Campbell" />
+  <hymn id="60" author="Watts" />
+  <hymn id="61" author="Hawker" />
+  <hymn id="62" author="T. Kelly" />
+  <hymn id="63" author="J. G. Deck" />
+  <hymn id="64" author="J.N.D., 1867" />
+  <hymn id="65" author="Swain, 1792" />
+  <hymn id="66" author="R. Chapman, 1837" />
+  <hymn id="67" author="J. Denham Smith" />
+  <hymn id="68" author="Tregelles" />
+  <hymn id="69" author="Cesar Malan" />
+  <hymn id="70" author="Horne; vs. 1, J. Kent, 1827" />
+  <hymn id="71" author="Chr. Batty" />
+  <hymn id="72" author="G. V. Wigram" />
+  <hymn id="73" author="J.Wesley" />
+  <hymn id="74" author="J. G. Deck" />
+  <hymn id="75" author="Stocker, 1776" />
+  <hymn id="76" author="J.N.D., 1837" />
+  <hymn id="77" author="Stennett, 1790" />
+  <hymn id="78" author="Unknown Author" />
+  <hymn id="79" author="J.N.D., 1845" />
+  <hymn id="80" author="Swain" />
+  <hymn id="81" author="Unknown Author" />
+  <hymn id="82" author="Mrs. J. A. Trench" />
+  <hymn id="83" author="Unknown Author" />
+  <hymn id="84" author="H. Bonar" />
+  <hymn id="85" author="J. G. Deck" />
+  <hymn id="86" author="J. G. Deck" />
+  <hymn id="87" author="Kent" />
+  <hymn id="88" author="Stennett, 1697" />
+  <hymn id="89" author="Watts" />
+  <hymn id="90" author="Theodolph, died 821" />
+  <hymn id="91" author="G. V. Wigram" />
+  <hymn id="92" author="Miss A. M. Stoney" />
+  <hymn id="93" author="Mrs. Bevan" />
+  <hymn id="94" author="T. Kelly" />
+  <hymn id="95" author="Watts, 1709; altered by W. Hammond, 1745" />
+  <hymn id="96" author="Medley" />
+  <hymn id="97" author="Cesar Malan" />
+  <hymn id="98" author="Miss C. Thompson" />
+  <hymn id="99" author="Medley" />
+  <hymn id="100" author="Medley" />
+  <hymn id="101" author="Hawker, 1831" />
+  <hymn id="102" author="Watts" />
+  <hymn id="103" author="T. Kelly" />
+  <hymn id="104" author="Hawker, 1827" />
+  <hymn id="105" author="T. Kelly" />
+  <hymn id="106" author="J. G. Deck" />
+  <hymn id="107" author="J. G. Deck" />
+  <hymn id="108" author="Unknown Author" />
+  <hymn id="109" author="J. G. Deck" />
+  <hymn id="110" author="J. G. Deck" />
+  <hymn id="111" author="Mary Bowley" />
+  <hymn id="112" author="Samuel Davies" />
+  <hymn id="113" author="Unknown Author" />
+  <hymn id="114" author="Mary Bowley" />
+  <hymn id="115" author="Gilpin" />
+  <hymn id="116" author="Tate" />
+  <hymn id="117" author="Toplady" />
+  <hymn id="118" author="Medley, 1785" />
+  <hymn id="119" author="Bernard of Clairvaux" />
+  <hymn id="120" author="Toplady, 1759" />
+  <hymn id="121" author="A. J. Rutherford" />
+  <hymn id="122" author="Watts" />
+  <hymn id="123" author="J. G. Deck" />
+  <hymn id="124" author="Miss A. E. Price" />
+  <hymn id="125" author="T. Kelly" />
+  <hymn id="126" author="T. Kelly" />
+  <hymn id="127" author="Mrs. J. A. Trench" />
+  <hymn id="128" author="Sandeman" />
+  <hymn id="129" author="Kelly" />
+  <hymn id="130" author="C.Wesley" />
+  <hymn id="131" author="Montgomery" />
+  <hymn id="132" author="Miss Wigram" />
+  <hymn id="133" author="Jonathan Evans, 1784" />
+  <hymn id="134" author="Richard Holden" />
+  <hymn id="135" author="Yerbury, 1863" />
+  <hymn id="136" author="J. G. Deck" />
+  <hymn id="137" author="Mrs. Cousins" />
+  <hymn id="138" author="T. Kelly" />
+  <hymn id="139" author="J.N.D., 1849" />
+  <hymn id="140" author="G.W. Frazer" />
+  <hymn id="141" author="G.W. Frazer" />
+  <hymn id="142" author="T. Kelly" />
+  <hymn id="143" author="R. Chapman" />
+  <hymn id="144" author="Watts, 1709; chorus and vs. 2, Anon., 1744" />
+  <hymn id="145" author="Watts" />
+  <hymn id="146" author="J. G. Deck" />
+  <hymn id="147" author="Mason" />
+  <hymn id="148" author="J.N.D., suggested by Miss C. L. Smith" />
+  <hymn id="149" author="J. G. Deck" />
+  <hymn id="150" author="J. Conder" />
+  <hymn id="151" author="J. G. Deck" />
+  <hymn id="152" author="Yerbury" />
+  <hymn id="153" author="Mary Bowley" />
+  <hymn id="154" author="Unknown Author" />
+  <hymn id="155" author="Ann Taylor" />
+  <hymn id="156" author="Mary Bowley" />
+  <hymn id="157" author="J.R.W." />
+  <hymn id="158" author="Hawker" />
+  <hymn id="159" author="Doddridge" />
+  <hymn id="160" author="J. Newton" />
+  <hymn id="161" author="J. Montgomery, 1835" />
+  <hymn id="162" author="G.W. Frazer" />
+  <hymn id="163" author="Unknown Author" />
+  <hymn id="164" author="C. G. Clemens" />
+  <hymn id="165" author="C.Wesley" />
+  <hymn id="166" author="Toplady" />
+  <hymn id="167" author="Yerbury" />
+  <hymn id="168" author="T. Kelly" />
+  <hymn id="169" author="F.Whitfield" />
+  <hymn id="170" author="Vss. 1, 4 &amp; 6, C.Wesley, 1758; vs. 2, J. Cennick, 1752; combined by Madan, 1760" />
+  <hymn id="171" author="Wesley" />
+  <hymn id="172" author="Hutton" />
+  <hymn id="173" author="J. G. Deck" />
+  <hymn id="174" author="Unknown Author" />
+  <hymn id="175" author="T. Kelly, 1815" />
+  <hymn id="176" author="Unknown Author" />
+  <hymn id="177" author="Toplady" />
+  <hymn id="178" author="J.N.D., 1879" />
+  <hymn id="179" author="Robinson" />
+  <hymn id="180" author="J. R. Taylor, 1836" />
+  <hymn id="181" author="J. Newton" />
+  <hymn id="182" author="Unknown Author" />
+  <hymn id="183" author="T. Kelly" />
+  <hymn id="184" author="F.Whitfield" />
+  <hymn id="185" author="H. Bennett" />
+  <hymn id="186" author="Mary Bowley" />
+  <hymn id="187" author="J. G. Deck" />
+  <hymn id="188" author="G.W. Frazer" />
+  <hymn id="189" author="H. K. Burlingham" />
+  <hymn id="190" author="T. Kelly" />
+  <hymn id="191" author="Mary Bowley" />
+  <hymn id="192" author="J. G. Deck" />
+  <hymn id="193" author="J. G. Deck" />
+  <hymn id="194" author="Doddridge" />
+  <hymn id="195" author="Miss Wigram" />
+  <hymn id="196" author="Medley" />
+  <hymn id="197" author="Doddridge" />
+  <hymn id="198" author="T. Kelly" />
+  <hymn id="199" author="Lady Campbell" />
+  <hymn id="200" author="G.W. Frazer" />
+  <hymn id="201" author="J. G. Deck" />
+  <hymn id="202" author="Swain, 1792" />
+  <hymn id="203" author="Unknown Author" />
+  <hymn id="204" author="Tregelles, 1846" />
+  <hymn id="205" author="J. G. Deck" />
+  <hymn id="206" author="Mary Bowley" />
+  <hymn id="207" author="Dr. Gibbons" />
+  <hymn id="208" author="J. G. Deck" />
+  <hymn id="209" author="W. F. Lloyd, 1835" />
+  <hymn id="210" author="Mary Bowley" />
+  <hymn id="211" author="J. G. Deck" />
+  <hymn id="212" author="J. G. Deck" />
+  <hymn id="213" author="J. G. Deck" />
+  <hymn id="214" author="J. G. Deck" />
+  <hymn id="215" author="J. G. Deck" />
+  <hymn id="216" author="J. G. Deck" />
+  <hymn id="217" author="Susannah Harrison, 1779" />
+  <hymn id="218" author="J. G. Deck" />
+  <hymn id="219" author="J. G. Deck" />
+  <hymn id="220" author="C.Wesley" />
+  <hymn id="221" author="T. Kelly" />
+  <hymn id="222" author="J.Wilson Smith" />
+  <hymn id="223" author="R. Chapman" />
+  <hymn id="224" author="R. Viney" />
+  <hymn id="225" author="Denham" />
+  <hymn id="226" author="T. Kelly" />
+  <hymn id="227" author="Dr. Rossier, tr. by Miss Wellesley" />
+  <hymn id="228" author="Watts, 1709" />
+  <hymn id="229" author="R. Chapman" />
+  <hymn id="230" author="J. G. Deck" />
+  <hymn id="231" author="Mary Bowley" />
+  <hymn id="232" author="Toplady, 1776" />
+  <hymn id="233" author="T. Kelly" />
+  <hymn id="234" author="J. G. Deck" />
+  <hymn id="235" author="J.N.D., 1881" />
+  <hymn id="236" author="Doddridge, 1793" />
+  <hymn id="237" author="J. H. Evans" />
+  <hymn id="238" author="John Beaumont" />
+  <hymn id="239" author="James Stennett" />
+  <hymn id="240" author="Tregelles" />
+  <hymn id="241" author="T. Kelly" />
+  <hymn id="242" author="T. Kelly" />
+  <hymn id="243" author="Ryland, 1777" />
+  <hymn id="244" author="G.W. Frazer" />
+  <hymn id="245" author="G.W. Frazer" />
+  <hymn id="246" author="H. Stowell" />
+  <hymn id="247" author="T. Kelly" />
+  <hymn id="248" author="Dr. Hawker" />
+  <hymn id="249" author="J. G. Deck" />
+  <hymn id="250" author="Gambold" />
+  <hymn id="251" author="T.P." />
+  <hymn id="252" author="Jas. Allen, 1757, altered by Shirley" />
+  <hymn id="253" author="Doddridge" />
+  <hymn id="254" author="Mrs. J. A. Trench" />
+  <hymn id="255" author="R. Chapman" />
+  <hymn id="256" author="T. Kelly" />
+  <hymn id="257" author="A. Midlane" />
+  <hymn id="258" author="T. Kelly" />
+  <hymn id="259" author="Tregelles" />
+  <hymn id="260" author="Mrs. Dent" />
+  <hymn id="261" author="H. K. Burlingham" />
+  <hymn id="262" author="T. Kelly" />
+  <hymn id="263" author="T. Kelly" />
+  <hymn id="264" author="Morshead" />
+  <hymn id="265" author="G.W. Frazer" />
+  <hymn id="266" author="Swain" />
+  <hymn id="267" author="Fawcett" />
+  <hymn id="268" author="C.Wesley" />
+  <hymn id="269" author="Watts" />
+  <hymn id="270" author="J.N.D., 1881" />
+  <hymn id="271" author="Watts" />
+  <hymn id="272" author="Wesley" />
+  <hymn id="273" author="Littlewood" />
+  <hymn id="274" author="Paul Gerhardt, tr. by J. Wesley" />
+  <hymn id="275" author="Mary Bowley" />
+  <hymn id="276" author="W.Williams, 1774" />
+  <hymn id="277" author="Unknown Author" />
+  <hymn id="278" author="J. G. Deck" />
+  <hymn id="279" author="Burnham" />
+  <hymn id="280" author="T. Kelly" />
+  <hymn id="281" author="Watts" />
+  <hymn id="282" author="J. G. Deck" />
+  <hymn id="283" author="Watts" />
+  <hymn id="284" author="C.Wesley" />
+  <hymn id="285" author="T. Kelly" />
+  <hymn id="286" author="Mary Bowley" />
+  <hymn id="287" author="H. K. Burlingham" />
+  <hymn id="288" author="Unknown Author" />
+  <hymn id="289" author="R. Chapman" />
+  <hymn id="290" author="T. Kelly" />
+  <hymn id="291" author="Cowper" />
+  <hymn id="292" author="Doddridge" />
+  <hymn id="293" author="Watts" />
+  <hymn id="294" author="Deszler, tr. by Wesley" />
+  <hymn id="295" author="Tregelles" />
+  <hymn id="296" author="C.Wesley" />
+  <hymn id="297" author="Addison, 1729" />
+  <hymn id="298" author="Watts" />
+  <hymn id="299" author="Mary Bowley" />
+  <hymn id="300" author="C.Wesley" />
+  <hymn id="301" author="H. F. Lyte, 1833" />
+  <hymn id="302" author="Mary Bowley" />
+  <hymn id="303" author="J. Newton" />
+  <hymn id="304" author="Mary Bowley" />
+  <hymn id="305" author="Unknown Author" />
+  <hymn id="306" author="Doddridge" />
+  <hymn id="307" author="Dober, tr. by Wesley" />
+  <hymn id="308" author="Doddridge" />
+  <hymn id="309" author="C. Medley" />
+  <hymn id="310" author="Tregelles" />
+  <hymn id="311" author="Charlotte Elizabeth Browne" />
+  <hymn id="312" author="T. Kelly" />
+  <hymn id="313" author="Unknown Author" />
+  <hymn id="314" author="T. Kelly" />
+  <hymn id="315" author="C.Wesley" />
+  <hymn id="316" author="Mary Bowley" />
+  <hymn id="317" author="T. Kelly" />
+  <hymn id="318" author="J. G. Deck" />
+  <hymn id="319" author="H. Bonar" />
+  <hymn id="320" author="W. Trotter" />
+  <hymn id="321" author="W. Trotter" />
+  <hymn id="322" author="Cowper" />
+  <hymn id="323" author="Montgomery, vs. 3 J.N.D." />
+  <hymn id="324" author="George Jekell" />
+  <hymn id="325" author="Tr. by H. K. Burlingham, from German" />
+  <hymn id="326" author="Toplady" />
+  <hymn id="327" author="J. G. Deck" />
+  <hymn id="328" author="Haweis" />
+  <hymn id="329" author="Unknown Author" />
+  <hymn id="330" author="G. V. Wigram" />
+  <hymn id="331" author="J.N.D., 1880" />
+  <hymn id="332" author="Charlotte Elliott, 1841" />
+  <hymn id="333" author="Mary Bowley" />
+  <hymn id="334" author="Mary Bowley" />
+  <hymn id="335" author="Watts" />
+  <hymn id="336" author="Saunders" />
+  <hymn id="337" author="Unknown Author" />
+  <hymn id="338" author="Doddridge" />
+  <hymn id="339" author="Paul Gerhardt" />
+  <hymn id="340" author="Thrupp" />
+  <hymn id="341" author="Doddridge" />
+  <hymn id="1*" author="Gibbons, 1784" />
+  <hymn id="2*" author="J.N.D., 1845" />
+  <hymn id="3*" author="Jane Deck (Mrs. Walker)" />
+  <hymn id="4*" author="Whitlock Gandy" />
+  <hymn id="5*" author="Robinson" />
+  <hymn id="6*" author="T. Kelly" />
+  <hymn id="7*" author="G.W. Frazer" />
+  <hymn id="8*" author="Watts" />
+  <hymn id="9*" author="Sir J.Bowering" />
+  <hymn id="10*" author="J. Newton" />
+  <hymn id="11*" author="Kent" />
+  <hymn id="12*" author="Whitlock Gandy" />
+  <hymn id="13*" author="H. Lyte" />
+  <hymn id="14*" author="Mrs. McKay" />
+  <hymn id="15*" author="G. W. Frazer" />
+  <hymn id="16*" author="H. K. Burlingham, 1865, from German" />
+  <hymn id="17*" author="Chr. Ign. La Trobe" />
+  <hymn id="18*" author="J.N.D., 1872" />
+  <hymn id="19*" author="Miss A. L. Waring" />
+  <hymn id="20*" author="T. Kelly" />
+  <hymn id="21*" author="Unknown Author" />
+  <hymn id="22*" author="A. P. Cecil" />
+  <hymn id="23*" author="J.N.D., 1856" />
+  <hymn id="24*" author="S. O’M Cluff" />
+  <hymn id="25*" author="C. Wesley" />
+  <hymn id="26*" author="H. Bonar" />
+  <hymn id="27*" author="C. Paget" />
+  <hymn id="28*" author="Unknown Author" />
+  <hymn id="29*" author="J. H. Newman" />
+  <hymn id="30*" author="Unknown Author" />
+  <hymn id="31*" author="J. J. Hopkins" />
+  <hymn id="32*" author="De Courcy" />
+  <hymn id="33*" author="Mary Bowley" />
+  <hymn id="34*" author="Doddridge" />
+  <hymn id="35*" author="Mrs. J. A. Trench" />
+  <hymn id="36*" author="Paul Gerhardt" />
+  <hymn id="37*" author="G. W. Frazer" />
+  <hymn id="38*" author="A. G. Spangenburg" />
+  <hymn id="39*" author="Watts" />
+  <hymn id="40*" author="Montgomery" />
+  <hymn id="41*" author="Kent" />
+  <hymn id="42*" author="W.Williams" />
+  <hymn id="43*" author="G. Gilpin" />
+  <hymn id="44*" author="Cowper, 1779" />
+  <hymn id="45*" author="Moravian" />
+  <hymn id="46*" author="G. W. Frazer" />
+  <hymn id="47*" author="H. K. Burlingham" />
+  <hymn id="48*" author="H. K. Burlingham" />
+  <hymn id="49*" author="Miss A. M. Hull" />
+  <hymn id="50*" author="A. P. Cecil" />
+  <hymn id="51*" author="Unknown Author" />
+  <hymn id="52*" author="Jukes" />
+  <hymn id="53*" author="Watts" />
+  <hymn id="54*" author="Hart, 1759" />
+  <hymn id="55*" author="Anna Shipton" />
+  <hymn id="56*" author="Unknown Author" />
+  <hymn id="57*" author="Unknown Author" />
+  <hymn id="58*" author="W. Cameron, 1781" />
+  <hymn id="59*" author="Unknown Author" />
+  <hymn id="60*" author="A. Midlane" />
+  <hymn id="61*" author="Unknown Author" />
+  <hymn id="62*" author="Unknown Author" />
+  <hymn id="63*" author="Midlane" />
+  <hymn id="64*" author="T. Kelly" />
+  <hymn id="65*" author="Unknown Author" />
+  <hymn id="66*" author="G. W. Frazer" />
+  <hymn id="67*" author="Unknown Author" />
+  <hymn id="68*" author="Unknown Author" />
+  <hymn id="69*" author="A. P. Cecil" />
+  <hymn id="70*" author="Mrs. E. Mills, 1829" />
+  <hymn id="71*" author="R. Chapman" />
+  <hymn id="72*" author="Mary Shackleton" />
+  <hymn id="73*" author="H. Bonar" />
+  <hymn id="74*" author="G. W. Frazer" />
+  <hymn id="75*" author="A. Midlane" />
+  <hymn id="76*" author="A. Midlane" />
+  <hymn id="77*" author="Mrs. Cousins" />
+  <hymn id="78*" author="H. K. Burlingham" />
+  <hymn id="79*" author="A. P. Cecil" />
+  <hymn id="80*" author="A. P. Cecil" />
+  <hymn id="81*" author="Unknown Author" />
+  <hymn id="82*" author="Unknown Author" />
+  <hymn id="83*" author="Haweis" />
+  <hymn id="84*" author="Miss M. Nunn" />
+  <hymn id="85*" author="Miss C. Taylor, 1742" />
+</LFHB>

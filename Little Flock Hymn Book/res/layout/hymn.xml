@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="horizontal" android:layout_width="fill_parent"
+	android:layout_height="wrap_content">
+	<TextView android:id="@+id/hymnNumberView" android:layout_weight="1" android:textAppearance="?android:attr/textAppearanceLarge"
+		android:textSize="30sp" android:layout_height="wrap_content" android:text=""
+		android:layout_marginLeft="10dip" android:layout_marginTop="5dip" android:typeface="serif" android:textColor="#DDDDDD" android:layout_width="wrap_content"/>
+		<TextView android:id="@+id/hymnMeterView" android:layout_weight="1" android:textAppearance="?android:attr/textAppearanceLarge"
+		android:textSize="30sp" android:layout_height="wrap_content" android:text=""
+		android:layout_marginLeft="10dip" android:layout_marginTop="5dip" android:typeface="serif" android:textColor="#DDDDDD" android:layout_width="wrap_content"/>
+</LinearLayout>
+	<WebView android:id="@+id/web"
+		android:layout_height="fill_parent"
+		android:layout_width="fill_parent"
+		android:keepScreenOn="true" />
+</LinearLayout>
