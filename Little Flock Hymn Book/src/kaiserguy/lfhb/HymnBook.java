@@ -144,21 +144,12 @@ public class HymnBook {
 				hymnHTML += Integer.toString(s + 1) + "</td><td>";
 				currentStanza = stanzas.get(s);
 				if (defined) {
-					String stanzaText = currentStanza.lines[0] + "<br />";
+					String stanzaText = "";
 					for (int l = 0; l < currentStanza.lines.length; l++) {
-						if (stanzaIndent.length() > 0) {
-							switch (stanzaIndent.charAt(l - 1)) {
-							case '0':
-								stanzaText += currentStanza.lines[l] + "<br />";
-								break;
-							case '1':
-								stanzaText += "&nbsp;" + currentStanza.lines[l]
-										+ "<br />";
-								break;
-							}
-						} else {
-							stanzaText += currentStanza.lines[l] + "<br />";
+						for (int i=0;i < Integer.parseInt(String.valueOf(stanzaIndent.charAt(l)));i++){
+							stanzaText += "&nbsp;";
 						}
+						stanzaText += currentStanza.lines[l] + "<br />";
 					}
 					hymnHTML += stanzaText
 							.replaceAll(
@@ -166,22 +157,13 @@ public class HymnBook {
 									"<a href='http://www.merriam-webster.com/dictionary/$1' style='color:White'>$1</a>");
 				} else {
 					String firstHalf = "";
-					String stanzaText = currentStanza.lines[0] + "<br />";
+					String stanzaText = "";
 
-					for (int l = 1; l < currentStanza.lines.length; l++) {
-						if (stanzaIndent.length() > 0) {
-							switch (stanzaIndent.charAt(l - 1)) {
-							case '0':
-								stanzaText += currentStanza.lines[l] + "<br />";
-								break;
-							case '1':
-								stanzaText += "&nbsp;" + currentStanza.lines[l]
-										+ "<br />";
-								break;
+					for (int l = 0; l < currentStanza.lines.length; l++) {
+							for (int i=0;i < Integer.parseInt(String.valueOf(stanzaIndent.charAt(l)));i++){
+								stanzaText += "&nbsp;";
 							}
-						} else {
 							stanzaText += currentStanza.lines[l] + "<br />";
-						}
 						if (l == (int) (currentStanza.lines.length * 0.5) - 1) {
 							firstHalf = stanzaText;
 							stanzaText = "";
