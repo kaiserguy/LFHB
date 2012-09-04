@@ -159,7 +159,12 @@ public class HymnBook {
 						if (s == 0 && l == 0){
 							// Find first letter and add styling for drop caps
 							String firstLetterCSS = "<span style='float: left;font-size: 2.6em;line-height: 1;margin-right: 0.1em;margin-top: -0.1em;'>";
+							// String firstLetterCSS1 = "<span style='display: block;float: left; margin-top : -0.205em;margin-left : -0.56em; margin-right:0.5em;height:4.5em;'>";
+							// String firstLetterCSS2 = "<span style='font-size: 3.33em; line-height  : 1.0em;'>";
+							String firstWordCSS = "<div style='float: left;text-transform: uppercase;'>";
+							String firstLineCSS = "<span style='margin-left  : -0.5em;'>";
 							int firstLetter = 0;
+							int firstSpace = 0;
 							boolean bad = false;
 							Pattern p = Pattern.compile("[|i“\"’]");
 							
@@ -170,10 +175,19 @@ public class HymnBook {
 								if (p.matcher(letter).find()){ 
 									bad = true; 
 								} 
-							} while(bad); 			
+							} while(bad); 
 							
-							stanzaText += firstLetterCSS + currentStanza.lines[l].substring(0,firstLetter) + "</span>" 
-								+ currentStanza.lines[l].substring(firstLetter) + "<br />";
+							do {
+								bad = false;
+								firstSpace++;
+								if (!(" ".equals(currentStanza.lines[l].substring(firstSpace-1,firstSpace)))){ 
+									bad = true; 
+								} 
+							} while(bad); 
+							
+							stanzaText += firstLetterCSS + currentStanza.lines[l].substring(0,firstLetter) + "</span>";
+							stanzaText += currentStanza.lines[l].substring(firstLetter,firstSpace).toUpperCase();
+							stanzaText += currentStanza.lines[l].substring(firstSpace) + "<br />";
 							//stanzaText += currentStanza.lines[l] + "<br />";	
 						} else{
 							stanzaText += currentStanza.lines[l] + "<br />";	
