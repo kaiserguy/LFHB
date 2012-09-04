@@ -536,8 +536,7 @@ public class HymnBook {
 		}
 
 		if ((isHymnOrMeter || isHymnInAppendix) != true) {
-			patBibleRef = Pattern
-					.compile("([1-3] )?(S.{0,3} of S.{0,6})|([A-Z]\\w+)[.]? (\\d+)[:.](\\d+)");
+			patBibleRef = Pattern.compile("([1-3] )?((S.{0,3} of S.{0,6})|([A-Z]\\w+))[.]? \\d+([:.]\\d+)?");
 			if (patBibleRef.matcher(query).matches()) {
 				isReference = true;
 			}
@@ -592,7 +591,7 @@ public class HymnBook {
 							mReferenceLength = thisStanza.references.length;
 							references = thisStanza.references;
 							for (int iii = 0; iii < mReferenceLength; iii++) {
-								if (references[iii].equals(query)) {
+								if (references[iii].contains(query)) {
 									list.add(thisHymn);
 									break HYMNSEARCH;
 								}
