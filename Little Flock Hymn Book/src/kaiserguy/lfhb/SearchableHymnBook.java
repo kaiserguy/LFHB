@@ -98,25 +98,25 @@ public class SearchableHymnBook extends Activity {
 		  int instructionsSize = 10;
 		  int buttonSize = 20;
 
-		  if (height > 300 && width > 300) {
+		  if (width > 300) {
 			  instructionsSize = 10;
 			  buttonSize = 15;
 		  }
-		  if (height > 400 && width > 400) {
+		  if (width > 400) {
 			  instructionsSize = 20;
 			  buttonSize = 25;
 		  }
-		  if (height > 500 && width > 500) {
+		  if (width > 600) {
 			  instructionsSize = 25;
+			  buttonSize = 25;
+		  }
+		  if (width > 1000) {
+			  instructionsSize = 30;
 			  buttonSize = 30;
 		  }
-		  if (height > 600 && width > 600) {
-			  instructionsSize = 40;
-			  buttonSize = 40;
-		  }
-		  if (height > 800 && width > 800) {
-			  instructionsSize = 60;
-			  buttonSize = 90;
+		  if (width > 1500) {
+			  instructionsSize = 35;
+			  buttonSize = 35;
 		  }
 		  txtHomeInstructions.setTextSize(instructionsSize);
 		  btnSearch.setTextSize(buttonSize);

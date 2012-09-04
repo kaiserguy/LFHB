@@ -110,15 +110,8 @@ public class HymnBook {
 		 * boolean bad = false; Pattern p = Pattern.compile("[|i“’]"); do { bad
 		 * = false; firstLetter++; String letter =
 		 * firstHalf.substring(firstLetter-1,firstLetter); if
-		 * (p.matcher(letter).find()){ bad = true; } } while(bad); firstHalf =
-		 * firstHalf.substring(0,firstLetter-1) +
-		 * firstHalf.substring(firstLetter-1,
-		 * firstHalf.indexOf(" ")).toUpperCase() +
-		 * firstHalf.substring(firstHalf.indexOf(" ")); //firstHalf =
-		 * firstHalf.substring(0,firstLetter-1) +
-		 * "<span style='float: left;font-size: 3em;line-height: 1;margin-right: 0.1em;margin-top: -0.1em;'>"
-		 * + firstHalf.substring(firstLetter-1,firstLetter) + "</span>" +
-		 * firstHalf.substring(firstLetter); firstHalf =
+		 * (p.matcher(letter).find()){ bad = true; } } while(bad); 
+		 * firstHalf =
 		 * "<span style='float: left;font-size: 2.6em;line-height: 1;margin-right: 0.1em;margin-top: -0.1em;'>"
 		 * + firstHalf.substring(0,firstLetter) + "</span>" +
 		 * firstHalf.substring(firstLetter); } hymnHTML += "<span id='" + s +
@@ -158,12 +151,34 @@ public class HymnBook {
 				} else {
 					String firstHalf = "";
 					String stanzaText = "";
-
+					
 					for (int l = 0; l < currentStanza.lines.length; l++) {
-							for (int i=0;i < Integer.parseInt(String.valueOf(stanzaIndent.charAt(l)));i++){
-								stanzaText += "&nbsp;";
-							}
-							stanzaText += currentStanza.lines[l] + "<br />";
+						for (int i=0;i < Integer.parseInt(String.valueOf(stanzaIndent.charAt(l)));i++){
+							stanzaText += "&nbsp;";
+						}
+						if (s == 0 && l == 0){
+							// Find first letter and add styling for drop caps
+							String firstLetterCSS = "<span style='float: left;font-size: 2.6em;line-height: 1;margin-right: 0.1em;margin-top: -0.1em;'>";
+							int firstLetter = 0;
+							boolean bad = false;
+							Pattern p = Pattern.compile("[|i“\"’]");
+							
+							do {
+								bad = false;
+								firstLetter++;
+								String letter = currentStanza.lines[l].substring(firstLetter-1,firstLetter);
+								if (p.matcher(letter).find()){ 
+									bad = true; 
+								} 
+							} while(bad); 			
+							
+							stanzaText += firstLetterCSS + currentStanza.lines[l].substring(0,firstLetter) + "</span>" 
+								+ currentStanza.lines[l].substring(firstLetter) + "<br />";
+							//stanzaText += currentStanza.lines[l] + "<br />";	
+						} else{
+							stanzaText += currentStanza.lines[l] + "<br />";	
+						}
+						
 						if (l == (int) (currentStanza.lines.length * 0.5) - 1) {
 							firstHalf = stanzaText;
 							stanzaText = "";

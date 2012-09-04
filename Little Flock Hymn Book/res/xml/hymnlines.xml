@@ -63,7 +63,7 @@
   <line id="61" HymnID="4" StanzaID="12" LineNum="5" Text="Unfathomable wonder!" ></line>
   <line id="62" HymnID="4" StanzaID="12" LineNum="6" Text="And mystery divine!" ></line>
   <line id="63" HymnID="4" StanzaID="12" LineNum="7" Text="The voice that speaks in thunder" ></line>
-  <line id="64" HymnID="4" StanzaID="12" LineNum="8" Text="Says, &#34;Sinner, I am thine!&#34;" ></line>
+  <line id="64" HymnID="4" StanzaID="12" LineNum="8" Text="Says, &#8220;Sinner, I am thine!&#8221;" ></line>
   <line id="65" HymnID="5" StanzaID="13" LineNum="1" Text="Unto Him who loved us--gave us" ></line>
   <line id="66" HymnID="5" StanzaID="13" LineNum="2" Text="Every pledge that love could give;" ></line>
   <line id="67" HymnID="5" StanzaID="13" LineNum="3" Text="Freely shed His blood to save us;" ></line>
@@ -246,10 +246,10 @@
   <line id="244" HymnID="13" StanzaID="45" LineNum="7" Text="And for the love which now we prove," ></line>
   <line id="245" HymnID="13" StanzaID="45" LineNum="8" Text="Shall praise Thy name forever." ></line>
   <line id="246" HymnID="14" StanzaID="46" LineNum="1" Text="Hark! ten thousand voices crying," ></line>
-  <line id="247" HymnID="14" StanzaID="46" LineNum="2" Text="&#34;Lamb of God!&#34; with one accord;" ></line>
+  <line id="247" HymnID="14" StanzaID="46" LineNum="2" Text="&#8220;Lamb of God!&#8221; with one accord;" ></line>
   <line id="248" HymnID="14" StanzaID="46" LineNum="3" Text="Thousand thousand saints replying," ></line>
   <line id="249" HymnID="14" StanzaID="46" LineNum="4" Text="Wake at once the echoing chord." ></line>
-  <line id="250" HymnID="14" StanzaID="47" LineNum="1" Text="&#34;Praise the Lamb,&#34; the chorus waking," ></line>
+  <line id="250" HymnID="14" StanzaID="47" LineNum="1" Text="&#8220;Praise the Lamb,&#8221; the chorus waking," ></line>
   <line id="251" HymnID="14" StanzaID="47" LineNum="2" Text="All in heaven together throng;" ></line>
   <line id="252" HymnID="14" StanzaID="47" LineNum="3" Text="Loud and far each tongue partaking" ></line>
   <line id="253" HymnID="14" StanzaID="47" LineNum="4" Text="Rolls around the endless song." ></line>
@@ -264,7 +264,7 @@
   <line id="262" HymnID="14" StanzaID="50" LineNum="1" Text="By the Spirit all pervading," ></line>
   <line id="263" HymnID="14" StanzaID="50" LineNum="2" Text="Hosts unnumbered round the Lamb," ></line>
   <line id="264" HymnID="14" StanzaID="50" LineNum="3" Text="Crowned with light and joy unfading," ></line>
-  <line id="265" HymnID="14" StanzaID="50" LineNum="4" Text="Hail Him as the great &#34;I AM.&#34;" ></line>
+  <line id="265" HymnID="14" StanzaID="50" LineNum="4" Text="Hail Him as the great &#8220;I AM.&#8221;" ></line>
   <line id="266" HymnID="14" StanzaID="51" LineNum="1" Text="Joyful now the new creation" ></line>
   <line id="267" HymnID="14" StanzaID="51" LineNum="2" Text="Rests in undisturbed repose," ></line>
   <line id="268" HymnID="14" StanzaID="51" LineNum="3" Text="Blest in Jesus&#39; full salvation," ></line>
@@ -288,7 +288,7 @@
   <line id="286" HymnID="16" StanzaID="56" LineNum="1" Text="Many sons to glory bringing," ></line>
   <line id="287" HymnID="16" StanzaID="56" LineNum="2" Text="God sets forth His heavenly name;" ></line>
   <line id="288" HymnID="16" StanzaID="56" LineNum="3" Text="On we march in chorus singing," ></line>
-  <line id="289" HymnID="16" StanzaID="56" LineNum="4" Text="&#34;Worthy the ascended Lamb!&#34;" ></line>
+  <line id="289" HymnID="16" StanzaID="56" LineNum="4" Text="&#8220;Worthy the ascended Lamb!&#8221;" ></line>
   <line id="290" HymnID="16" StanzaID="57" LineNum="1" Text="God who gave the blood to screen us," ></line>
   <line id="291" HymnID="16" StanzaID="57" LineNum="2" Text="God looks down in perfect love;" ></line>
   <line id="292" HymnID="16" StanzaID="57" LineNum="3" Text="Clouds may seem to pass between us," ></line>
@@ -304,7 +304,7 @@
   <line id="302" HymnID="16" StanzaID="60" LineNum="1" Text="And ere long, when come to glory," ></line>
   <line id="303" HymnID="16" StanzaID="60" LineNum="2" Text="We shall sing a well-known strain," ></line>
   <line id="304" HymnID="16" StanzaID="60" LineNum="3" Text="This the never-tiring story," ></line>
-  <line id="305" HymnID="16" StanzaID="60" LineNum="4" Text="&#34;Worthy is the Lamb once slain!&#34;" ></line>
+  <line id="305" HymnID="16" StanzaID="60" LineNum="4" Text="&#8220;Worthy is the Lamb once slain!&#8221;" ></line>
   <line id="306" HymnID="17" StanzaID="61" LineNum="1" Text="May the grace of Christ our Saviour," ></line>
   <line id="307" HymnID="17" StanzaID="61" LineNum="2" Text="And the Father&#39;s boundless love," ></line>
   <line id="308" HymnID="17" StanzaID="61" LineNum="3" Text="With the Holy Spirit&#39;s favor," ></line>
@@ -339,14 +339,14 @@
   <line id="337" HymnID="20" StanzaID="66" LineNum="2" Text="And give Thee the glory, the honor that&#39;s meet;" ></line>
   <line id="338" HymnID="20" StanzaID="66" LineNum="3" Text="While through Thee, O Saviour, our praises ascend" ></line>
   <line id="339" HymnID="20" StanzaID="66" LineNum="4" Text="And join in the chorus that never shall end." ></line>
-  <line id="340" HymnID="21" StanzaID="67" LineNum="1" Text="&#34;Abba, Father,&#34; we approach Thee" ></line>
+  <line id="340" HymnID="21" StanzaID="67" LineNum="1" Text="&#8220;Abba, Father,&#8221; we approach Thee" ></line>
   <line id="341" HymnID="21" StanzaID="67" LineNum="2" Text="In our Saviour&#39;s precious name;" ></line>
   <line id="342" HymnID="21" StanzaID="67" LineNum="3" Text="We, Thy children, here assembling," ></line>
   <line id="343" HymnID="21" StanzaID="67" LineNum="4" Text="Now the promised blessing claim." ></line>
   <line id="344" HymnID="21" StanzaID="67" LineNum="5" Text="From our guilt His blood has washed us," ></line>
   <line id="345" HymnID="21" StanzaID="67" LineNum="6" Text="&#39;Tis through Him our souls draw nigh;" ></line>
   <line id="346" HymnID="21" StanzaID="67" LineNum="7" Text="And Thy Spirit too has taught us" ></line>
-  <line id="347" HymnID="21" StanzaID="67" LineNum="8" Text="&#34;Abba, Father,&#34; thus to cry." ></line>
+  <line id="347" HymnID="21" StanzaID="67" LineNum="8" Text="&#8220;Abba, Father,&#8221; thus to cry." ></line>
   <line id="348" HymnID="21" StanzaID="68" LineNum="1" Text="Once as prodigals we wandered" ></line>
   <line id="349" HymnID="21" StanzaID="68" LineNum="2" Text="In our folly far from Thee;" ></line>
   <line id="350" HymnID="21" StanzaID="68" LineNum="3" Text="But Thy grace, o&#39;er sin abounding," ></line>
@@ -356,14 +356,14 @@
   <line id="354" HymnID="21" StanzaID="68" LineNum="7" Text="We rejoice, and Thou rejoicest," ></line>
   <line id="355" HymnID="21" StanzaID="68" LineNum="8" Text="In the riches of Thy grace." ></line>
   <line id="356" HymnID="21" StanzaID="69" LineNum="1" Text="Thou the prodigal hast pardoned," ></line>
-  <line id="357" HymnID="21" StanzaID="69" LineNum="2" Text="&#34;Kissed us&#34; with a Father&#39;s love;" ></line>
-  <line id="358" HymnID="21" StanzaID="69" LineNum="3" Text="&#34;Killed the fatted calf,&#34; and called us" ></line>
+  <line id="357" HymnID="21" StanzaID="69" LineNum="2" Text="&#8220;Kissed us&#8221; with a Father&#39;s love;" ></line>
+  <line id="358" HymnID="21" StanzaID="69" LineNum="3" Text="&#8220;Killed the fatted calf,&#8221; and called us" ></line>
   <line id="359" HymnID="21" StanzaID="69" LineNum="4" Text="E&#39;er to dwell with Thee above." ></line>
-  <line id="360" HymnID="21" StanzaID="69" LineNum="5" Text="&#34;It is meet,&#34; we hear Thee saying," ></line>
-  <line id="361" HymnID="21" StanzaID="69" LineNum="6" Text="&#34;We should merry be and glad;" ></line>
+  <line id="360" HymnID="21" StanzaID="69" LineNum="5" Text="&#8220;It is meet,&#8221; we hear Thee saying," ></line>
+  <line id="361" HymnID="21" StanzaID="69" LineNum="6" Text="&#8220;We should merry be and glad;" ></line>
   <line id="362" HymnID="21" StanzaID="69" LineNum="7" Text="I have found My once-lost children," ></line>
-  <line id="363" HymnID="21" StanzaID="69" LineNum="8" Text="Now they live who once were dead.&#34;" ></line>
-  <line id="364" HymnID="21" StanzaID="70" LineNum="1" Text="&#34;Abba, Father!&#34; we adore Thee," ></line>
+  <line id="363" HymnID="21" StanzaID="69" LineNum="8" Text="Now they live who once were dead.&#8221;" ></line>
+  <line id="364" HymnID="21" StanzaID="70" LineNum="1" Text="&#8220;Abba, Father!&#8221; we adore Thee," ></line>
   <line id="365" HymnID="21" StanzaID="70" LineNum="2" Text="While the hosts in heaven above" ></line>
   <line id="366" HymnID="21" StanzaID="70" LineNum="3" Text="E&#39;en in us now learn the wonders" ></line>
   <line id="367" HymnID="21" StanzaID="70" LineNum="4" Text="Of Thy wisdom, grace and love." ></line>
@@ -371,14 +371,14 @@
   <line id="369" HymnID="21" StanzaID="70" LineNum="6" Text="All Thy children shall proclaim" ></line>
   <line id="370" HymnID="21" StanzaID="70" LineNum="7" Text="Abba&#39;s love as shown in Jesus," ></line>
   <line id="371" HymnID="21" StanzaID="70" LineNum="8" Text="And how full is Abba&#39;s name!" ></line>
-  <line id="372" HymnID="22" StanzaID="71" LineNum="1" Text="&#34;How bright, there above, is the mercy of God!&#34;" ></line>
-  <line id="373" HymnID="22" StanzaID="71" LineNum="2" Text="&#34;And void of all guilt, and clear of all sin," ></line>
-  <line id="374" HymnID="22" StanzaID="71" LineNum="3" Text="Is my conscience and heart, through my Saviour&#39;s blood.&#34;" ></line>
-  <line id="375" HymnID="22" StanzaID="71" LineNum="4" Text="&#34;Not a cloud above&#34;--&#34;not a spot within.&#34;" ></line>
-  <line id="376" HymnID="22" StanzaID="72" LineNum="1" Text="Christ died! then I am clean: &#34;Not a spot within.&#34;" ></line>
-  <line id="377" HymnID="22" StanzaID="72" LineNum="2" Text="God&#39;s mercy and love! &#34;Not a cloud above.&#34;" ></line>
+  <line id="372" HymnID="22" StanzaID="71" LineNum="1" Text="&#8220;How bright, there above, is the mercy of God!&#8221;" ></line>
+  <line id="373" HymnID="22" StanzaID="71" LineNum="2" Text="&#8220;And void of all guilt, and clear of all sin," ></line>
+  <line id="374" HymnID="22" StanzaID="71" LineNum="3" Text="Is my conscience and heart, through my Saviour&#39;s blood.&#8221;" ></line>
+  <line id="375" HymnID="22" StanzaID="71" LineNum="4" Text="&#8220;Not a cloud above&#8221;--&#8221;not a spot within.&#8221;" ></line>
+  <line id="376" HymnID="22" StanzaID="72" LineNum="1" Text="Christ died! then I am clean: &#8220;Not a spot within.&#8221;" ></line>
+  <line id="377" HymnID="22" StanzaID="72" LineNum="2" Text="God&#39;s mercy and love! &#8220;Not a cloud above.&#8221;" ></line>
   <line id="378" HymnID="22" StanzaID="72" LineNum="3" Text="&#39;Tis the Spirit, through faith, thus triumphs o&#39;er sin:" ></line>
-  <line id="379" HymnID="22" StanzaID="72" LineNum="4" Text="&#34;Not a cloud above&#34;--&#34;not a spot within.&#34;" ></line>
+  <line id="379" HymnID="22" StanzaID="72" LineNum="4" Text="&#8220;Not a cloud above&#8221;--&#8221;not a spot within.&#8221;" ></line>
   <line id="380" HymnID="23" StanzaID="73" LineNum="1" Text="How good is the God we adore," ></line>
   <line id="381" HymnID="23" StanzaID="73" LineNum="2" Text="Our faithful, unchangeable Friend," ></line>
   <line id="382" HymnID="23" StanzaID="73" LineNum="3" Text="Whose love is as great as His power," ></line>
@@ -478,7 +478,7 @@
   <line id="476" HymnID="28" StanzaID="90" LineNum="5" Text="Every knee in heaven is bending" ></line>
   <line id="477" HymnID="28" StanzaID="90" LineNum="6" Text="To the Lamb for sinners slain;" ></line>
   <line id="478" HymnID="28" StanzaID="90" LineNum="7" Text="Every voice and heart is swelling," ></line>
-  <line id="479" HymnID="28" StanzaID="90" LineNum="8" Text="&#34;Worthy is the Lamb to reign.&#34;" ></line>
+  <line id="479" HymnID="28" StanzaID="90" LineNum="8" Text="&#8220;Worthy is the Lamb to reign.&#8221;" ></line>
   <line id="480" HymnID="28" StanzaID="91" LineNum="1" Text="Lord, in all Thy power and glory" ></line>
   <line id="481" HymnID="28" StanzaID="91" LineNum="2" Text="Still Thy thoughts and eyes are here;" ></line>
   <line id="482" HymnID="28" StanzaID="91" LineNum="3" Text="Watching o&#39;er Thy ransomed people" ></line>
@@ -488,9 +488,9 @@
   <line id="486" HymnID="28" StanzaID="91" LineNum="7" Text="And a blessed rest preparing" ></line>
   <line id="487" HymnID="28" StanzaID="91" LineNum="8" Text="In our Father&#39;s house above." ></line>
   <line id="488" HymnID="28" StanzaID="92" LineNum="1" Text="Lamb of God! Thy faithful promise" ></line>
-  <line id="489" HymnID="28" StanzaID="92" LineNum="2" Text="Says, &#34;Behold, I quickly come&#34;;" ></line>
+  <line id="489" HymnID="28" StanzaID="92" LineNum="2" Text="Says, &#8220;Behold, I quickly come&#8221;;" ></line>
   <line id="490" HymnID="28" StanzaID="92" LineNum="3" Text="And our hearts, to Thine responsive," ></line>
-  <line id="491" HymnID="28" StanzaID="92" LineNum="4" Text="Cry, &#34;Come, Lord, and take us home.&#34;" ></line>
+  <line id="491" HymnID="28" StanzaID="92" LineNum="4" Text="Cry, &#8220;Come, Lord, and take us home.&#8221;" ></line>
   <line id="492" HymnID="28" StanzaID="92" LineNum="5" Text="Oh! the rapture that awaits us" ></line>
   <line id="493" HymnID="28" StanzaID="92" LineNum="6" Text="When we meet Thee in the air," ></line>
   <line id="494" HymnID="28" StanzaID="92" LineNum="7" Text="And with Thee ascend in triumph," ></line>
@@ -598,7 +598,7 @@
   <line id="596" HymnID="34" StanzaID="108" LineNum="1" Text="The Lord is risen: the Lord is gone before," ></line>
   <line id="597" HymnID="34" StanzaID="108" LineNum="2" Text="We long to see Him, and to sin no more." ></line>
   <line id="598" HymnID="34" StanzaID="108" LineNum="3" Text="The Lord is risen: our triumph-shout shall be," ></line>
-  <line id="599" HymnID="34" StanzaID="108" LineNum="4" Text="&#34;Thou hast prevailed! Thy people, Lord, are free!&#34;" ></line>
+  <line id="599" HymnID="34" StanzaID="108" LineNum="4" Text="&#8220;Thou hast prevailed! Thy people, Lord, are free!&#8221;" ></line>
   <line id="600" HymnID="35" StanzaID="109" LineNum="1" Text="Rise, my soul! behold, &#39;tis Jesus," ></line>
   <line id="601" HymnID="35" StanzaID="109" LineNum="2" Text="Jesus fills thy wondering eyes;" ></line>
   <line id="602" HymnID="35" StanzaID="109" LineNum="3" Text="See Him now in glory seated," ></line>
@@ -615,8 +615,8 @@
   <line id="613" HymnID="35" StanzaID="112" LineNum="2" Text="Spreads for thee His feast divine," ></line>
   <line id="614" HymnID="35" StanzaID="112" LineNum="3" Text="Bids thee welcome, ever telling," ></line>
   <line id="615" HymnID="35" StanzaID="112" LineNum="4" Text="What a portion there is thine." ></line>
-  <line id="616" HymnID="35" StanzaID="113" LineNum="1" Text="Blessed, glorious word &#34;forever&#34;--" ></line>
-  <line id="617" HymnID="35" StanzaID="113" LineNum="2" Text="Yea &#34;forever&#34; is the word;" ></line>
+  <line id="616" HymnID="35" StanzaID="113" LineNum="1" Text="Blessed, glorious word &#8220;forever&#8221;--" ></line>
+  <line id="617" HymnID="35" StanzaID="113" LineNum="2" Text="Yea &#8220;forever&#8221; is the word;" ></line>
   <line id="618" HymnID="35" StanzaID="113" LineNum="3" Text="Nothing can the ransomed sever," ></line>
   <line id="619" HymnID="35" StanzaID="113" LineNum="4" Text="Naught divide them from the Lord." ></line>
   <line id="620" HymnID="36" StanzaID="114" LineNum="1" Text="Father, we own Thy sovereign claim" ></line>
@@ -643,8 +643,8 @@
   <line id="641" HymnID="37" StanzaID="117" LineNum="4" Text="His people&#39;s cause to plead:" ></line>
   <line id="642" HymnID="37" StanzaID="117" LineNum="5" Text="He sits in heaven their great High Priest," ></line>
   <line id="643" HymnID="37" StanzaID="117" LineNum="6" Text="And bears their names upon His breast." ></line>
-  <line id="644" HymnID="37" StanzaID="118" LineNum="1" Text="See &#34;sprinkled with the blood" ></line>
-  <line id="645" HymnID="37" StanzaID="118" LineNum="2" Text="The mercy-seat&#34; above;" ></line>
+  <line id="644" HymnID="37" StanzaID="118" LineNum="1" Text="See &#8220;sprinkled with the blood" ></line>
+  <line id="645" HymnID="37" StanzaID="118" LineNum="2" Text="The mercy-seat&#8221; above;" ></line>
   <line id="646" HymnID="37" StanzaID="118" LineNum="3" Text="For justice had withstood" ></line>
   <line id="647" HymnID="37" StanzaID="118" LineNum="4" Text="The purposes of love;" ></line>
   <line id="648" HymnID="37" StanzaID="118" LineNum="5" Text="But justice now withstands no more," ></line>
@@ -786,7 +786,7 @@
   <line id="784" HymnID="45" StanzaID="143" LineNum="1" Text="Till we behold Thee on Thy throne" ></line>
   <line id="785" HymnID="45" StanzaID="143" LineNum="2" Text="In Thee we boast, in Thee alone," ></line>
   <line id="786" HymnID="45" StanzaID="143" LineNum="3" Text="Our beauty this, our glorious dress," ></line>
-  <line id="787" HymnID="45" StanzaID="143" LineNum="4" Text="&#34;Jesus, the Lord, our righteousness.&#34;" ></line>
+  <line id="787" HymnID="45" StanzaID="143" LineNum="4" Text="&#8220;Jesus, the Lord, our righteousness.&#8221;" ></line>
   <line id="788" HymnID="46" StanzaID="144" LineNum="1" Text="Away with our sorrow and fear!" ></line>
   <line id="789" HymnID="46" StanzaID="144" LineNum="2" Text="We soon shall have entered our home," ></line>
   <line id="790" HymnID="46" StanzaID="144" LineNum="3" Text="The heavenly city appear," ></line>
@@ -1076,7 +1076,7 @@
   <line id="1074" HymnID="63" StanzaID="204" LineNum="1" Text="Our sins on the cross He on Calvary bore," ></line>
   <line id="1075" HymnID="63" StanzaID="204" LineNum="2" Text="He blotted them out and they are no more;" ></line>
   <line id="1076" HymnID="63" StanzaID="204" LineNum="3" Text="Now pardoned and wash&#232;d we boldly draw near," ></line>
-  <line id="1077" HymnID="63" StanzaID="204" LineNum="4" Text="And cry, &#34;Abba, Father!&#34; unhindered by fear." ></line>
+  <line id="1077" HymnID="63" StanzaID="204" LineNum="4" Text="And cry, &#8220;Abba, Father!&#8221; unhindered by fear." ></line>
   <line id="1078" HymnID="63" StanzaID="205" LineNum="1" Text="Despised by the world, we&#39;re strangers below," ></line>
   <line id="1079" HymnID="63" StanzaID="205" LineNum="2" Text="But call&#232;d to heaven we cheerfully go;" ></line>
   <line id="1080" HymnID="63" StanzaID="205" LineNum="3" Text="The Lord is our Leader; and, strong in His might," ></line>
@@ -1131,7 +1131,7 @@
   <line id="1129" HymnID="65" StanzaID="217" LineNum="4" Text="For me, and for the saints I love," ></line>
   <line id="1130" HymnID="65" StanzaID="217" LineNum="5" Text="Both here, and with Himself above," ></line>
   <line id="1131" HymnID="65" StanzaID="217" LineNum="6" Text="Doth my renew&#232;d nature move" ></line>
-  <line id="1132" HymnID="65" StanzaID="217" LineNum="7" Text="At that sweet word, &#34;Forever!&#34;" ></line>
+  <line id="1132" HymnID="65" StanzaID="217" LineNum="7" Text="At that sweet word, &#8220;Forever!&#8221;" ></line>
   <line id="1133" HymnID="65" StanzaID="218" LineNum="1" Text="Forever to behold Him shine!" ></line>
   <line id="1134" HymnID="65" StanzaID="218" LineNum="2" Text="Forevermore to call Him mine!" ></line>
   <line id="1135" HymnID="65" StanzaID="218" LineNum="3" Text="And see Him still before me;" ></line>
@@ -1144,8 +1144,8 @@
   <line id="1142" HymnID="65" StanzaID="219" LineNum="3" Text="What will it be in heaven!" ></line>
   <line id="1143" HymnID="65" StanzaID="219" LineNum="4" Text="&#39;Tis heaven on earth that we can say," ></line>
   <line id="1144" HymnID="65" StanzaID="219" LineNum="5" Text="As now we journey, day by day," ></line>
-  <line id="1145" HymnID="65" StanzaID="219" LineNum="6" Text="&#34;Himself has borne our guilt away," ></line>
-  <line id="1146" HymnID="65" StanzaID="219" LineNum="7" Text="Our sins are all forgiven.&#34;" ></line>
+  <line id="1145" HymnID="65" StanzaID="219" LineNum="6" Text="&#8220;Himself has borne our guilt away," ></line>
+  <line id="1146" HymnID="65" StanzaID="219" LineNum="7" Text="Our sins are all forgiven.&#8221;" ></line>
   <line id="1147" HymnID="65" StanzaID="220" LineNum="1" Text="But how will His celestial voice" ></line>
   <line id="1148" HymnID="65" StanzaID="220" LineNum="2" Text="Make each enraptured heart rejoice," ></line>
   <line id="1149" HymnID="65" StanzaID="220" LineNum="3" Text="Of saints in glory near Him!" ></line>
@@ -1176,7 +1176,7 @@
   <line id="1174" HymnID="67" StanzaID="225" LineNum="1" Text="Just as Thou art--nor doubt, nor fear," ></line>
   <line id="1175" HymnID="67" StanzaID="225" LineNum="2" Text="Can e&#39;er to those like Thee be near," ></line>
   <line id="1176" HymnID="67" StanzaID="225" LineNum="3" Text="Oh boundless love! as Thee we&#39;re seen" ></line>
-  <line id="1177" HymnID="67" StanzaID="225" LineNum="4" Text="The &#34;righteousness of God in Him.&#34;" ></line>
+  <line id="1177" HymnID="67" StanzaID="225" LineNum="4" Text="The &#8220;righteousness of God in Him.&#8221;" ></line>
   <line id="1178" HymnID="67" StanzaID="226" LineNum="1" Text="Just as Thou art--oh blissful ray" ></line>
   <line id="1179" HymnID="67" StanzaID="226" LineNum="2" Text="That turned our darkness into day!" ></line>
   <line id="1180" HymnID="67" StanzaID="226" LineNum="3" Text="That woke us from our death of sin" ></line>
@@ -1423,10 +1423,10 @@
   <line id="1421" HymnID="79" StanzaID="281" LineNum="4" Text="The unveiled mystery." ></line>
   <line id="1422" HymnID="80" StanzaID="282" LineNum="1" Text="On earth the song begins;" ></line>
   <line id="1423" HymnID="80" StanzaID="282" LineNum="2" Text="In heaven more sweet and loud--" ></line>
-  <line id="1424" HymnID="80" StanzaID="282" LineNum="3" Text="&#34;To Him that cleansed our sins" ></line>
+  <line id="1424" HymnID="80" StanzaID="282" LineNum="3" Text="&#8220;To Him that cleansed our sins" ></line>
   <line id="1425" HymnID="80" StanzaID="282" LineNum="4" Text="By His atoning blood;" ></line>
-  <line id="1426" HymnID="80" StanzaID="282" LineNum="5" Text="To Him,&#34; we sing in joyful strain," ></line>
-  <line id="1427" HymnID="80" StanzaID="282" LineNum="6" Text="&#34;Be honor, power and praise, Amen.&#34;" ></line>
+  <line id="1426" HymnID="80" StanzaID="282" LineNum="5" Text="To Him,&#8221; we sing in joyful strain," ></line>
+  <line id="1427" HymnID="80" StanzaID="282" LineNum="6" Text="&#8220;Be honor, power and praise, Amen.&#8221;" ></line>
   <line id="1428" HymnID="80" StanzaID="283" LineNum="1" Text="Alone He bare the cross," ></line>
   <line id="1429" HymnID="80" StanzaID="283" LineNum="2" Text="Alone its grief sustained;" ></line>
   <line id="1430" HymnID="80" StanzaID="283" LineNum="3" Text="His was the shame and loss," ></line>
@@ -1548,7 +1548,7 @@
   <line id="1546" HymnID="87" StanzaID="306" LineNum="1" Text="In Jesus, free grace all blessings secures;" ></line>
   <line id="1547" HymnID="87" StanzaID="306" LineNum="2" Text="We know and rejoice that all things are ours;" ></line>
   <line id="1548" HymnID="87" StanzaID="306" LineNum="3" Text="And God from His purpose will never remove," ></line>
-  <line id="1549" HymnID="87" StanzaID="306" LineNum="4" Text="But love us, and bless us, and &#34;rest in His love.&#34;" ></line>
+  <line id="1549" HymnID="87" StanzaID="306" LineNum="4" Text="But love us, and bless us, and &#8220;rest in His love.&#8221;" ></line>
   <line id="1550" HymnID="88" StanzaID="307" LineNum="1" Text="O blessed Saviour, is Thy love" ></line>
   <line id="1551" HymnID="88" StanzaID="307" LineNum="2" Text="So great, so full, so free?" ></line>
   <line id="1552" HymnID="88" StanzaID="307" LineNum="3" Text="Fain would we have our thoughts, our hearts," ></line>
@@ -1639,7 +1639,7 @@
   <line id="1637" HymnID="94" StanzaID="327" LineNum="3" Text="And with Him all the ransomed seed" ></line>
   <line id="1638" HymnID="94" StanzaID="327" LineNum="4" Text="Shall reign in endless day." ></line>
   <line id="1639" HymnID="95" StanzaID="328" LineNum="1" Text="Break forth and sing the song" ></line>
-  <line id="1640" HymnID="95" StanzaID="328" LineNum="2" Text="Of &#34;Glory to the Lamb!&#34;" ></line>
+  <line id="1640" HymnID="95" StanzaID="328" LineNum="2" Text="Of &#8220;Glory to the Lamb!&#8221;" ></line>
   <line id="1641" HymnID="95" StanzaID="328" LineNum="3" Text="Wake every heart and every tongue" ></line>
   <line id="1642" HymnID="95" StanzaID="328" LineNum="4" Text="To praise the Saviour&#39;s name." ></line>
   <line id="1643" HymnID="95" StanzaID="329" LineNum="1" Text="Sing of His dying love;" ></line>
@@ -1651,13 +1651,13 @@
   <line id="1649" HymnID="95" StanzaID="330" LineNum="3" Text="To the ascended Lamb of God," ></line>
   <line id="1650" HymnID="95" StanzaID="330" LineNum="4" Text="Your cheerful praises bring." ></line>
   <line id="1651" HymnID="95" StanzaID="331" LineNum="1" Text="Soon shall we hear Him say," ></line>
-  <line id="1652" HymnID="95" StanzaID="331" LineNum="2" Text="&#34;Ye ransomed pilgrims, come&#34;;" ></line>
+  <line id="1652" HymnID="95" StanzaID="331" LineNum="2" Text="&#8220;Ye ransomed pilgrims, come&#8221;;" ></line>
   <line id="1653" HymnID="95" StanzaID="331" LineNum="3" Text="Soon will He call us hence away," ></line>
   <line id="1654" HymnID="95" StanzaID="331" LineNum="4" Text="And take us to His home." ></line>
   <line id="1655" HymnID="95" StanzaID="332" LineNum="1" Text="Then shall each raptured tongue" ></line>
   <line id="1656" HymnID="95" StanzaID="332" LineNum="2" Text="His fullest praise proclaim;" ></line>
   <line id="1657" HymnID="95" StanzaID="332" LineNum="3" Text="And sweeter voices wake the song" ></line>
-  <line id="1658" HymnID="95" StanzaID="332" LineNum="4" Text="Of &#34;Glory to the Lamb!&#34;" ></line>
+  <line id="1658" HymnID="95" StanzaID="332" LineNum="4" Text="Of &#8220;Glory to the Lamb!&#8221;" ></line>
   <line id="1659" HymnID="96" StanzaID="333" LineNum="1" Text="The Saviour lives, no more to die;" ></line>
   <line id="1660" HymnID="96" StanzaID="333" LineNum="2" Text="He lives, our Head, enthroned on high;" ></line>
   <line id="1661" HymnID="96" StanzaID="333" LineNum="3" Text="He lives triumphant o&#39;er the grave;" ></line>
@@ -1711,39 +1711,39 @@
   <line id="1709" HymnID="99" StanzaID="346" LineNum="1" Text="On Christ salvation rests secure;" ></line>
   <line id="1710" HymnID="99" StanzaID="346" LineNum="2" Text="The Rock of Ages must endure;" ></line>
   <line id="1711" HymnID="99" StanzaID="346" LineNum="3" Text="Nor can that faith be overthrown" ></line>
-  <line id="1712" HymnID="99" StanzaID="346" LineNum="4" Text="Which rests upon the &#34;Living Stone.&#34;" ></line>
+  <line id="1712" HymnID="99" StanzaID="346" LineNum="4" Text="Which rests upon the &#8220;Living Stone.&#8221;" ></line>
   <line id="1713" HymnID="99" StanzaID="347" LineNum="1" Text="No other hope shall intervene:" ></line>
   <line id="1714" HymnID="99" StanzaID="347" LineNum="2" Text="To Him we look, on Him we lean:" ></line>
   <line id="1715" HymnID="99" StanzaID="347" LineNum="3" Text="Other foundations we disown," ></line>
-  <line id="1716" HymnID="99" StanzaID="347" LineNum="4" Text="And build on Christ, the &#34;Living Stone.&#34;" ></line>
+  <line id="1716" HymnID="99" StanzaID="347" LineNum="4" Text="And build on Christ, the &#8220;Living Stone.&#8221;" ></line>
   <line id="1717" HymnID="99" StanzaID="348" LineNum="1" Text="In Him, it is ordained to raise" ></line>
   <line id="1718" HymnID="99" StanzaID="348" LineNum="2" Text="A temple to Jehovah&#39;s praise," ></line>
   <line id="1719" HymnID="99" StanzaID="348" LineNum="3" Text="Composed of all the saints, who own" ></line>
-  <line id="1720" HymnID="99" StanzaID="348" LineNum="4" Text="No Saviour but the &#34;Living Stone.&#34;" ></line>
+  <line id="1720" HymnID="99" StanzaID="348" LineNum="4" Text="No Saviour but the &#8220;Living Stone.&#8221;" ></line>
   <line id="1721" HymnID="99" StanzaID="349" LineNum="1" Text="View the vast building, see it rise;" ></line>
   <line id="1722" HymnID="99" StanzaID="349" LineNum="2" Text="The work how great! the plan how wise!" ></line>
   <line id="1723" HymnID="99" StanzaID="349" LineNum="3" Text="Oh wondrous fabric! power unknown!" ></line>
-  <line id="1724" HymnID="99" StanzaID="349" LineNum="4" Text="That rears it on the &#34;Living Stone.&#34;" ></line>
+  <line id="1724" HymnID="99" StanzaID="349" LineNum="4" Text="That rears it on the &#8220;Living Stone.&#8221;" ></line>
   <line id="1725" HymnID="99" StanzaID="350" LineNum="1" Text="But most adore His precious name;" ></line>
   <line id="1726" HymnID="99" StanzaID="350" LineNum="2" Text="His glory and His grace proclaim;" ></line>
   <line id="1727" HymnID="99" StanzaID="350" LineNum="3" Text="For us, condemned, despised, undone," ></line>
-  <line id="1728" HymnID="99" StanzaID="350" LineNum="4" Text="He gave Himself, the &#34;Living Stone.&#34;" ></line>
+  <line id="1728" HymnID="99" StanzaID="350" LineNum="4" Text="He gave Himself, the &#8220;Living Stone.&#8221;" ></line>
   <line id="1729" HymnID="100" StanzaID="351" LineNum="1" Text="Now in a song of grateful praise," ></line>
   <line id="1730" HymnID="100" StanzaID="351" LineNum="2" Text="To our dear Lord the voice we&#39;ll raise;" ></line>
   <line id="1731" HymnID="100" StanzaID="351" LineNum="3" Text="With all His saints we&#39;ll join to tell," ></line>
-  <line id="1732" HymnID="100" StanzaID="351" LineNum="4" Text="&#34;Our Jesus hath done all things well.&#34;" ></line>
+  <line id="1732" HymnID="100" StanzaID="351" LineNum="4" Text="&#8220;Our Jesus hath done all things well.&#8221;" ></line>
   <line id="1733" HymnID="100" StanzaID="352" LineNum="1" Text="All worlds His glorious power confess," ></line>
   <line id="1734" HymnID="100" StanzaID="352" LineNum="2" Text="His wisdom all His works express;" ></line>
   <line id="1735" HymnID="100" StanzaID="352" LineNum="3" Text="But oh, His love--what tongue can tell?" ></line>
-  <line id="1736" HymnID="100" StanzaID="352" LineNum="4" Text="&#34;Our Jesus hath done all things well.&#34;" ></line>
+  <line id="1736" HymnID="100" StanzaID="352" LineNum="4" Text="&#8220;Our Jesus hath done all things well.&#8221;" ></line>
   <line id="1737" HymnID="100" StanzaID="353" LineNum="1" Text="And since our souls have known His love," ></line>
   <line id="1738" HymnID="100" StanzaID="353" LineNum="2" Text="What mercies has He made us prove," ></line>
   <line id="1739" HymnID="100" StanzaID="353" LineNum="3" Text="Mercies which all our praise excel;" ></line>
-  <line id="1740" HymnID="100" StanzaID="353" LineNum="4" Text="&#34;Our Jesus hath done all things well.&#34;" ></line>
+  <line id="1740" HymnID="100" StanzaID="353" LineNum="4" Text="&#8220;Our Jesus hath done all things well.&#8221;" ></line>
   <line id="1741" HymnID="100" StanzaID="354" LineNum="1" Text="And when on that bright day we rise," ></line>
   <line id="1742" HymnID="100" StanzaID="354" LineNum="2" Text="And join the anthems of the skies," ></line>
   <line id="1743" HymnID="100" StanzaID="354" LineNum="3" Text="In heavenly songs this note shall swell," ></line>
-  <line id="1744" HymnID="100" StanzaID="354" LineNum="4" Text="&#34;Our Jesus hath done all things well.&#34;" ></line>
+  <line id="1744" HymnID="100" StanzaID="354" LineNum="4" Text="&#8220;Our Jesus hath done all things well.&#8221;" ></line>
   <line id="1745" HymnID="101" StanzaID="355" LineNum="1" Text="We bless Thee, O Thou great Amen!" ></line>
   <line id="1746" HymnID="101" StanzaID="355" LineNum="2" Text="Jehovah&#39;s pledge to sinful men," ></line>
   <line id="1747" HymnID="101" StanzaID="355" LineNum="3" Text="Confirming all His word!" ></line>
@@ -1763,7 +1763,7 @@
   <line id="1761" HymnID="101" StanzaID="357" LineNum="5" Text="Of life eternal, from His hand," ></line>
   <line id="1762" HymnID="101" StanzaID="357" LineNum="6" Text="To all in Thee the Son." ></line>
   <line id="1763" HymnID="101" StanzaID="358" LineNum="1" Text="Gladly His promises we hear," ></line>
-  <line id="1764" HymnID="101" StanzaID="358" LineNum="2" Text="For God&#39;s &#34;Amen&#34; dispels all fear," ></line>
+  <line id="1764" HymnID="101" StanzaID="358" LineNum="2" Text="For God&#39;s &#8220;Amen&#8221; dispels all fear," ></line>
   <line id="1765" HymnID="101" StanzaID="358" LineNum="3" Text="His faithfulness it proves;" ></line>
   <line id="1766" HymnID="101" StanzaID="358" LineNum="4" Text="And while such grace from God is shown," ></line>
   <line id="1767" HymnID="101" StanzaID="358" LineNum="5" Text="To His Amen we add our own," ></line>
@@ -1772,10 +1772,10 @@
   <line id="1770" HymnID="102" StanzaID="359" LineNum="2" Text="And thus approach the throne:" ></line>
   <line id="1771" HymnID="102" StanzaID="359" LineNum="3" Text="Had we ten thousand thousand tongues," ></line>
   <line id="1772" HymnID="102" StanzaID="359" LineNum="4" Text="Our theme of joy&#39;s but one:" ></line>
-  <line id="1773" HymnID="102" StanzaID="360" LineNum="1" Text="&#34;Worthy the Lamb that&#39;s gone on high" ></line>
-  <line id="1774" HymnID="102" StanzaID="360" LineNum="2" Text="To be exalted thus&#34;;" ></line>
-  <line id="1775" HymnID="102" StanzaID="360" LineNum="3" Text="&#34;Worthy the Lamb that died,&#34; we cry," ></line>
-  <line id="1776" HymnID="102" StanzaID="360" LineNum="4" Text="&#34;For He was slain for us.&#34;" ></line>
+  <line id="1773" HymnID="102" StanzaID="360" LineNum="1" Text="&#8220;Worthy the Lamb that&#39;s gone on high" ></line>
+  <line id="1774" HymnID="102" StanzaID="360" LineNum="2" Text="To be exalted thus&#8221;;" ></line>
+  <line id="1775" HymnID="102" StanzaID="360" LineNum="3" Text="&#8220;Worthy the Lamb that died,&#8221; we cry," ></line>
+  <line id="1776" HymnID="102" StanzaID="360" LineNum="4" Text="&#8220;For He was slain for us.&#8221;" ></line>
   <line id="1777" HymnID="102" StanzaID="361" LineNum="1" Text="Jesus is worthy to receive" ></line>
   <line id="1778" HymnID="102" StanzaID="361" LineNum="2" Text="Honor and power divine:" ></line>
   <line id="1779" HymnID="102" StanzaID="361" LineNum="3" Text="And blessings more than we can give" ></line>
@@ -1804,10 +1804,10 @@
   <line id="1802" HymnID="103" StanzaID="367" LineNum="2" Text="His praises our tongues shall employ" ></line>
   <line id="1803" HymnID="103" StanzaID="367" LineNum="3" Text="Till heavenly anthems we bring" ></line>
   <line id="1804" HymnID="103" StanzaID="367" LineNum="4" Text="In yonder bright regions of joy." ></line>
-  <line id="1805" HymnID="104" StanzaID="368" LineNum="1" Text="&#34;Abba,&#34; Father--thus we call Thee," ></line>
+  <line id="1805" HymnID="104" StanzaID="368" LineNum="1" Text="&#8220;Abba,&#8221; Father--thus we call Thee," ></line>
   <line id="1806" HymnID="104" StanzaID="368" LineNum="2" Text="(Hallowed name!) from day to day;" ></line>
   <line id="1807" HymnID="104" StanzaID="368" LineNum="3" Text="&#39;Tis Thy children&#39;s right to know Thee," ></line>
-  <line id="1808" HymnID="104" StanzaID="368" LineNum="4" Text="None but children &#34;Abba&#34; say." ></line>
+  <line id="1808" HymnID="104" StanzaID="368" LineNum="4" Text="None but children &#8220;Abba&#8221; say." ></line>
   <line id="1809" HymnID="104" StanzaID="368" LineNum="5" Text="This high honor we inherit," ></line>
   <line id="1810" HymnID="104" StanzaID="368" LineNum="6" Text="Thy free gift, through Jesus&#39; blood;" ></line>
   <line id="1811" HymnID="104" StanzaID="368" LineNum="7" Text="God the Spirit, with our spirit," ></line>
@@ -1827,7 +1827,7 @@
   <line id="1825" HymnID="104" StanzaID="370" LineNum="5" Text="For in Him we found redemption," ></line>
   <line id="1826" HymnID="104" StanzaID="370" LineNum="6" Text="Grace and glory in the Son;" ></line>
   <line id="1827" HymnID="104" StanzaID="370" LineNum="7" Text="Oh the height and depth of mercy!" ></line>
-  <line id="1828" HymnID="104" StanzaID="370" LineNum="8" Text="&#34;Christ and we, through grace, are one.&#34;" ></line>
+  <line id="1828" HymnID="104" StanzaID="370" LineNum="8" Text="&#8220;Christ and we, through grace, are one.&#8221;" ></line>
   <line id="1829" HymnID="105" StanzaID="371" LineNum="1" Text="Glory, glory everlasting" ></line>
   <line id="1830" HymnID="105" StanzaID="371" LineNum="2" Text="Be to Him who bore the cross," ></line>
   <line id="1831" HymnID="105" StanzaID="371" LineNum="3" Text="Who redeemed our souls by tasting" ></line>
@@ -1842,8 +1842,8 @@
   <line id="1840" HymnID="105" StanzaID="372" LineNum="6" Text="Magnify the sinner&#39;s Friend." ></line>
   <line id="1841" HymnID="105" StanzaID="373" LineNum="1" Text="While we tell the wondrous story" ></line>
   <line id="1842" HymnID="105" StanzaID="373" LineNum="2" Text="Of the Saviour&#39;s cross and shame," ></line>
-  <line id="1843" HymnID="105" StanzaID="373" LineNum="3" Text="Sing we, &#34;Everlasting glory" ></line>
-  <line id="1844" HymnID="105" StanzaID="373" LineNum="4" Text="Be to God and to the Lamb.&#34;" ></line>
+  <line id="1843" HymnID="105" StanzaID="373" LineNum="3" Text="Sing we, &#8220;Everlasting glory" ></line>
+  <line id="1844" HymnID="105" StanzaID="373" LineNum="4" Text="Be to God and to the Lamb.&#8221;" ></line>
   <line id="1845" HymnID="105" StanzaID="373" LineNum="5" Text="Hallelujah!" ></line>
   <line id="1846" HymnID="105" StanzaID="373" LineNum="6" Text="Give ye glory to His name." ></line>
   <line id="1847" HymnID="106" StanzaID="374" LineNum="1" Text="O Lord! &#39;tis joy to look above," ></line>
@@ -2045,7 +2045,7 @@
   <line id="2043" HymnID="114" StanzaID="407" LineNum="3" Text="Our names to Thee is bringing," ></line>
   <line id="2044" HymnID="114" StanzaID="407" LineNum="4" Text="Nor e&#39;er forgets the least;" ></line>
   <line id="2045" HymnID="114" StanzaID="407" LineNum="5" Text="For us He wears the mitre," ></line>
-  <line id="2046" HymnID="114" StanzaID="407" LineNum="6" Text="Where &#34;holiness&#34; shines bright," ></line>
+  <line id="2046" HymnID="114" StanzaID="407" LineNum="6" Text="Where &#8220;holiness&#8221; shines bright," ></line>
   <line id="2047" HymnID="114" StanzaID="407" LineNum="7" Text="For us His robes are whiter" ></line>
   <line id="2048" HymnID="114" StanzaID="407" LineNum="8" Text="Than heaven&#39;s unsullied light." ></line>
   <line id="2049" HymnID="115" StanzaID="408" LineNum="1" Text="Head of the church, Thy body," ></line>
@@ -2166,7 +2166,7 @@
   <line id="2164" HymnID="120" StanzaID="428" LineNum="4" Text="Rejoice! rejoice! the tidings hear!" ></line>
   <line id="2165" HymnID="120" StanzaID="428" LineNum="5" Text="He bore, that we might never bear," ></line>
   <line id="2166" HymnID="120" StanzaID="428" LineNum="6" Text="Th&#39; Almighty&#39;s righteous ire." ></line>
-  <line id="2167" HymnID="120" StanzaID="429" LineNum="1" Text="Ye saints, &#34;the Man of sorrows&#34; bless," ></line>
+  <line id="2167" HymnID="120" StanzaID="429" LineNum="1" Text="Ye saints, &#8220;the Man of sorrows&#8221; bless," ></line>
   <line id="2168" HymnID="120" StanzaID="429" LineNum="2" Text="The Lord, for your unrighteousness" ></line>
   <line id="2169" HymnID="120" StanzaID="429" LineNum="3" Text="Deputed to atone;" ></line>
   <line id="2170" HymnID="120" StanzaID="429" LineNum="4" Text="Praise, till with all the ransomed throng" ></line>
@@ -2183,7 +2183,7 @@
   <line id="2181" HymnID="121" StanzaID="432" LineNum="1" Text="This we know, and cease to mourn," ></line>
   <line id="2182" HymnID="121" StanzaID="432" LineNum="2" Text="Patient wait His sure return:" ></line>
   <line id="2183" HymnID="121" StanzaID="432" LineNum="3" Text="For His saints with Him shall reign--" ></line>
-  <line id="2184" HymnID="121" StanzaID="432" LineNum="4" Text="&#34;Come, Lord Jesus, come! Amen!&#34;" ></line>
+  <line id="2184" HymnID="121" StanzaID="432" LineNum="4" Text="&#8220;Come, Lord Jesus, come! Amen!&#8221;" ></line>
   <line id="2185" HymnID="122" StanzaID="433" LineNum="1" Text="Jesus, Thou glorious Priest and King!" ></line>
   <line id="2186" HymnID="122" StanzaID="433" LineNum="2" Text="Accept the tribute that we bring;" ></line>
   <line id="2187" HymnID="122" StanzaID="433" LineNum="3" Text="Accept the feeble song of praise" ></line>
@@ -2299,7 +2299,7 @@
   <line id="2297" HymnID="128" StanzaID="457" LineNum="1" Text="Soon as the reign of sin began," ></line>
   <line id="2298" HymnID="128" StanzaID="457" LineNum="2" Text="The light of mercy dawned on man," ></line>
   <line id="2299" HymnID="128" StanzaID="457" LineNum="3" Text="When God announced the bless&#232;d news," ></line>
-  <line id="2300" HymnID="128" StanzaID="457" LineNum="4" Text="&#34;The woman&#39;s seed thy head shall bruise.&#34;" ></line>
+  <line id="2300" HymnID="128" StanzaID="457" LineNum="4" Text="&#8220;The woman&#39;s seed thy head shall bruise.&#8221;" ></line>
   <line id="2301" HymnID="128" StanzaID="458" LineNum="1" Text="Brightly it beamed on men forlorn," ></line>
   <line id="2302" HymnID="128" StanzaID="458" LineNum="2" Text="When Christ, the holy child, was born;" ></line>
   <line id="2303" HymnID="128" StanzaID="458" LineNum="3" Text="And brighter still in splendor shone" ></line>
@@ -2361,7 +2361,7 @@
   <line id="2359" HymnID="131" StanzaID="471" LineNum="1" Text="Blest our portion thus to be" ></line>
   <line id="2360" HymnID="131" StanzaID="471" LineNum="2" Text="Glorying in the Trinity;" ></line>
   <line id="2361" HymnID="131" StanzaID="471" LineNum="3" Text="For the gospel from above," ></line>
-  <line id="2362" HymnID="131" StanzaID="471" LineNum="4" Text="For the word that &#34;God is love.&#34;" ></line>
+  <line id="2362" HymnID="131" StanzaID="471" LineNum="4" Text="For the word that &#8220;God is love.&#8221;" ></line>
   <line id="2363" HymnID="132" StanzaID="472" LineNum="1" Text="The person of the Christ," ></line>
   <line id="2364" HymnID="132" StanzaID="472" LineNum="2" Text="Enfolding every grace," ></line>
   <line id="2365" HymnID="132" StanzaID="472" LineNum="3" Text="Once slain, but now alive again," ></line>
@@ -2377,15 +2377,15 @@
   <line id="2375" HymnID="133" StanzaID="475" LineNum="1" Text="Let saints on earth their anthems raise," ></line>
   <line id="2376" HymnID="133" StanzaID="475" LineNum="2" Text="Who taste the Saviour&#39;s grace;" ></line>
   <line id="2377" HymnID="133" StanzaID="475" LineNum="3" Text="Sing, till in heaven they tune His praise," ></line>
-  <line id="2378" HymnID="133" StanzaID="475" LineNum="4" Text="And hail Him &#34;Prince of Peace.&#34;" ></line>
+  <line id="2378" HymnID="133" StanzaID="475" LineNum="4" Text="And hail Him &#8220;Prince of Peace.&#8221;" ></line>
   <line id="2379" HymnID="133" StanzaID="476" LineNum="1" Text="Praise Him who laid His glory by" ></line>
   <line id="2380" HymnID="133" StanzaID="476" LineNum="2" Text="For man&#39;s apostate race;" ></line>
   <line id="2381" HymnID="133" StanzaID="476" LineNum="3" Text="Praise Him who stooped to bleed and die," ></line>
-  <line id="2382" HymnID="133" StanzaID="476" LineNum="4" Text="And hail Him &#34;Prince of Peace.&#34;" ></line>
+  <line id="2382" HymnID="133" StanzaID="476" LineNum="4" Text="And hail Him &#8220;Prince of Peace.&#8221;" ></line>
   <line id="2383" HymnID="133" StanzaID="477" LineNum="1" Text="We soon shall reach the blissful shore," ></line>
   <line id="2384" HymnID="133" StanzaID="477" LineNum="2" Text="And view His glorious face;" ></line>
   <line id="2385" HymnID="133" StanzaID="477" LineNum="3" Text="His name forever to adore," ></line>
-  <line id="2386" HymnID="133" StanzaID="477" LineNum="4" Text="And hail Him &#34;Prince of Peace.&#34;" ></line>
+  <line id="2386" HymnID="133" StanzaID="477" LineNum="4" Text="And hail Him &#8220;Prince of Peace.&#8221;" ></line>
   <line id="2387" HymnID="134" StanzaID="478" LineNum="1" Text="Lord of glory, we adore Thee!" ></line>
   <line id="2388" HymnID="134" StanzaID="478" LineNum="2" Text="Christ of God, ascended high!" ></line>
   <line id="2389" HymnID="134" StanzaID="478" LineNum="3" Text="Heart and soul we bow before Thee," ></line>
@@ -2478,7 +2478,7 @@
   <line id="2476" HymnID="137" StanzaID="494" LineNum="6" Text="Shines now in light on me." ></line>
   <line id="2477" HymnID="138" StanzaID="495" LineNum="1" Text="Soft the voice of mercy sounded," ></line>
   <line id="2478" HymnID="138" StanzaID="495" LineNum="2" Text="Sweet as music to the ear." ></line>
-  <line id="2479" HymnID="138" StanzaID="495" LineNum="3" Text="&#60;I&#62;&#34;Grace abounds where sin abounded&#34;;&#60;i&#62;" ></line>
+  <line id="2479" HymnID="138" StanzaID="495" LineNum="3" Text="&#60;I&#62;&#8221;Grace abounds where sin abounded&#8221;;&#60;i&#62;" ></line>
   <line id="2480" HymnID="138" StanzaID="495" LineNum="4" Text="This the word that soothed our fear." ></line>
   <line id="2481" HymnID="138" StanzaID="495" LineNum="5" Text="Grace, the sweetest sound we know," ></line>
   <line id="2482" HymnID="138" StanzaID="495" LineNum="6" Text="Grace to sinners here below." ></line>
@@ -2547,7 +2547,7 @@
   <line id="2545" HymnID="140" StanzaID="508" LineNum="1" Text="O blessed, coming Saviour!" ></line>
   <line id="2546" HymnID="140" StanzaID="508" LineNum="2" Text="Speak, then, the joyous word," ></line>
   <line id="2547" HymnID="140" StanzaID="508" LineNum="3" Text="To which our hearts responding," ></line>
-  <line id="2548" HymnID="140" StanzaID="508" LineNum="4" Text="&#34;Forever with the Lord.&#34;" ></line>
+  <line id="2548" HymnID="140" StanzaID="508" LineNum="4" Text="&#8220;Forever with the Lord.&#8221;" ></line>
   <line id="2549" HymnID="140" StanzaID="508" LineNum="5" Text="Forever with Thee, Saviour--" ></line>
   <line id="2550" HymnID="140" StanzaID="508" LineNum="6" Text="Forevermore shall be--" ></line>
   <line id="2551" HymnID="140" StanzaID="508" LineNum="7" Text="In deepest, fullest blessing," ></line>
@@ -2584,9 +2584,9 @@
   <line id="2582" HymnID="141" StanzaID="512" LineNum="6" Text="As known, be brought to know," ></line>
   <line id="2583" HymnID="141" StanzaID="512" LineNum="7" Text="And with increasing fervor," ></line>
   <line id="2584" HymnID="141" StanzaID="512" LineNum="8" Text="Our ceaseless praises flow." ></line>
-  <line id="2585" HymnID="142" StanzaID="513" LineNum="1" Text="&#34;Glory to God on high!" ></line>
+  <line id="2585" HymnID="142" StanzaID="513" LineNum="1" Text="&#8220;Glory to God on high!" ></line>
   <line id="2586" HymnID="142" StanzaID="513" LineNum="2" Text="Peace upon earth and joy," ></line>
-  <line id="2587" HymnID="142" StanzaID="513" LineNum="3" Text="Good will to man.&#34;" ></line>
+  <line id="2587" HymnID="142" StanzaID="513" LineNum="3" Text="Good will to man.&#8221;" ></line>
   <line id="2588" HymnID="142" StanzaID="513" LineNum="4" Text="We who God&#39;s blessing prove" ></line>
   <line id="2589" HymnID="142" StanzaID="513" LineNum="5" Text="His name all names above," ></line>
   <line id="2590" HymnID="142" StanzaID="513" LineNum="6" Text="Sing now the Saviour&#39;s love," ></line>
@@ -2802,7 +2802,7 @@
   <line id="2800" HymnID="152" StanzaID="553" LineNum="2" Text="It tells Thy birth so lowly," ></line>
   <line id="2801" HymnID="152" StanzaID="553" LineNum="3" Text="Thy patience, grace, Thy gentleness," ></line>
   <line id="2802" HymnID="152" StanzaID="553" LineNum="4" Text="Thy lonely path, so holy;" ></line>
-  <line id="2803" HymnID="152" StanzaID="553" LineNum="5" Text="Thou wast the &#34;Man of sorrows&#34;;" ></line>
+  <line id="2803" HymnID="152" StanzaID="553" LineNum="5" Text="Thou wast the &#8220;Man of sorrows&#8221;;" ></line>
   <line id="2804" HymnID="152" StanzaID="553" LineNum="6" Text="Our grief, too, Thou didst bear it;" ></line>
   <line id="2805" HymnID="152" StanzaID="553" LineNum="7" Text="Our bitter cup Thou drankest up;" ></line>
   <line id="2806" HymnID="152" StanzaID="553" LineNum="8" Text="The thorny crown--didst wear it." ></line>
@@ -2874,19 +2874,19 @@
   <line id="2872" HymnID="155" StanzaID="565" LineNum="4" Text="In everlasting praise!" ></line>
   <line id="2873" HymnID="155" StanzaID="565" LineNum="5" Text="Make us, O Lord, to praise Thee thus" ></line>
   <line id="2874" HymnID="155" StanzaID="565" LineNum="6" Text="For all Thy boundless love to us." ></line>
-  <line id="2875" HymnID="156" StanzaID="566" LineNum="1" Text="&#34;Praise ye the Lord,&#34; again, again," ></line>
+  <line id="2875" HymnID="156" StanzaID="566" LineNum="1" Text="&#8220;Praise ye the Lord,&#8221; again, again," ></line>
   <line id="2876" HymnID="156" StanzaID="566" LineNum="2" Text="The Spirit strikes the chord;" ></line>
   <line id="2877" HymnID="156" StanzaID="566" LineNum="3" Text="Nor toucheth He our hearts in vain;" ></line>
   <line id="2878" HymnID="156" StanzaID="566" LineNum="4" Text="We praise, we praise the Lord." ></line>
-  <line id="2879" HymnID="156" StanzaID="567" LineNum="1" Text="&#34;Rejoice in Him,&#34; again, again," ></line>
+  <line id="2879" HymnID="156" StanzaID="567" LineNum="1" Text="&#8220;Rejoice in Him,&#8221; again, again," ></line>
   <line id="2880" HymnID="156" StanzaID="567" LineNum="2" Text="The Spirit speaks the word," ></line>
   <line id="2881" HymnID="156" StanzaID="567" LineNum="3" Text="And faith takes up the happy strain;" ></line>
   <line id="2882" HymnID="156" StanzaID="567" LineNum="4" Text="Our joy is in the Lord." ></line>
-  <line id="2883" HymnID="156" StanzaID="568" LineNum="1" Text="&#34;Stand fast in Christ&#34;; ah! yet again" ></line>
+  <line id="2883" HymnID="156" StanzaID="568" LineNum="1" Text="&#8220;Stand fast in Christ&#8221;; ah! yet again" ></line>
   <line id="2884" HymnID="156" StanzaID="568" LineNum="2" Text="He teacheth all the band;" ></line>
   <line id="2885" HymnID="156" StanzaID="568" LineNum="3" Text="If human efforts are in vain," ></line>
   <line id="2886" HymnID="156" StanzaID="568" LineNum="4" Text="In Christ it is we stand." ></line>
-  <line id="2887" HymnID="156" StanzaID="569" LineNum="1" Text="&#34;Clean every whit&#34;; Thou saidst it, Lord;" ></line>
+  <line id="2887" HymnID="156" StanzaID="569" LineNum="1" Text="&#8220;Clean every whit&#8221;; Thou saidst it, Lord;" ></line>
   <line id="2888" HymnID="156" StanzaID="569" LineNum="2" Text="Shall one suspicion lurk?" ></line>
   <line id="2889" HymnID="156" StanzaID="569" LineNum="3" Text="Thine, surely, is a faithful word," ></line>
   <line id="2890" HymnID="156" StanzaID="569" LineNum="4" Text="And Thine a finished work." ></line>
@@ -2950,7 +2950,7 @@
   <line id="2948" HymnID="160" StanzaID="578" LineNum="6" Text="We have a sure guide," ></line>
   <line id="2949" HymnID="160" StanzaID="578" LineNum="7" Text="And trust in all dangers" ></line>
   <line id="2950" HymnID="160" StanzaID="578" LineNum="8" Text="The Lord will provide." ></line>
-  <line id="2951" HymnID="161" StanzaID="579" LineNum="1" Text="&#34;Forever with the Lord!&#34;" ></line>
+  <line id="2951" HymnID="161" StanzaID="579" LineNum="1" Text="&#8220;Forever with the Lord!&#8221;" ></line>
   <line id="2952" HymnID="161" StanzaID="579" LineNum="2" Text="Amen! so let it be:" ></line>
   <line id="2953" HymnID="161" StanzaID="579" LineNum="3" Text="Life from the dead is in that word," ></line>
   <line id="2954" HymnID="161" StanzaID="579" LineNum="4" Text="&#39;Tis immortality." ></line>
@@ -3098,8 +3098,8 @@
   <line id="3096" HymnID="168" StanzaID="602" LineNum="4" Text="A rich compensation for suffering and loss." ></line>
   <line id="3097" HymnID="168" StanzaID="603" LineNum="1" Text="What is loss in this world when compared to that day," ></line>
   <line id="3098" HymnID="168" StanzaID="603" LineNum="2" Text="To the glory that then will from heaven be revealed?" ></line>
-  <line id="3099" HymnID="168" StanzaID="603" LineNum="3" Text="&#34;The Saviour is coming,&#34; His people may say;" ></line>
-  <line id="3100" HymnID="168" StanzaID="603" LineNum="4" Text="&#34;The Lord whom we look for, our Sun and our Shield.&#34;" ></line>
+  <line id="3099" HymnID="168" StanzaID="603" LineNum="3" Text="&#8220;The Saviour is coming,&#8221; His people may say;" ></line>
+  <line id="3100" HymnID="168" StanzaID="603" LineNum="4" Text="&#8220;The Lord whom we look for, our Sun and our Shield.&#8221;" ></line>
   <line id="3101" HymnID="168" StanzaID="604" LineNum="1" Text="Oh pardon us, Lord! that our love to Thy name" ></line>
   <line id="3102" HymnID="168" StanzaID="604" LineNum="2" Text="Is so faint, with so much our affections to move!" ></line>
   <line id="3103" HymnID="168" StanzaID="604" LineNum="3" Text="Our coldness might fill us with grief and with shame," ></line>
@@ -3208,25 +3208,25 @@
   <line id="3206" HymnID="172" StanzaID="625" LineNum="2" Text="With an eternal pen," ></line>
   <line id="3207" HymnID="172" StanzaID="625" LineNum="3" Text="That we may, in some small degree," ></line>
   <line id="3208" HymnID="172" StanzaID="625" LineNum="4" Text="Return Thy love again." ></line>
-  <line id="3209" HymnID="173" StanzaID="626" LineNum="1" Text="&#34;A little while&#34;--the Lord shall come," ></line>
+  <line id="3209" HymnID="173" StanzaID="626" LineNum="1" Text="&#8220;A little while&#8221;--the Lord shall come," ></line>
   <line id="3210" HymnID="173" StanzaID="626" LineNum="2" Text="And we shall wander here no more;" ></line>
   <line id="3211" HymnID="173" StanzaID="626" LineNum="3" Text="He&#39;ll take us to His Father&#39;s home," ></line>
   <line id="3212" HymnID="173" StanzaID="626" LineNum="4" Text="Where He for us is gone before--" ></line>
   <line id="3213" HymnID="173" StanzaID="626" LineNum="5" Text="To dwell with Him, to see His face," ></line>
   <line id="3214" HymnID="173" StanzaID="626" LineNum="6" Text="And sing the glories of His grace." ></line>
-  <line id="3215" HymnID="173" StanzaID="627" LineNum="1" Text="&#34;A little while&#34;--He&#39;ll come again," ></line>
+  <line id="3215" HymnID="173" StanzaID="627" LineNum="1" Text="&#8220;A little while&#8221;--He&#39;ll come again," ></line>
   <line id="3216" HymnID="173" StanzaID="627" LineNum="2" Text="Let us the precious hours redeem;" ></line>
   <line id="3217" HymnID="173" StanzaID="627" LineNum="3" Text="Our only grief to give Him pain," ></line>
   <line id="3218" HymnID="173" StanzaID="627" LineNum="4" Text="Our joy to serve and follow Him." ></line>
   <line id="3219" HymnID="173" StanzaID="627" LineNum="5" Text="Watching and ready may we be," ></line>
   <line id="3220" HymnID="173" StanzaID="627" LineNum="6" Text="As those that wait their Lord to see." ></line>
-  <line id="3221" HymnID="173" StanzaID="628" LineNum="1" Text="&#34;A little while&#34;--&#39;twill soon be past," ></line>
+  <line id="3221" HymnID="173" StanzaID="628" LineNum="1" Text="&#8220;A little while&#8221;--&#39;twill soon be past," ></line>
   <line id="3222" HymnID="173" StanzaID="628" LineNum="2" Text="Why should we shun the promised cross?" ></line>
   <line id="3223" HymnID="173" StanzaID="628" LineNum="3" Text="Oh let us in His footsteps haste," ></line>
   <line id="3224" HymnID="173" StanzaID="628" LineNum="4" Text="Counting for Him all else but loss!" ></line>
   <line id="3225" HymnID="173" StanzaID="628" LineNum="5" Text="For how will recompense His smile," ></line>
-  <line id="3226" HymnID="173" StanzaID="628" LineNum="6" Text="The sufferings of this &#34;little while.&#34;" ></line>
-  <line id="3227" HymnID="173" StanzaID="629" LineNum="1" Text="&#34;A little while&#34;--come, Saviour, come!" ></line>
+  <line id="3226" HymnID="173" StanzaID="628" LineNum="6" Text="The sufferings of this &#8220;little while.&#8221;" ></line>
+  <line id="3227" HymnID="173" StanzaID="629" LineNum="1" Text="&#8220;A little while&#8221;--come, Saviour, come!" ></line>
   <line id="3228" HymnID="173" StanzaID="629" LineNum="2" Text="For Thee Thy bride has tarried long:" ></line>
   <line id="3229" HymnID="173" StanzaID="629" LineNum="3" Text="Take Thy poor, waiting pilgrims home," ></line>
   <line id="3230" HymnID="173" StanzaID="629" LineNum="4" Text="To sing the new eternal song," ></line>
@@ -3249,7 +3249,7 @@
   <line id="3247" HymnID="175" StanzaID="633" LineNum="3" Text="The sinner&#39;s Hope--let men deride;" ></line>
   <line id="3248" HymnID="175" StanzaID="633" LineNum="4" Text="For this we count the world but loss." ></line>
   <line id="3249" HymnID="175" StanzaID="634" LineNum="1" Text="Inscribed upon the cross we see," ></line>
-  <line id="3250" HymnID="175" StanzaID="634" LineNum="2" Text="In shining letters, &#34;God is love!&#34;" ></line>
+  <line id="3250" HymnID="175" StanzaID="634" LineNum="2" Text="In shining letters, &#8220;God is love!&#8221;" ></line>
   <line id="3251" HymnID="175" StanzaID="634" LineNum="3" Text="The Lamb who died upon the tree" ></line>
   <line id="3252" HymnID="175" StanzaID="634" LineNum="4" Text="Has brought us mercy from above." ></line>
   <line id="3253" HymnID="175" StanzaID="635" LineNum="1" Text="The Cross! it took our guilt away," ></line>
@@ -3437,7 +3437,7 @@
   <line id="3435" HymnID="183" StanzaID="671" LineNum="5" Text="In Thy presence" ></line>
   <line id="3436" HymnID="183" StanzaID="671" LineNum="6" Text="Nothing shall our peace molest." ></line>
   <line id="3437" HymnID="183" StanzaID="672" LineNum="1" Text="Lord, we wait for Thine appearing;" ></line>
-  <line id="3438" HymnID="183" StanzaID="672" LineNum="2" Text="&#34;Tarry not,&#34; Thy people say;" ></line>
+  <line id="3438" HymnID="183" StanzaID="672" LineNum="2" Text="&#8220;Tarry not,&#8221; Thy people say;" ></line>
   <line id="3439" HymnID="183" StanzaID="672" LineNum="3" Text="Bright the prospect is, and cheering," ></line>
   <line id="3440" HymnID="183" StanzaID="672" LineNum="4" Text="Of beholding Thee that day;" ></line>
   <line id="3441" HymnID="183" StanzaID="672" LineNum="5" Text="When our sorrow" ></line>
@@ -3668,7 +3668,7 @@
   <line id="3666" HymnID="193" StanzaID="714" LineNum="4" Text="I nothing am, yet all possess." ></line>
   <line id="3667" HymnID="193" StanzaID="715" LineNum="1" Text="O Saviour, teach me to abide" ></line>
   <line id="3668" HymnID="193" StanzaID="715" LineNum="2" Text="Close sheltered at Thy wounded side," ></line>
-  <line id="3669" HymnID="193" StanzaID="715" LineNum="3" Text="Each hour receiving &#34;grace on grace,&#34;" ></line>
+  <line id="3669" HymnID="193" StanzaID="715" LineNum="3" Text="Each hour receiving &#8220;grace on grace,&#8221;" ></line>
   <line id="3670" HymnID="193" StanzaID="715" LineNum="4" Text="Until I see Thee face to face." ></line>
   <line id="3671" HymnID="194" StanzaID="716" LineNum="1" Text="May the Saviour&#39;s love and merit" ></line>
   <line id="3672" HymnID="194" StanzaID="716" LineNum="2" Text="Fill our hearts both night and day," ></line>
@@ -3699,7 +3699,7 @@
   <line id="3697" HymnID="196" StanzaID="722" LineNum="3" Text="Which in the Saviour shine:" ></line>
   <line id="3698" HymnID="196" StanzaID="722" LineNum="4" Text="To God and Christ our praises bring:" ></line>
   <line id="3699" HymnID="196" StanzaID="722" LineNum="5" Text="The song with which high heaven will ring," ></line>
-  <line id="3700" HymnID="196" StanzaID="722" LineNum="6" Text="&#34;Praises for grace divine.&#34;" ></line>
+  <line id="3700" HymnID="196" StanzaID="722" LineNum="6" Text="&#8220;Praises for grace divine.&#8221;" ></line>
   <line id="3701" HymnID="196" StanzaID="723" LineNum="1" Text="How rich the precious blood He spilt," ></line>
   <line id="3702" HymnID="196" StanzaID="723" LineNum="2" Text="Our ransom from the dreadful guilt" ></line>
   <line id="3703" HymnID="196" StanzaID="723" LineNum="3" Text="Of sin against our God;" ></line>
@@ -3936,11 +3936,11 @@
   <line id="3934" HymnID="209" StanzaID="775" LineNum="2" Text="We&#39;d always trust in Thee," ></line>
   <line id="3935" HymnID="209" StanzaID="775" LineNum="3" Text="Till we have left this weary land," ></line>
   <line id="3936" HymnID="209" StanzaID="775" LineNum="4" Text="And all Thy glory see." ></line>
-  <line id="3937" HymnID="210" StanzaID="776" LineNum="1" Text="&#34;One spirit with the Lord&#34;;" ></line>
+  <line id="3937" HymnID="210" StanzaID="776" LineNum="1" Text="&#8220;One spirit with the Lord&#8221;;" ></line>
   <line id="3938" HymnID="210" StanzaID="776" LineNum="2" Text="Oh bless&#232;d, wondrous word!" ></line>
   <line id="3939" HymnID="210" StanzaID="776" LineNum="3" Text="What heavenly light, what power divine," ></line>
   <line id="3940" HymnID="210" StanzaID="776" LineNum="4" Text="Doth that sweet word afford!" ></line>
-  <line id="3941" HymnID="210" StanzaID="777" LineNum="1" Text="&#34;One spirit with the Lord&#34;;" ></line>
+  <line id="3941" HymnID="210" StanzaID="777" LineNum="1" Text="&#8220;One spirit with the Lord&#8221;;" ></line>
   <line id="3942" HymnID="210" StanzaID="777" LineNum="2" Text="Jesus, the glorified," ></line>
   <line id="3943" HymnID="210" StanzaID="777" LineNum="3" Text="Esteems the church for which He bled," ></line>
   <line id="3944" HymnID="210" StanzaID="777" LineNum="4" Text="His body and His bride." ></line>
@@ -3984,10 +3984,10 @@
   <line id="3982" HymnID="212" StanzaID="784" LineNum="2" Text="And each with all shall all the ransomed greet," ></line>
   <line id="3983" HymnID="212" StanzaID="784" LineNum="3" Text="But oh! the height of bliss, my Lord, shall be" ></line>
   <line id="3984" HymnID="212" StanzaID="784" LineNum="4" Text="To owe it all, and share it all, with Thee." ></line>
-  <line id="3985" HymnID="212" StanzaID="785" LineNum="1" Text="Thou wast &#34;the image,&#34; in man&#39;s lowly guise," ></line>
+  <line id="3985" HymnID="212" StanzaID="785" LineNum="1" Text="Thou wast &#8220;the image,&#8221; in man&#39;s lowly guise," ></line>
   <line id="3986" HymnID="212" StanzaID="785" LineNum="2" Text="Of the invisible to mortal eyes;" ></line>
   <line id="3987" HymnID="212" StanzaID="785" LineNum="3" Text="Come from His bosom, from the heavens above," ></line>
-  <line id="3988" HymnID="212" StanzaID="785" LineNum="4" Text="We see in Thee incarnate, &#34;God is love.&#34;" ></line>
+  <line id="3988" HymnID="212" StanzaID="785" LineNum="4" Text="We see in Thee incarnate, &#8220;God is love.&#8221;" ></line>
   <line id="3989" HymnID="212" StanzaID="786" LineNum="1" Text="Thy lips the Father&#39;s name to us reveal;" ></line>
   <line id="3990" HymnID="212" StanzaID="786" LineNum="2" Text="What burning power in all Thy words we feel," ></line>
   <line id="3991" HymnID="212" StanzaID="786" LineNum="3" Text="When to our raptured hearts we hear Thee tell" ></line>
@@ -4010,7 +4010,7 @@
   <line id="4008" HymnID="213" StanzaID="790" LineNum="4" Text="Was slain in His love for us;" ></line>
   <line id="4009" HymnID="213" StanzaID="790" LineNum="5" Text="How our hearts have stirred at that solemn cry," ></line>
   <line id="4010" HymnID="213" StanzaID="790" LineNum="6" Text="While the sun was enwrapt in night," ></line>
-  <line id="4011" HymnID="213" StanzaID="790" LineNum="7" Text="&#34;Eli, Eli, lama sabachthani?&#34;" ></line>
+  <line id="4011" HymnID="213" StanzaID="790" LineNum="7" Text="&#8220;Eli, Eli, lama sabachthani?&#8221;" ></line>
   <line id="4012" HymnID="213" StanzaID="790" LineNum="8" Text="Most blessed, most awful sight." ></line>
   <line id="4013" HymnID="213" StanzaID="791" LineNum="1" Text="Our sins were laid on His sacred head," ></line>
   <line id="4014" HymnID="213" StanzaID="791" LineNum="2" Text="The curse by our Lord was borne;" ></line>
@@ -4082,7 +4082,7 @@
   <line id="4080" HymnID="215" StanzaID="800" LineNum="4" Text="What shame, what grief, what joy we prove," ></line>
   <line id="4081" HymnID="215" StanzaID="800" LineNum="5" Text="That He should die for us!" ></line>
   <line id="4082" HymnID="215" StanzaID="800" LineNum="6" Text="Our hearts were broken by that cry," ></line>
-  <line id="4083" HymnID="215" StanzaID="800" LineNum="7" Text="&#34;Eli, lama sabachthani?&#34;" ></line>
+  <line id="4083" HymnID="215" StanzaID="800" LineNum="7" Text="&#8220;Eli, lama sabachthani?&#8221;" ></line>
   <line id="4084" HymnID="215" StanzaID="801" LineNum="1" Text="Worthy of death, O Lord, we were;" ></line>
   <line id="4085" HymnID="215" StanzaID="801" LineNum="2" Text="That vengeance was our due;" ></line>
   <line id="4086" HymnID="215" StanzaID="801" LineNum="3" Text="In grace Thy spotless Lamb did bear" ></line>
@@ -4096,7 +4096,7 @@
   <line id="4094" HymnID="215" StanzaID="802" LineNum="4" Text="Shall with Him in His glories shine," ></line>
   <line id="4095" HymnID="215" StanzaID="802" LineNum="5" Text="His church&#39;s living Head!" ></line>
   <line id="4096" HymnID="215" StanzaID="802" LineNum="6" Text="We, who were worthy but to die," ></line>
-  <line id="4097" HymnID="215" StanzaID="802" LineNum="7" Text="Now with Him, &#34;Abba, Father,&#34; cry." ></line>
+  <line id="4097" HymnID="215" StanzaID="802" LineNum="7" Text="Now with Him, &#8220;Abba, Father,&#8221; cry." ></line>
   <line id="4098" HymnID="216" StanzaID="803" LineNum="1" Text="Lord, we rejoice that Thou art gone" ></line>
   <line id="4099" HymnID="216" StanzaID="803" LineNum="2" Text="To sit upon Thy Father&#39;s throne;" ></line>
   <line id="4100" HymnID="216" StanzaID="803" LineNum="3" Text="Thy path of shame and suffering o&#39;er," ></line>
@@ -4395,7 +4395,7 @@
   <line id="4393" HymnID="231" StanzaID="861" LineNum="1" Text="With fellow-pilgrims meeting," ></line>
   <line id="4394" HymnID="231" StanzaID="861" LineNum="2" Text="As through the waste we roam," ></line>
   <line id="4395" HymnID="231" StanzaID="861" LineNum="3" Text="&#39;Tis sweet to sing together," ></line>
-  <line id="4396" HymnID="231" StanzaID="861" LineNum="4" Text="&#34;We are not far from home!&#34;" ></line>
+  <line id="4396" HymnID="231" StanzaID="861" LineNum="4" Text="&#8220;We are not far from home!&#8221;" ></line>
   <line id="4397" HymnID="231" StanzaID="861" LineNum="5" Text="And when we&#39;ve learned our lesson," ></line>
   <line id="4398" HymnID="231" StanzaID="861" LineNum="6" Text="Our work, in suffering, done," ></line>
   <line id="4399" HymnID="231" StanzaID="861" LineNum="7" Text="Our ever-loving Father" ></line>
@@ -4673,13 +4673,13 @@
   <line id="4671" HymnID="244" StanzaID="917" LineNum="3" Text="He&#39;ll quickly come again." ></line>
   <line id="4672" HymnID="244" StanzaID="917" LineNum="4" Text="Oh may our hearts look for that day," ></line>
   <line id="4673" HymnID="244" StanzaID="917" LineNum="5" Text="And to His word responsive say," ></line>
-  <line id="4674" HymnID="244" StanzaID="917" LineNum="6" Text="&#34;Come, Jesus, Lord, Amen.&#34;" ></line>
+  <line id="4674" HymnID="244" StanzaID="917" LineNum="6" Text="&#8220;Come, Jesus, Lord, Amen.&#8221;" ></line>
   <line id="4675" HymnID="245" StanzaID="918" LineNum="1" Text="On that same night, Lord Jesus," ></line>
   <line id="4676" HymnID="245" StanzaID="918" LineNum="2" Text="When all around Thee joined" ></line>
   <line id="4677" HymnID="245" StanzaID="918" LineNum="3" Text="To cast its darkest shadow" ></line>
   <line id="4678" HymnID="245" StanzaID="918" LineNum="4" Text="Across Thy holy mind," ></line>
   <line id="4679" HymnID="245" StanzaID="918" LineNum="5" Text="We hear Thy voice, blest Saviour," ></line>
-  <line id="4680" HymnID="245" StanzaID="918" LineNum="6" Text="&#34;This do, remember Me&#34;:" ></line>
+  <line id="4680" HymnID="245" StanzaID="918" LineNum="6" Text="&#8220;This do, remember Me&#8221;:" ></line>
   <line id="4681" HymnID="245" StanzaID="918" LineNum="7" Text="With joyful hearts responding," ></line>
   <line id="4682" HymnID="245" StanzaID="918" LineNum="8" Text="We do remember Thee." ></line>
   <line id="4683" HymnID="245" StanzaID="919" LineNum="1" Text="The depth of all Thy suffering" ></line>
@@ -4849,20 +4849,20 @@
   <line id="4847" HymnID="254" StanzaID="952" LineNum="2" Text="Grace and glory are before;" ></line>
   <line id="4848" HymnID="254" StanzaID="952" LineNum="3" Text="All the billows rolled o&#39;er Jesus," ></line>
   <line id="4849" HymnID="254" StanzaID="952" LineNum="4" Text="There they spent their utmost power." ></line>
-  <line id="4850" HymnID="254" StanzaID="953" LineNum="1" Text="&#34;Firstfruits&#34; of the resurrection," ></line>
+  <line id="4850" HymnID="254" StanzaID="953" LineNum="1" Text="&#8220;Firstfruits&#8221; of the resurrection," ></line>
   <line id="4851" HymnID="254" StanzaID="953" LineNum="2" Text="He is risen from the tomb;" ></line>
   <line id="4852" HymnID="254" StanzaID="953" LineNum="3" Text="Now we stand in new creation," ></line>
   <line id="4853" HymnID="254" StanzaID="953" LineNum="4" Text="Free, because beyond our doom." ></line>
   <line id="4854" HymnID="254" StanzaID="954" LineNum="1" Text="Jesus died, and we died with Him," ></line>
-  <line id="4855" HymnID="254" StanzaID="954" LineNum="2" Text="&#34;Buried&#34; in His grave we lay," ></line>
+  <line id="4855" HymnID="254" StanzaID="954" LineNum="2" Text="&#8220;Buried&#8221; in His grave we lay," ></line>
   <line id="4856" HymnID="254" StanzaID="954" LineNum="3" Text="One with Him in resurrection," ></line>
-  <line id="4857" HymnID="254" StanzaID="954" LineNum="4" Text="Now &#34;in Him&#34; in heaven&#39;s bright day." ></line>
+  <line id="4857" HymnID="254" StanzaID="954" LineNum="4" Text="Now &#8220;in Him&#8221; in heaven&#39;s bright day." ></line>
   <line id="4858" HymnID="255" StanzaID="955" LineNum="1" Text="The Prince of Life, once slain for us," ></line>
   <line id="4859" HymnID="255" StanzaID="955" LineNum="2" Text="Is now gone up on high;" ></line>
   <line id="4860" HymnID="255" StanzaID="955" LineNum="3" Text="Captivity was captive led," ></line>
   <line id="4861" HymnID="255" StanzaID="955" LineNum="4" Text="And Christ no more can die." ></line>
   <line id="4862" HymnID="255" StanzaID="956" LineNum="1" Text="His word is faithfulness and truth--" ></line>
-  <line id="4863" HymnID="255" StanzaID="956" LineNum="2" Text="&#34;Behold, I quickly come&#34;;" ></line>
+  <line id="4863" HymnID="255" StanzaID="956" LineNum="2" Text="&#8220;Behold, I quickly come&#8221;;" ></line>
   <line id="4864" HymnID="255" StanzaID="956" LineNum="3" Text="And faith, that counts the promise sure," ></line>
   <line id="4865" HymnID="255" StanzaID="956" LineNum="4" Text="Can pierce the midnight gloom." ></line>
   <line id="4866" HymnID="255" StanzaID="957" LineNum="1" Text="Far spent already is the night," ></line>
@@ -4999,7 +4999,7 @@
   <line id="4997" HymnID="260" StanzaID="984" LineNum="1" Text="Spirit and bride," ></line>
   <line id="4998" HymnID="260" StanzaID="984" LineNum="2" Text="With longing voice, say, Come;" ></line>
   <line id="4999" HymnID="260" StanzaID="984" LineNum="3" Text="Yea, Lord, Thy word from that bright home" ></line>
-  <line id="5000" HymnID="260" StanzaID="984" LineNum="4" Text="Is, &#34;Surely, I will quickly come!&#34;" ></line>
+  <line id="5000" HymnID="260" StanzaID="984" LineNum="4" Text="Is, &#8220;Surely, I will quickly come!&#8221;" ></line>
   <line id="5001" HymnID="260" StanzaID="984" LineNum="5" Text="E&#39;en so, Lord, come." ></line>
   <line id="5002" HymnID="261" StanzaID="985" LineNum="1" Text="The holy One who knew no sin," ></line>
   <line id="5003" HymnID="261" StanzaID="985" LineNum="2" Text="God made Him sin for us;" ></line>
@@ -5101,10 +5101,10 @@
   <line id="5099" HymnID="266" StanzaID="1001" LineNum="2" Text="Calls the sleeping saints to rise," ></line>
   <line id="5100" HymnID="266" StanzaID="1001" LineNum="3" Text="Rising millions shall proclaim" ></line>
   <line id="5101" HymnID="266" StanzaID="1001" LineNum="4" Text="Blessings on the Saviour&#39;s name." ></line>
-  <line id="5102" HymnID="266" StanzaID="1002" LineNum="1" Text="&#34;This is our redeeming God!&#34;" ></line>
+  <line id="5102" HymnID="266" StanzaID="1002" LineNum="1" Text="&#8220;This is our redeeming God!&#8221;" ></line>
   <line id="5103" HymnID="266" StanzaID="1002" LineNum="2" Text="Ransomed hosts will shout aloud:" ></line>
-  <line id="5104" HymnID="266" StanzaID="1002" LineNum="3" Text="&#34;Praise, eternal praise be given" ></line>
-  <line id="5105" HymnID="266" StanzaID="1002" LineNum="4" Text="To the Lord of earth and heaven!&#34;" ></line>
+  <line id="5104" HymnID="266" StanzaID="1002" LineNum="3" Text="&#8220;Praise, eternal praise be given" ></line>
+  <line id="5105" HymnID="266" StanzaID="1002" LineNum="4" Text="To the Lord of earth and heaven!&#8221;" ></line>
   <line id="5106" HymnID="267" StanzaID="1003" LineNum="1" Text="A fullness resides in Jesus our Head;" ></line>
   <line id="5107" HymnID="267" StanzaID="1003" LineNum="2" Text="A fullness abides to answer all need:" ></line>
   <line id="5108" HymnID="267" StanzaID="1003" LineNum="3" Text="The Father&#39;s good pleasure has laid up a store," ></line>
@@ -5406,13 +5406,13 @@
   <line id="5404" HymnID="282" StanzaID="1065" LineNum="7" Text="By shame, contempt, however tried," ></line>
   <line id="5405" HymnID="282" StanzaID="1065" LineNum="8" Text="For Thou wast scorned and crucified." ></line>
   <line id="5406" HymnID="282" StanzaID="1066" LineNum="1" Text="We welcome still Thy faithful word--" ></line>
-  <line id="5407" HymnID="282" StanzaID="1066" LineNum="2" Text="&#34;The cross shall meet its sure reward&#34;;" ></line>
-  <line id="5408" HymnID="282" StanzaID="1066" LineNum="3" Text="For soon must pass the &#34;little while,&#34;" ></line>
+  <line id="5407" HymnID="282" StanzaID="1066" LineNum="2" Text="&#8220;The cross shall meet its sure reward&#8221;;" ></line>
+  <line id="5408" HymnID="282" StanzaID="1066" LineNum="3" Text="For soon must pass the &#8220;little while,&#8221;" ></line>
   <line id="5409" HymnID="282" StanzaID="1066" LineNum="4" Text="Then joy shall crown Thy servants&#39; toil:" ></line>
   <line id="5410" HymnID="282" StanzaID="1066" LineNum="5" Text="And we shall hear Thee, Saviour, say," ></line>
-  <line id="5411" HymnID="282" StanzaID="1066" LineNum="6" Text="&#34;Arise, My love, and come away;" ></line>
+  <line id="5411" HymnID="282" StanzaID="1066" LineNum="6" Text="&#8220;Arise, My love, and come away;" ></line>
   <line id="5412" HymnID="282" StanzaID="1066" LineNum="7" Text="Look up, for thou shalt weep no more," ></line>
-  <line id="5413" HymnID="282" StanzaID="1066" LineNum="8" Text="But rest on heaven&#39;s eternal shore.&#34;" ></line>
+  <line id="5413" HymnID="282" StanzaID="1066" LineNum="8" Text="But rest on heaven&#39;s eternal shore.&#8221;" ></line>
   <line id="5414" HymnID="283" StanzaID="1067" LineNum="1" Text="When we survey the wondrous cross" ></line>
   <line id="5415" HymnID="283" StanzaID="1067" LineNum="2" Text="On which the Lord of glory died," ></line>
   <line id="5416" HymnID="283" StanzaID="1067" LineNum="3" Text="Our richest gain we count but loss," ></line>
@@ -5525,7 +5525,7 @@
   <line id="5523" HymnID="288" StanzaID="1088" LineNum="6" Text="Preserv&#232;d free from stain," ></line>
   <line id="5524" HymnID="288" StanzaID="1088" LineNum="7" Text="Be blameless until that great day;" ></line>
   <line id="5525" HymnID="288" StanzaID="1088" LineNum="8" Text="Lord Jesus Christ, Amen!" ></line>
-  <line id="5526" HymnID="289" StanzaID="1089" LineNum="1" Text="&#34;No condemnation!&#34; Precious word!" ></line>
+  <line id="5526" HymnID="289" StanzaID="1089" LineNum="1" Text="&#8220;No condemnation!&#8221; Precious word!" ></line>
   <line id="5527" HymnID="289" StanzaID="1089" LineNum="2" Text="Consider it, my soul!" ></line>
   <line id="5528" HymnID="289" StanzaID="1089" LineNum="3" Text="Thy sins were all on Jesus laid;" ></line>
   <line id="5529" HymnID="289" StanzaID="1089" LineNum="4" Text="His stripes have made thee whole." ></line>
@@ -5533,7 +5533,7 @@
   <line id="5531" HymnID="289" StanzaID="1090" LineNum="2" Text="In God&#39;s omniscient ear;" ></line>
   <line id="5532" HymnID="289" StanzaID="1090" LineNum="3" Text="The saints, as jewels on His heart," ></line>
   <line id="5533" HymnID="289" StanzaID="1090" LineNum="4" Text="Jesus doth ever bear." ></line>
-  <line id="5534" HymnID="289" StanzaID="1091" LineNum="1" Text="&#34;No condemnation!&#34; O my soul," ></line>
+  <line id="5534" HymnID="289" StanzaID="1091" LineNum="1" Text="&#8220;No condemnation!&#8221; O my soul," ></line>
   <line id="5535" HymnID="289" StanzaID="1091" LineNum="2" Text="&#39;Tis God that speaks the word," ></line>
   <line id="5536" HymnID="289" StanzaID="1091" LineNum="3" Text="Perfect in comeliness art thou" ></line>
   <line id="5537" HymnID="289" StanzaID="1091" LineNum="4" Text="In Christ, the risen Lord." ></line>
@@ -5639,25 +5639,25 @@
   <line id="5637" HymnID="295" StanzaID="1114" LineNum="2" Text="Seated on the throne of God;" ></line>
   <line id="5638" HymnID="295" StanzaID="1114" LineNum="3" Text="Soon in glory, all before Thee" ></line>
   <line id="5639" HymnID="295" StanzaID="1114" LineNum="4" Text="Shall proclaim Thy praise abroad:" ></line>
-  <line id="5640" HymnID="295" StanzaID="1114" LineNum="5" Text="&#34;Thou art worthy,&#34;" ></line>
+  <line id="5640" HymnID="295" StanzaID="1114" LineNum="5" Text="&#8220;Thou art worthy,&#8221;" ></line>
   <line id="5641" HymnID="295" StanzaID="1114" LineNum="6" Text="We were ransomed by Thy blood." ></line>
   <line id="5642" HymnID="295" StanzaID="1115" LineNum="1" Text="Saviour, though the world despised Thee," ></line>
   <line id="5643" HymnID="295" StanzaID="1115" LineNum="2" Text="Though Thou here wast crucified," ></line>
   <line id="5644" HymnID="295" StanzaID="1115" LineNum="3" Text="Yet the Father&#39;s glory raised Thee," ></line>
   <line id="5645" HymnID="295" StanzaID="1115" LineNum="4" Text="Lord of all creation wide." ></line>
-  <line id="5646" HymnID="295" StanzaID="1115" LineNum="5" Text="&#34;Thou art worthy,&#34;" ></line>
+  <line id="5646" HymnID="295" StanzaID="1115" LineNum="5" Text="&#8220;Thou art worthy,&#8221;" ></line>
   <line id="5647" HymnID="295" StanzaID="1115" LineNum="6" Text="We shall live, for Thou hast died." ></line>
   <line id="5648" HymnID="295" StanzaID="1116" LineNum="1" Text="And though here on earth rejected," ></line>
   <line id="5649" HymnID="295" StanzaID="1116" LineNum="2" Text="&#39;Tis but fellowship with Thee;" ></line>
   <line id="5650" HymnID="295" StanzaID="1116" LineNum="3" Text="Should we not with joy expect it--" ></line>
   <line id="5651" HymnID="295" StanzaID="1116" LineNum="4" Text="Here like Thee, our Lord, to be?" ></line>
-  <line id="5652" HymnID="295" StanzaID="1116" LineNum="5" Text="&#34;Thou art worthy,&#34;" ></line>
+  <line id="5652" HymnID="295" StanzaID="1116" LineNum="5" Text="&#8220;Thou art worthy,&#8221;" ></line>
   <line id="5653" HymnID="295" StanzaID="1116" LineNum="6" Text="Thou from earth hast set us free." ></line>
   <line id="5654" HymnID="295" StanzaID="1117" LineNum="1" Text="Haste the day of Thine appearing" ></line>
   <line id="5655" HymnID="295" StanzaID="1117" LineNum="2" Text="With Thy ransomed saints to reign;" ></line>
   <line id="5656" HymnID="295" StanzaID="1117" LineNum="3" Text="Then shall end all days of mourning," ></line>
   <line id="5657" HymnID="295" StanzaID="1117" LineNum="4" Text="We shall sing with triumph then." ></line>
-  <line id="5658" HymnID="295" StanzaID="1117" LineNum="5" Text="&#34;Thou art worthy,&#34;" ></line>
+  <line id="5658" HymnID="295" StanzaID="1117" LineNum="5" Text="&#8220;Thou art worthy,&#8221;" ></line>
   <line id="5659" HymnID="295" StanzaID="1117" LineNum="6" Text="Come, Lord Jesus, come, Amen." ></line>
   <line id="5660" HymnID="296" StanzaID="1118" LineNum="1" Text="Love divine, all praise excelling," ></line>
   <line id="5661" HymnID="296" StanzaID="1118" LineNum="2" Text="Joy of heaven, to earth come down!" ></line>
@@ -5741,8 +5741,8 @@
   <line id="5739" HymnID="298" StanzaID="1128" LineNum="11" Text="With the saints that have gone before." ></line>
   <line id="5740" HymnID="298" StanzaID="1129" LineNum="1" Text="Through one eternal day we&#39;ll sing," ></line>
   <line id="5741" HymnID="298" StanzaID="1129" LineNum="2" Text="And bless His sacred name," ></line>
-  <line id="5742" HymnID="298" StanzaID="1129" LineNum="3" Text="With &#34;Hallelujahs to the King!&#34;" ></line>
-  <line id="5743" HymnID="298" StanzaID="1129" LineNum="4" Text="And &#34;Worthy is the Lamb!&#34;" ></line>
+  <line id="5742" HymnID="298" StanzaID="1129" LineNum="3" Text="With &#8220;Hallelujahs to the King!&#8221;" ></line>
+  <line id="5743" HymnID="298" StanzaID="1129" LineNum="4" Text="And &#8220;Worthy is the Lamb!&#8221;" ></line>
   <line id="5744" HymnID="298" StanzaID="1129" LineNum="5" Text="Oh that will be joyful, joyful, joyful!" ></line>
   <line id="5745" HymnID="298" StanzaID="1129" LineNum="6" Text="Oh that will be joyful!" ></line>
   <line id="5746" HymnID="298" StanzaID="1129" LineNum="7" Text="To meet to part no more," ></line>
@@ -5809,7 +5809,7 @@
   <line id="5807" HymnID="302" StanzaID="1144" LineNum="1" Text="Unseen, we love Thee; dear Thy name;" ></line>
   <line id="5808" HymnID="302" StanzaID="1144" LineNum="2" Text="But when our eyes behold," ></line>
   <line id="5809" HymnID="302" StanzaID="1144" LineNum="3" Text="With joyful wonder we&#39;ll exclaim," ></line>
-  <line id="5810" HymnID="302" StanzaID="1144" LineNum="4" Text="&#34;The half had not been told!&#34;" ></line>
+  <line id="5810" HymnID="302" StanzaID="1144" LineNum="4" Text="&#8220;The half had not been told!&#8221;" ></line>
   <line id="5811" HymnID="302" StanzaID="1145" LineNum="1" Text="For Thou exceedest all the fame" ></line>
   <line id="5812" HymnID="302" StanzaID="1145" LineNum="2" Text="Our ears have ever heard;" ></line>
   <line id="5813" HymnID="302" StanzaID="1145" LineNum="3" Text="How happy we who know Thy name," ></line>
@@ -5924,8 +5924,8 @@
   <line id="5922" HymnID="310" StanzaID="1172" LineNum="4" Text="Stand before the throne of God:" ></line>
   <line id="5923" HymnID="310" StanzaID="1173" LineNum="1" Text="These, redeemed from every nation," ></line>
   <line id="5924" HymnID="310" StanzaID="1173" LineNum="2" Text="Shall in triumph bless Thy name;" ></line>
-  <line id="5925" HymnID="310" StanzaID="1173" LineNum="3" Text="Every voice shall cry, &#34;Salvation" ></line>
-  <line id="5926" HymnID="310" StanzaID="1173" LineNum="4" Text="To our God and to the Lamb.&#34;" ></line>
+  <line id="5925" HymnID="310" StanzaID="1173" LineNum="3" Text="Every voice shall cry, &#8220;Salvation" ></line>
+  <line id="5926" HymnID="310" StanzaID="1173" LineNum="4" Text="To our God and to the Lamb.&#8221;" ></line>
   <line id="5927" HymnID="311" StanzaID="1174" LineNum="1" Text="While to several paths dividing," ></line>
   <line id="5928" HymnID="311" StanzaID="1174" LineNum="2" Text="We our pilgrimage pursue," ></line>
   <line id="5929" HymnID="311" StanzaID="1174" LineNum="3" Text="May our Shepherd, safely guiding," ></line>
@@ -6035,7 +6035,7 @@
   <line id="6033" HymnID="317" StanzaID="1194" LineNum="1" Text="Though angels praise the heavenly King," ></line>
   <line id="6034" HymnID="317" StanzaID="1194" LineNum="2" Text="And Him their Lord adoring own," ></line>
   <line id="6035" HymnID="317" StanzaID="1194" LineNum="3" Text="We can with exultation sing," ></line>
-  <line id="6036" HymnID="317" StanzaID="1194" LineNum="4" Text="&#34;He wears our nature on the throne.&#34;" ></line>
+  <line id="6036" HymnID="317" StanzaID="1194" LineNum="4" Text="&#8220;He wears our nature on the throne.&#8221;" ></line>
   <line id="6037" HymnID="317" StanzaID="1195" LineNum="1" Text="Lord, we adore the wondrous love" ></line>
   <line id="6038" HymnID="317" StanzaID="1195" LineNum="2" Text="Which brought Thee here to bleed and die;" ></line>
   <line id="6039" HymnID="317" StanzaID="1195" LineNum="3" Text="Soon may we meet in heaven above," ></line>
@@ -6187,22 +6187,22 @@
   <line id="6185" HymnID="323" StanzaID="1226" LineNum="1" Text="The Lord Himself shall come," ></line>
   <line id="6186" HymnID="323" StanzaID="1226" LineNum="2" Text="And shout a quickening word;" ></line>
   <line id="6187" HymnID="323" StanzaID="1226" LineNum="3" Text="Thousands shall answer from the tomb:" ></line>
-  <line id="6188" HymnID="323" StanzaID="1226" LineNum="4" Text="&#60;I&#62;&#34;Forever with the Lord!&#34;&#60;i&#62;" ></line>
+  <line id="6188" HymnID="323" StanzaID="1226" LineNum="4" Text="&#60;I&#62;&#8221;Forever with the Lord!&#8221;&#60;i&#62;" ></line>
   <line id="6189" HymnID="323" StanzaID="1227" LineNum="1" Text="Then, as we upward fly," ></line>
   <line id="6190" HymnID="323" StanzaID="1227" LineNum="2" Text="That resurrection word" ></line>
   <line id="6191" HymnID="323" StanzaID="1227" LineNum="3" Text="Shall be our shout of victory:" ></line>
-  <line id="6192" HymnID="323" StanzaID="1227" LineNum="4" Text="&#60;I&#62;&#34;Forever with the Lord!&#34;&#60;i&#62;" ></line>
+  <line id="6192" HymnID="323" StanzaID="1227" LineNum="4" Text="&#60;I&#62;&#8221;Forever with the Lord!&#8221;&#60;i&#62;" ></line>
   <line id="6193" HymnID="323" StanzaID="1228" LineNum="1" Text="There with unwearied gaze" ></line>
   <line id="6194" HymnID="323" StanzaID="1228" LineNum="2" Text="Our eyes on Him we&#39;ll rest," ></line>
   <line id="6195" HymnID="323" StanzaID="1228" LineNum="3" Text="And satisfy with endless praise" ></line>
   <line id="6196" HymnID="323" StanzaID="1228" LineNum="4" Text="A heart supremely blest." ></line>
-  <line id="6197" HymnID="323" StanzaID="1229" LineNum="1" Text="&#34;Knowing as we are known!&#34;" ></line>
+  <line id="6197" HymnID="323" StanzaID="1229" LineNum="1" Text="&#8220;Knowing as we are known!&#8221;" ></line>
   <line id="6198" HymnID="323" StanzaID="1229" LineNum="2" Text="How shall we love that word," ></line>
   <line id="6199" HymnID="323" StanzaID="1229" LineNum="3" Text="How oft repeat before the throne:" ></line>
-  <line id="6200" HymnID="323" StanzaID="1229" LineNum="4" Text="&#60;I&#62;&#34;Forever with the Lord!&#34;&#60;i&#62;" ></line>
+  <line id="6200" HymnID="323" StanzaID="1229" LineNum="4" Text="&#60;I&#62;&#8221;Forever with the Lord!&#8221;&#60;i&#62;" ></line>
   <line id="6201" HymnID="323" StanzaID="1230" LineNum="1" Text="That resurrection word," ></line>
   <line id="6202" HymnID="323" StanzaID="1230" LineNum="2" Text="That shout of victory--" ></line>
-  <line id="6203" HymnID="323" StanzaID="1230" LineNum="3" Text="Once more: &#60;I&#62;&#34;Forever with the Lord!&#34;&#60;i&#62;" ></line>
+  <line id="6203" HymnID="323" StanzaID="1230" LineNum="3" Text="Once more: &#60;I&#62;&#8221;Forever with the Lord!&#8221;&#60;i&#62;" ></line>
   <line id="6204" HymnID="323" StanzaID="1230" LineNum="4" Text="Amen, so let it be!" ></line>
   <line id="6205" HymnID="324" StanzaID="1231" LineNum="1" Text="Lord Jesus, come!" ></line>
   <line id="6206" HymnID="324" StanzaID="1231" LineNum="2" Text="Nor let us longer roam" ></line>
@@ -6226,7 +6226,7 @@
   <line id="6224" HymnID="324" StanzaID="1234" LineNum="5" Text="Lord Jesus, come!" ></line>
   <line id="6225" HymnID="325" StanzaID="1235" LineNum="1" Text="We wait for Thee, O Son of God!" ></line>
   <line id="6226" HymnID="325" StanzaID="1235" LineNum="2" Text="And long for Thine appearing;" ></line>
-  <line id="6227" HymnID="325" StanzaID="1235" LineNum="3" Text="&#34;A little while&#34; Thou&#39;lt come, O Lord," ></line>
+  <line id="6227" HymnID="325" StanzaID="1235" LineNum="3" Text="&#8220;A little while&#8221; Thou&#39;lt come, O Lord," ></line>
   <line id="6228" HymnID="325" StanzaID="1235" LineNum="4" Text="Thy waiting people cheering." ></line>
   <line id="6229" HymnID="325" StanzaID="1235" LineNum="5" Text="Thus hast Thou said: we lift the head" ></line>
   <line id="6230" HymnID="325" StanzaID="1235" LineNum="6" Text="In joyful expectation," ></line>
@@ -6351,7 +6351,7 @@
   <line id="6349" HymnID="330" StanzaID="1258" LineNum="1" Text="Sealed with the Holy Ghost," ></line>
   <line id="6350" HymnID="330" StanzaID="1258" LineNum="2" Text="We triumph in that love," ></line>
   <line id="6351" HymnID="330" StanzaID="1258" LineNum="3" Text="Thy wondrous thought has made our boast," ></line>
-  <line id="6352" HymnID="330" StanzaID="1258" LineNum="4" Text="&#34;Glory with Christ above.&#34;" ></line>
+  <line id="6352" HymnID="330" StanzaID="1258" LineNum="4" Text="&#8220;Glory with Christ above.&#8221;" ></line>
   <line id="6353" HymnID="331" StanzaID="1259" LineNum="1" Text="Father, Thy sovereign love has sought" ></line>
   <line id="6354" HymnID="331" StanzaID="1259" LineNum="2" Text="Captives to sin, gone far from Thee;" ></line>
   <line id="6355" HymnID="331" StanzaID="1259" LineNum="3" Text="The work that Thine own Son hath wrought" ></line>
@@ -6646,7 +6646,7 @@
   <line id="6644" HymnID="344" StanzaID="1326" LineNum="2" Text="In Thee I am to God brought near," ></line>
   <line id="6645" HymnID="344" StanzaID="1326" LineNum="3" Text="And all the Father&#39;s love I share," ></line>
   <line id="6646" HymnID="344" StanzaID="1326" LineNum="4" Text="O Lamb of God, in Thee!" ></line>
-  <line id="6647" HymnID="345" StanzaID="1327" LineNum="1" Text="His be &#34;the Victor&#39;s name,&#34;" ></line>
+  <line id="6647" HymnID="345" StanzaID="1327" LineNum="1" Text="His be &#8220;the Victor&#39;s name,&#8221;" ></line>
   <line id="6648" HymnID="345" StanzaID="1327" LineNum="2" Text="Who fought the fight alone;" ></line>
   <line id="6649" HymnID="345" StanzaID="1327" LineNum="3" Text="Triumphant saints no honor claim," ></line>
   <line id="6650" HymnID="345" StanzaID="1327" LineNum="4" Text="His conquest was their own." ></line>
@@ -6777,7 +6777,7 @@
   <line id="6775" HymnID="352" StanzaID="1354" LineNum="1" Text="What cheering words are these!" ></line>
   <line id="6776" HymnID="352" StanzaID="1354" LineNum="2" Text="Their sweetness who can tell?" ></line>
   <line id="6777" HymnID="352" StanzaID="1354" LineNum="3" Text="In time and to eternal days--" ></line>
-  <line id="6778" HymnID="352" StanzaID="1354" LineNum="4" Text="&#60;I&#62;&#34;&#60;TS&#62;&#60;TS&#62;&#39;Tis with believers well!&#34;&#60;i&#62;" ></line>
+  <line id="6778" HymnID="352" StanzaID="1354" LineNum="4" Text="&#60;I&#62;&#8221;&#60;TS&#62;&#60;TS&#62;&#39;Tis with believers well!&#8221;&#60;i&#62;" ></line>
   <line id="6779" HymnID="352" StanzaID="1355" LineNum="1" Text="In every state secure," ></line>
   <line id="6780" HymnID="352" StanzaID="1355" LineNum="2" Text="Watched by the Saviour&#39;s eye," ></line>
   <line id="6781" HymnID="352" StanzaID="1355" LineNum="3" Text="&#39;Tis well with them should life endure," ></line>
@@ -6981,7 +6981,7 @@
   <line id="6979" HymnID="360" StanzaID="1388" LineNum="6" Text="The Bridegroom and the bride" ></line>
   <line id="6980" HymnID="360" StanzaID="1388" LineNum="7" Text="Are seen in glory ever:" ></line>
   <line id="6981" HymnID="360" StanzaID="1388" LineNum="8" Text="Forever satisfied." ></line>
-  <line id="6982" HymnID="361" StanzaID="1389" LineNum="1" Text="&#34;Stricken, smitten and afflicted,&#34;" ></line>
+  <line id="6982" HymnID="361" StanzaID="1389" LineNum="1" Text="&#8220;Stricken, smitten and afflicted,&#8221;" ></line>
   <line id="6983" HymnID="361" StanzaID="1389" LineNum="2" Text="See Him dying on the tree!" ></line>
   <line id="6984" HymnID="361" StanzaID="1389" LineNum="3" Text="&#39;Tis the Christ by man rejected!" ></line>
   <line id="6985" HymnID="361" StanzaID="1389" LineNum="4" Text="Yes, my soul, &#39;tis He, &#39;tis He!" ></line>
@@ -7094,30 +7094,30 @@
   <line id="7092" HymnID="366" StanzaID="1412" LineNum="5" Text="My life be all with Thine the same," ></line>
   <line id="7093" HymnID="366" StanzaID="1412" LineNum="6" Text="And all Thy shame be mine." ></line>
   <line id="7094" HymnID="367" StanzaID="1413" LineNum="1" Text="I heard the voice of Jesus say," ></line>
-  <line id="7095" HymnID="367" StanzaID="1413" LineNum="2" Text="&#34;Come unto Me and rest;" ></line>
+  <line id="7095" HymnID="367" StanzaID="1413" LineNum="2" Text="&#8220;Come unto Me and rest;" ></line>
   <line id="7096" HymnID="367" StanzaID="1413" LineNum="3" Text="Lay down, thou weary one, lay down" ></line>
-  <line id="7097" HymnID="367" StanzaID="1413" LineNum="4" Text="Thy head upon My breast.&#34;" ></line>
+  <line id="7097" HymnID="367" StanzaID="1413" LineNum="4" Text="Thy head upon My breast.&#8221;" ></line>
   <line id="7098" HymnID="367" StanzaID="1413" LineNum="5" Text="I came to Jesus as I was," ></line>
   <line id="7099" HymnID="367" StanzaID="1413" LineNum="6" Text="Weary, and worn, and sad;" ></line>
   <line id="7100" HymnID="367" StanzaID="1413" LineNum="7" Text="I found in Him a resting-place," ></line>
   <line id="7101" HymnID="367" StanzaID="1413" LineNum="8" Text="And He has made me glad." ></line>
   <line id="7102" HymnID="367" StanzaID="1414" LineNum="1" Text="I heard the voice of Jesus say," ></line>
-  <line id="7103" HymnID="367" StanzaID="1414" LineNum="2" Text="&#34;Behold, I freely give" ></line>
+  <line id="7103" HymnID="367" StanzaID="1414" LineNum="2" Text="&#8220;Behold, I freely give" ></line>
   <line id="7104" HymnID="367" StanzaID="1414" LineNum="3" Text="The living water--thirsty one," ></line>
-  <line id="7105" HymnID="367" StanzaID="1414" LineNum="4" Text="Stoop down, and drink, and live.&#34;" ></line>
+  <line id="7105" HymnID="367" StanzaID="1414" LineNum="4" Text="Stoop down, and drink, and live.&#8221;" ></line>
   <line id="7106" HymnID="367" StanzaID="1414" LineNum="5" Text="I came to Jesus, and I drank" ></line>
   <line id="7107" HymnID="367" StanzaID="1414" LineNum="6" Text="Of that life-giving stream;" ></line>
   <line id="7108" HymnID="367" StanzaID="1414" LineNum="7" Text="My thirst was quenched, my soul revived," ></line>
   <line id="7109" HymnID="367" StanzaID="1414" LineNum="8" Text="And now I live in Him." ></line>
   <line id="7110" HymnID="367" StanzaID="1415" LineNum="1" Text="I heard the voice of Jesus say," ></line>
-  <line id="7111" HymnID="367" StanzaID="1415" LineNum="2" Text="&#34;I am this dark world&#39;s light;" ></line>
+  <line id="7111" HymnID="367" StanzaID="1415" LineNum="2" Text="&#8220;I am this dark world&#39;s light;" ></line>
   <line id="7112" HymnID="367" StanzaID="1415" LineNum="3" Text="Look unto Me: thy morn shall rise" ></line>
-  <line id="7113" HymnID="367" StanzaID="1415" LineNum="4" Text="And all thy day be bright.&#34;" ></line>
+  <line id="7113" HymnID="367" StanzaID="1415" LineNum="4" Text="And all thy day be bright.&#8221;" ></line>
   <line id="7114" HymnID="367" StanzaID="1415" LineNum="5" Text="I looked to Jesus, and I found" ></line>
   <line id="7115" HymnID="367" StanzaID="1415" LineNum="6" Text="In Him my Star, my Sun;" ></line>
   <line id="7116" HymnID="367" StanzaID="1415" LineNum="7" Text="And in that light of life I&#39;ll walk" ></line>
   <line id="7117" HymnID="367" StanzaID="1415" LineNum="8" Text="Till traveling days are done." ></line>
-  <line id="7118" HymnID="368" StanzaID="1416" LineNum="1" Text="A mind at &#34;perfect peace&#34; with God:" ></line>
+  <line id="7118" HymnID="368" StanzaID="1416" LineNum="1" Text="A mind at &#8220;perfect peace&#8221; with God:" ></line>
   <line id="7119" HymnID="368" StanzaID="1416" LineNum="2" Text="Oh, what a word is this!" ></line>
   <line id="7120" HymnID="368" StanzaID="1416" LineNum="3" Text="A sinner reconciled through blood:" ></line>
   <line id="7121" HymnID="368" StanzaID="1416" LineNum="4" Text="This, this indeed is peace!" ></line>
@@ -7136,7 +7136,7 @@
   <line id="7134" HymnID="368" StanzaID="1420" LineNum="1" Text="Why should I ever careful be," ></line>
   <line id="7135" HymnID="368" StanzaID="1420" LineNum="2" Text="Since such a God is mine?" ></line>
   <line id="7136" HymnID="368" StanzaID="1420" LineNum="3" Text="He watches o&#39;er me night and day," ></line>
-  <line id="7137" HymnID="368" StanzaID="1420" LineNum="4" Text="And tells me, &#34;Thou art Mine.&#34;" ></line>
+  <line id="7137" HymnID="368" StanzaID="1420" LineNum="4" Text="And tells me, &#8220;Thou art Mine.&#8221;" ></line>
   <line id="7138" HymnID="369" StanzaID="1421" LineNum="1" Text="There is no other name than Thine," ></line>
   <line id="7139" HymnID="369" StanzaID="1421" LineNum="2" Text="Jehovah-Jesus! name divine;" ></line>
   <line id="7140" HymnID="369" StanzaID="1421" LineNum="3" Text="On which to rest for sins forgiven," ></line>
@@ -7166,7 +7166,7 @@
   <line id="7164" HymnID="371" StanzaID="1426" LineNum="1" Text="Rest of the saints in glory," ></line>
   <line id="7165" HymnID="371" StanzaID="1426" LineNum="2" Text="The laborer&#39;s bright reward," ></line>
   <line id="7166" HymnID="371" StanzaID="1426" LineNum="3" Text="How constant sounds before me," ></line>
-  <line id="7167" HymnID="371" StanzaID="1426" LineNum="4" Text="&#34;Forever with the Lord.&#34;" ></line>
+  <line id="7167" HymnID="371" StanzaID="1426" LineNum="4" Text="&#8220;Forever with the Lord.&#8221;" ></line>
   <line id="7168" HymnID="371" StanzaID="1426" LineNum="5" Text="Rest, through the toil of Jesus," ></line>
   <line id="7169" HymnID="371" StanzaID="1426" LineNum="6" Text="For saints there doth remain;" ></line>
   <line id="7170" HymnID="371" StanzaID="1426" LineNum="7" Text="An endless rest, and precious;" ></line>
@@ -7578,7 +7578,7 @@
   <line id="7576" HymnID="388" StanzaID="1492" LineNum="1" Text="Oh the glory of the grace," ></line>
   <line id="7577" HymnID="388" StanzaID="1492" LineNum="2" Text="Shining in the Saviour&#39;s face," ></line>
   <line id="7578" HymnID="388" StanzaID="1492" LineNum="3" Text="Telling sinners from above," ></line>
-  <line id="7579" HymnID="388" StanzaID="1492" LineNum="4" Text="&#34;God is light,&#34; and &#34;God is love.&#34;" ></line>
+  <line id="7579" HymnID="388" StanzaID="1492" LineNum="4" Text="&#8220;God is light,&#8221; and &#8220;God is love.&#8221;" ></line>
   <line id="7580" HymnID="388" StanzaID="1493" LineNum="1" Text="Sin and death no more shall reign," ></line>
   <line id="7581" HymnID="388" StanzaID="1493" LineNum="2" Text="Jesus died and lives again!" ></line>
   <line id="7582" HymnID="388" StanzaID="1493" LineNum="3" Text="In the glory&#39;s highest height--" ></line>
@@ -7590,7 +7590,7 @@
   <line id="7588" HymnID="388" StanzaID="1495" LineNum="1" Text="Christ the Lord will come again," ></line>
   <line id="7589" HymnID="388" StanzaID="1495" LineNum="2" Text="He who suffered once will reign," ></line>
   <line id="7590" HymnID="388" StanzaID="1495" LineNum="3" Text="Every tongue at last shall own," ></line>
-  <line id="7591" HymnID="388" StanzaID="1495" LineNum="4" Text="&#34;Worthy is the Lamb&#34; alone." ></line>
+  <line id="7591" HymnID="388" StanzaID="1495" LineNum="4" Text="&#8220;Worthy is the Lamb&#8221; alone." ></line>
   <line id="7592" HymnID="389" StanzaID="1496" LineNum="1" Text="The Father sent the Son" ></line>
   <line id="7593" HymnID="389" StanzaID="1496" LineNum="2" Text="A ruined world to save;" ></line>
   <line id="7594" HymnID="389" StanzaID="1496" LineNum="3" Text="Man meted to the Sinless One" ></line>
@@ -7658,7 +7658,7 @@
   <line id="7656" HymnID="391" StanzaID="1509" LineNum="1" Text="Broken heart! the river&#39;s flowing," ></line>
   <line id="7657" HymnID="391" StanzaID="1509" LineNum="2" Text="Haste! delay not! yet there&#39;s room;" ></line>
   <line id="7658" HymnID="391" StanzaID="1509" LineNum="3" Text="Hear the word of God beseeching," ></line>
-  <line id="7659" HymnID="391" StanzaID="1509" LineNum="4" Text="&#34;Whosoever thirsts may come.&#34;" ></line>
+  <line id="7659" HymnID="391" StanzaID="1509" LineNum="4" Text="&#8220;Whosoever thirsts may come.&#8221;" ></line>
   <line id="7660" HymnID="392" StanzaID="1510" LineNum="1" Text="Oh what a gift the Father gave" ></line>
   <line id="7661" HymnID="392" StanzaID="1510" LineNum="2" Text="When He bestowed His Son!" ></line>
   <line id="7662" HymnID="392" StanzaID="1510" LineNum="3" Text="To save poor, ruined, guilty man," ></line>
@@ -7680,7 +7680,7 @@
   <line id="7678" HymnID="393" StanzaID="1514" LineNum="3" Text="For us He shed His precious blood," ></line>
   <line id="7679" HymnID="393" StanzaID="1514" LineNum="4" Text="On the cross." ></line>
   <line id="7680" HymnID="393" StanzaID="1514" LineNum="5" Text="Oh, hear the overwhelming cry:" ></line>
-  <line id="7681" HymnID="393" StanzaID="1514" LineNum="6" Text="&#34;Eli lama sabachthani?&#34;" ></line>
+  <line id="7681" HymnID="393" StanzaID="1514" LineNum="6" Text="&#8220;Eli lama sabachthani?&#8221;" ></line>
   <line id="7682" HymnID="393" StanzaID="1514" LineNum="7" Text="Draw near and see the Saviour die" ></line>
   <line id="7683" HymnID="393" StanzaID="1514" LineNum="8" Text="On the cross." ></line>
   <line id="7684" HymnID="393" StanzaID="1515" LineNum="1" Text="Come, sinner, see Him lifted up" ></line>
@@ -7733,7 +7733,7 @@
   <line id="7731" HymnID="395" StanzaID="1523" LineNum="2" Text="Lo! the Saviour prostrate lies;" ></line>
   <line id="7732" HymnID="395" StanzaID="1523" LineNum="3" Text="On the bloody tree behold Him," ></line>
   <line id="7733" HymnID="395" StanzaID="1523" LineNum="4" Text="Hear Him cry before He dies," ></line>
-  <line id="7734" HymnID="395" StanzaID="1523" LineNum="5" Text="&#34;It is finished!&#34;" ></line>
+  <line id="7734" HymnID="395" StanzaID="1523" LineNum="5" Text="&#8220;It is finished!&#8221;" ></line>
   <line id="7735" HymnID="395" StanzaID="1523" LineNum="6" Text="Sinner, will not this suffice?" ></line>
   <line id="7736" HymnID="395" StanzaID="1524" LineNum="1" Text="Lo! the Incarnate God ascended," ></line>
   <line id="7737" HymnID="395" StanzaID="1524" LineNum="2" Text="Pleads the merits of His blood;" ></line>
@@ -7741,22 +7741,22 @@
   <line id="7739" HymnID="395" StanzaID="1524" LineNum="4" Text="Let no other trust intrude:" ></line>
   <line id="7740" HymnID="395" StanzaID="1524" LineNum="5" Text="None but Jesus" ></line>
   <line id="7741" HymnID="395" StanzaID="1524" LineNum="6" Text="Can do helpless sinners good." ></line>
-  <line id="7742" HymnID="396" StanzaID="1525" LineNum="1" Text="&#34;Call them in&#34;--the poor, the wretched," ></line>
+  <line id="7742" HymnID="396" StanzaID="1525" LineNum="1" Text="&#8220;Call them in&#8221;--the poor, the wretched," ></line>
   <line id="7743" HymnID="396" StanzaID="1525" LineNum="2" Text="Sin-stained wanderers from the fold;" ></line>
   <line id="7744" HymnID="396" StanzaID="1525" LineNum="3" Text="Peace and pardon freely offer;" ></line>
   <line id="7745" HymnID="396" StanzaID="1525" LineNum="4" Text="Can you weigh their worth with gold?" ></line>
-  <line id="7746" HymnID="396" StanzaID="1525" LineNum="5" Text="&#34;Call them in&#34;--the weak, the weary," ></line>
+  <line id="7746" HymnID="396" StanzaID="1525" LineNum="5" Text="&#8220;Call them in&#8221;--the weak, the weary," ></line>
   <line id="7747" HymnID="396" StanzaID="1525" LineNum="6" Text="Laden with the doom of sin;" ></line>
   <line id="7748" HymnID="396" StanzaID="1525" LineNum="7" Text="Bid them come and rest in Jesus;" ></line>
-  <line id="7749" HymnID="396" StanzaID="1525" LineNum="8" Text="He is waiting--&#34;call them in.&#34;" ></line>
-  <line id="7750" HymnID="396" StanzaID="1526" LineNum="1" Text="&#34;Call them in&#34;--the brokenhearted," ></line>
+  <line id="7749" HymnID="396" StanzaID="1525" LineNum="8" Text="He is waiting--&#8221;call them in.&#8221;" ></line>
+  <line id="7750" HymnID="396" StanzaID="1526" LineNum="1" Text="&#8220;Call them in&#8221;--the brokenhearted," ></line>
   <line id="7751" HymnID="396" StanzaID="1526" LineNum="2" Text="Cow&#39;ring neath the brand of shame;" ></line>
   <line id="7752" HymnID="396" StanzaID="1526" LineNum="3" Text="Speak love&#39;s message low and tender:" ></line>
   <line id="7753" HymnID="396" StanzaID="1526" LineNum="4" Text="&#60;I&#62;&#39;Twas for sinners Jesus came.&#60;i&#62;" ></line>
   <line id="7754" HymnID="396" StanzaID="1526" LineNum="5" Text="See, the shadows lengthen round us," ></line>
   <line id="7755" HymnID="396" StanzaID="1526" LineNum="6" Text="Soon the day-dawn will begin;" ></line>
   <line id="7756" HymnID="396" StanzaID="1526" LineNum="7" Text="Can you leave them lost and lonely?" ></line>
-  <line id="7757" HymnID="396" StanzaID="1526" LineNum="8" Text="Christ is coming--&#34;call them in.&#34;" ></line>
+  <line id="7757" HymnID="396" StanzaID="1526" LineNum="8" Text="Christ is coming--&#8221;call them in.&#8221;" ></line>
   <line id="7758" HymnID="397" StanzaID="1527" LineNum="1" Text="Vain is the thought of man" ></line>
   <line id="7759" HymnID="397" StanzaID="1527" LineNum="2" Text="To merit heaven by prayer;" ></line>
   <line id="7760" HymnID="397" StanzaID="1527" LineNum="3" Text="&#39;Tis only Jesus&#39; precious blood" ></line>
@@ -7846,29 +7846,29 @@
   <line id="7844" HymnID="400" StanzaID="1542" LineNum="7" Text="For nothing can destroy the life" ></line>
   <line id="7845" HymnID="400" StanzaID="1542" LineNum="8" Text="That&#39;s hid with Christ in God." ></line>
   <line id="7846" HymnID="401" StanzaID="1543" LineNum="1" Text="Hark! the voice of Jesus calling--" ></line>
-  <line id="7847" HymnID="401" StanzaID="1543" LineNum="2" Text="&#34;Come, ye laden, come to Me;" ></line>
+  <line id="7847" HymnID="401" StanzaID="1543" LineNum="2" Text="&#8220;Come, ye laden, come to Me;" ></line>
   <line id="7848" HymnID="401" StanzaID="1543" LineNum="3" Text="I have rest and peace to offer," ></line>
   <line id="7849" HymnID="401" StanzaID="1543" LineNum="4" Text="Rest, thou laboring one, for thee:" ></line>
   <line id="7850" HymnID="401" StanzaID="1543" LineNum="5" Text="Take salvation--" ></line>
-  <line id="7851" HymnID="401" StanzaID="1543" LineNum="6" Text="Take it &#60;I&#62;now&#60;i&#62; and happy be.&#34;" ></line>
+  <line id="7851" HymnID="401" StanzaID="1543" LineNum="6" Text="Take it &#60;I&#62;now&#60;i&#62; and happy be.&#8221;" ></line>
   <line id="7852" HymnID="401" StanzaID="1544" LineNum="1" Text="Yes; though high in heavenly glory," ></line>
   <line id="7853" HymnID="401" StanzaID="1544" LineNum="2" Text="Still the Saviour calls to thee;" ></line>
   <line id="7854" HymnID="401" StanzaID="1544" LineNum="3" Text="Faith can hear His gracious accents--" ></line>
-  <line id="7855" HymnID="401" StanzaID="1544" LineNum="4" Text="&#34;Come, ye laden, come to Me;" ></line>
+  <line id="7855" HymnID="401" StanzaID="1544" LineNum="4" Text="&#8220;Come, ye laden, come to Me;" ></line>
   <line id="7856" HymnID="401" StanzaID="1544" LineNum="5" Text="Take salvation--" ></line>
-  <line id="7857" HymnID="401" StanzaID="1544" LineNum="6" Text="Take it &#60;I&#62;now&#60;i&#62; and happy be.&#34;" ></line>
+  <line id="7857" HymnID="401" StanzaID="1544" LineNum="6" Text="Take it &#60;I&#62;now&#60;i&#62; and happy be.&#8221;" ></line>
   <line id="7858" HymnID="401" StanzaID="1545" LineNum="1" Text="Soon that voice will cease its calling," ></line>
   <line id="7859" HymnID="401" StanzaID="1545" LineNum="2" Text="Now it speaks, and speaks to thee:" ></line>
   <line id="7860" HymnID="401" StanzaID="1545" LineNum="3" Text="Sinner, heed the gracious message--" ></line>
   <line id="7861" HymnID="401" StanzaID="1545" LineNum="4" Text="To the blood for refuge flee:" ></line>
-  <line id="7862" HymnID="401" StanzaID="1545" LineNum="5" Text="&#34;Take salvation--" ></line>
-  <line id="7863" HymnID="401" StanzaID="1545" LineNum="6" Text="Take it &#60;I&#62;now&#60;i&#62; and happy be.&#34;" ></line>
+  <line id="7862" HymnID="401" StanzaID="1545" LineNum="5" Text="&#8220;Take salvation--" ></line>
+  <line id="7863" HymnID="401" StanzaID="1545" LineNum="6" Text="Take it &#60;I&#62;now&#60;i&#62; and happy be.&#8221;" ></line>
   <line id="7864" HymnID="401" StanzaID="1546" LineNum="1" Text="Life is found alone in Jesus," ></line>
   <line id="7865" HymnID="401" StanzaID="1546" LineNum="2" Text="Only there &#39;tis offered thee--" ></line>
   <line id="7866" HymnID="401" StanzaID="1546" LineNum="3" Text="Offered without price or money," ></line>
   <line id="7867" HymnID="401" StanzaID="1546" LineNum="4" Text="&#39;Tis the gift of God sent free," ></line>
-  <line id="7868" HymnID="401" StanzaID="1546" LineNum="5" Text="&#34;Take salvation--" ></line>
-  <line id="7869" HymnID="401" StanzaID="1546" LineNum="6" Text="Take it &#60;I&#62;now&#60;i&#62; and happy be.&#34;" ></line>
+  <line id="7868" HymnID="401" StanzaID="1546" LineNum="5" Text="&#8220;Take salvation--" ></line>
+  <line id="7869" HymnID="401" StanzaID="1546" LineNum="6" Text="Take it &#60;I&#62;now&#60;i&#62; and happy be.&#8221;" ></line>
   <line id="7870" HymnID="402" StanzaID="1547" LineNum="1" Text="What, sinner, canst thou do?" ></line>
   <line id="7871" HymnID="402" StanzaID="1547" LineNum="2" Text="Where, sinner, canst thou fly?" ></line>
   <line id="7872" HymnID="402" StanzaID="1547" LineNum="3" Text="Eternal wrath hangs o&#39;er thy head," ></line>
@@ -7915,29 +7915,29 @@
   <line id="7913" HymnID="403" StanzaID="1554" LineNum="4" Text="Forever, ever free," ></line>
   <line id="7914" HymnID="403" StanzaID="1554" LineNum="5" Text="I&#39;ll cast my crown before Him," ></line>
   <line id="7915" HymnID="403" StanzaID="1554" LineNum="6" Text="And loud His grace extol--" ></line>
-  <line id="7916" HymnID="403" StanzaID="1554" LineNum="7" Text="&#34;Thou hast Thyself redeemed me;" ></line>
-  <line id="7917" HymnID="403" StanzaID="1554" LineNum="8" Text="Yes, Thou hast done it all.&#34;" ></line>
-  <line id="7918" HymnID="404" StanzaID="1555" LineNum="1" Text="&#34;All things are ready&#34;: Come," ></line>
+  <line id="7916" HymnID="403" StanzaID="1554" LineNum="7" Text="&#8220;Thou hast Thyself redeemed me;" ></line>
+  <line id="7917" HymnID="403" StanzaID="1554" LineNum="8" Text="Yes, Thou hast done it all.&#8221;" ></line>
+  <line id="7918" HymnID="404" StanzaID="1555" LineNum="1" Text="&#8220;All things are ready&#8221;: Come," ></line>
   <line id="7919" HymnID="404" StanzaID="1555" LineNum="2" Text="Come to the supper spread;" ></line>
   <line id="7920" HymnID="404" StanzaID="1555" LineNum="3" Text="Come, rich and poor; come, old and young," ></line>
   <line id="7921" HymnID="404" StanzaID="1555" LineNum="4" Text="Come, and be richly fed." ></line>
-  <line id="7922" HymnID="404" StanzaID="1556" LineNum="1" Text="&#34;All things are ready&#34;: Come," ></line>
+  <line id="7922" HymnID="404" StanzaID="1556" LineNum="1" Text="&#8220;All things are ready&#8221;: Come," ></line>
   <line id="7923" HymnID="404" StanzaID="1556" LineNum="2" Text="Oh make no vain excuse:" ></line>
   <line id="7924" HymnID="404" StanzaID="1556" LineNum="3" Text="No yoke of oxen, wife or field," ></line>
   <line id="7925" HymnID="404" StanzaID="1556" LineNum="4" Text="Instead of Jesus choose." ></line>
-  <line id="7926" HymnID="404" StanzaID="1557" LineNum="1" Text="&#34;All things are ready&#34;: Come," ></line>
+  <line id="7926" HymnID="404" StanzaID="1557" LineNum="1" Text="&#8220;All things are ready&#8221;: Come," ></line>
   <line id="7927" HymnID="404" StanzaID="1557" LineNum="2" Text="The invitation&#39;s given," ></line>
   <line id="7928" HymnID="404" StanzaID="1557" LineNum="3" Text="Through Him who now in glory sits" ></line>
   <line id="7929" HymnID="404" StanzaID="1557" LineNum="4" Text="At God&#39;s right hand in heaven." ></line>
-  <line id="7930" HymnID="404" StanzaID="1558" LineNum="1" Text="&#34;All things are ready&#34;: Come," ></line>
+  <line id="7930" HymnID="404" StanzaID="1558" LineNum="1" Text="&#8220;All things are ready&#8221;: Come," ></line>
   <line id="7931" HymnID="404" StanzaID="1558" LineNum="2" Text="The door is open wide;" ></line>
   <line id="7932" HymnID="404" StanzaID="1558" LineNum="3" Text="Oh feast upon the love of God," ></line>
   <line id="7933" HymnID="404" StanzaID="1558" LineNum="4" Text="For Christ His Son has died." ></line>
-  <line id="7934" HymnID="404" StanzaID="1559" LineNum="1" Text="&#34;All things are ready&#34;: Come," ></line>
+  <line id="7934" HymnID="404" StanzaID="1559" LineNum="1" Text="&#8220;All things are ready&#8221;: Come," ></line>
   <line id="7935" HymnID="404" StanzaID="1559" LineNum="2" Text="All hindrance is removed;" ></line>
   <line id="7936" HymnID="404" StanzaID="1559" LineNum="3" Text="And God, in Christ, His precious love" ></line>
   <line id="7937" HymnID="404" StanzaID="1559" LineNum="4" Text="To fallen man has proved." ></line>
-  <line id="7938" HymnID="404" StanzaID="1560" LineNum="1" Text="&#34;All things are ready&#34;: Come," ></line>
+  <line id="7938" HymnID="404" StanzaID="1560" LineNum="1" Text="&#8220;All things are ready&#8221;: Come," ></line>
   <line id="7939" HymnID="404" StanzaID="1560" LineNum="2" Text="Tomorrow may not be;" ></line>
   <line id="7940" HymnID="404" StanzaID="1560" LineNum="3" Text="O sinner, come, the Saviour waits" ></line>
   <line id="7941" HymnID="404" StanzaID="1560" LineNum="4" Text="This hour to welcome thee!" ></line>
@@ -7947,14 +7947,14 @@
   <line id="7945" HymnID="405" StanzaID="1561" LineNum="4" Text="The sacrifice would be in vain," ></line>
   <line id="7946" HymnID="405" StanzaID="1561" LineNum="5" Text="The stain of sin would still remain:" ></line>
   <line id="7947" HymnID="405" StanzaID="1561" LineNum="6" Text="Sin is not cancelled so." ></line>
-  <line id="7948" HymnID="405" StanzaID="1562" LineNum="1" Text="&#34;A better sacrifice&#34; than these" ></line>
+  <line id="7948" HymnID="405" StanzaID="1562" LineNum="1" Text="&#8220;A better sacrifice&#8221; than these" ></line>
   <line id="7949" HymnID="405" StanzaID="1562" LineNum="2" Text="It needs, the conscience to appease" ></line>
   <line id="7950" HymnID="405" StanzaID="1562" LineNum="3" Text="Or satisfy the Lord:" ></line>
   <line id="7951" HymnID="405" StanzaID="1562" LineNum="4" Text="No blood hath virtue to atone" ></line>
   <line id="7952" HymnID="405" StanzaID="1562" LineNum="5" Text="For man&#39;s offense, but His alone" ></line>
-  <line id="7953" HymnID="405" StanzaID="1562" LineNum="6" Text="Whose title is &#34;The Word.&#34;" ></line>
+  <line id="7953" HymnID="405" StanzaID="1562" LineNum="6" Text="Whose title is &#8220;The Word.&#8221;" ></line>
   <line id="7954" HymnID="405" StanzaID="1563" LineNum="1" Text="His who could say, Himself the Son," ></line>
-  <line id="7955" HymnID="405" StanzaID="1563" LineNum="2" Text="&#34;My Father and Myself are one,&#34;" ></line>
+  <line id="7955" HymnID="405" StanzaID="1563" LineNum="2" Text="&#8220;My Father and Myself are one,&#8221;" ></line>
   <line id="7956" HymnID="405" StanzaID="1563" LineNum="3" Text="Who made the world around;" ></line>
   <line id="7957" HymnID="405" StanzaID="1563" LineNum="4" Text="His, who Jehovah&#39;s Fellow stood," ></line>
   <line id="7958" HymnID="405" StanzaID="1563" LineNum="5" Text="And claimed equality with God," ></line>
@@ -7988,37 +7988,37 @@
   <line id="7986" HymnID="406" StanzaID="1567" LineNum="7" Text="Till thou above, with Jesus," ></line>
   <line id="7987" HymnID="406" StanzaID="1567" LineNum="8" Text="In light be glorified." ></line>
   <line id="7988" HymnID="407" StanzaID="1568" LineNum="1" Text="Come! hear the gospel sound--" ></line>
-  <line id="7989" HymnID="407" StanzaID="1568" LineNum="2" Text="&#34;Yet there is room!&#34;" ></line>
+  <line id="7989" HymnID="407" StanzaID="1568" LineNum="2" Text="&#8220;Yet there is room!&#8221;" ></line>
   <line id="7990" HymnID="407" StanzaID="1568" LineNum="3" Text="It tells to all around--" ></line>
-  <line id="7991" HymnID="407" StanzaID="1568" LineNum="4" Text="&#34;Yet there is room!&#34;" ></line>
+  <line id="7991" HymnID="407" StanzaID="1568" LineNum="4" Text="&#8220;Yet there is room!&#8221;" ></line>
   <line id="7992" HymnID="407" StanzaID="1568" LineNum="5" Text="Though guilty, now draw near," ></line>
   <line id="7993" HymnID="407" StanzaID="1568" LineNum="6" Text="Though vile, you need not fear," ></line>
   <line id="7994" HymnID="407" StanzaID="1568" LineNum="7" Text="With joy you now may hear--" ></line>
-  <line id="7995" HymnID="407" StanzaID="1568" LineNum="8" Text="&#34;Yet there is room!&#34;" ></line>
+  <line id="7995" HymnID="407" StanzaID="1568" LineNum="8" Text="&#8220;Yet there is room!&#8221;" ></line>
   <line id="7996" HymnID="407" StanzaID="1569" LineNum="1" Text="God&#39;s love in Christ we see--" ></line>
-  <line id="7997" HymnID="407" StanzaID="1569" LineNum="2" Text="&#34;Yet there is room!&#34;" ></line>
+  <line id="7997" HymnID="407" StanzaID="1569" LineNum="2" Text="&#8220;Yet there is room!&#8221;" ></line>
   <line id="7998" HymnID="407" StanzaID="1569" LineNum="3" Text="Greater it could not be--" ></line>
-  <line id="7999" HymnID="407" StanzaID="1569" LineNum="4" Text="&#34;Yet there is room!&#34;" ></line>
+  <line id="7999" HymnID="407" StanzaID="1569" LineNum="4" Text="&#8220;Yet there is room!&#8221;" ></line>
   <line id="8000" HymnID="407" StanzaID="1569" LineNum="5" Text="His only Son He gave," ></line>
   <line id="8001" HymnID="407" StanzaID="1569" LineNum="6" Text="He&#39;s righteous now to save" ></line>
   <line id="8002" HymnID="407" StanzaID="1569" LineNum="7" Text="All who on &#60;I&#62;Him&#60;i&#62; believe:" ></line>
-  <line id="8003" HymnID="407" StanzaID="1569" LineNum="8" Text="&#34;Yet there is room!&#34;" ></line>
-  <line id="8004" HymnID="407" StanzaID="1570" LineNum="1" Text="&#34;All things are ready: come!&#34;" ></line>
-  <line id="8005" HymnID="407" StanzaID="1570" LineNum="2" Text="&#34;Yet there is room!&#34;" ></line>
+  <line id="8003" HymnID="407" StanzaID="1569" LineNum="8" Text="&#8220;Yet there is room!&#8221;" ></line>
+  <line id="8004" HymnID="407" StanzaID="1570" LineNum="1" Text="&#8220;All things are ready: come!&#8221;" ></line>
+  <line id="8005" HymnID="407" StanzaID="1570" LineNum="2" Text="&#8220;Yet there is room!&#8221;" ></line>
   <line id="8006" HymnID="407" StanzaID="1570" LineNum="3" Text="Christ everything hath done:" ></line>
-  <line id="8007" HymnID="407" StanzaID="1570" LineNum="4" Text="&#34;Yet there is room!&#34;" ></line>
+  <line id="8007" HymnID="407" StanzaID="1570" LineNum="4" Text="&#8220;Yet there is room!&#8221;" ></line>
   <line id="8008" HymnID="407" StanzaID="1570" LineNum="5" Text="The work is now complete;" ></line>
   <line id="8009" HymnID="407" StanzaID="1570" LineNum="6" Text="Before the mercy-seat" ></line>
   <line id="8010" HymnID="407" StanzaID="1570" LineNum="7" Text="A Saviour you will meet:" ></line>
-  <line id="8011" HymnID="407" StanzaID="1570" LineNum="8" Text="&#34;Yet there is room!&#34;" ></line>
+  <line id="8011" HymnID="407" StanzaID="1570" LineNum="8" Text="&#8220;Yet there is room!&#8221;" ></line>
   <line id="8012" HymnID="407" StanzaID="1571" LineNum="1" Text="God&#39;s house is filling fast," ></line>
-  <line id="8013" HymnID="407" StanzaID="1571" LineNum="2" Text="&#34;Yet there is room!&#34;" ></line>
+  <line id="8013" HymnID="407" StanzaID="1571" LineNum="2" Text="&#8220;Yet there is room!&#8221;" ></line>
   <line id="8014" HymnID="407" StanzaID="1571" LineNum="3" Text="Some guest will be the last," ></line>
-  <line id="8015" HymnID="407" StanzaID="1571" LineNum="4" Text="&#34;Yet there is room!&#34;" ></line>
+  <line id="8015" HymnID="407" StanzaID="1571" LineNum="4" Text="&#8220;Yet there is room!&#8221;" ></line>
   <line id="8016" HymnID="407" StanzaID="1571" LineNum="5" Text="Yes! soon salvation&#39;s day" ></line>
   <line id="8017" HymnID="407" StanzaID="1571" LineNum="6" Text="To you will pass away," ></line>
   <line id="8018" HymnID="407" StanzaID="1571" LineNum="7" Text="Then grace no more will say--" ></line>
-  <line id="8019" HymnID="407" StanzaID="1571" LineNum="8" Text="&#34;Yet there is room!&#34;" ></line>
+  <line id="8019" HymnID="407" StanzaID="1571" LineNum="8" Text="&#8220;Yet there is room!&#8221;" ></line>
   <line id="8020" HymnID="408" StanzaID="1572" LineNum="1" Text="The perfect righteousness of God" ></line>
   <line id="8021" HymnID="408" StanzaID="1572" LineNum="2" Text="Is witnessed in the Saviour&#39;s blood;" ></line>
   <line id="8022" HymnID="408" StanzaID="1572" LineNum="3" Text="&#39;Tis in the cross of Christ we trace" ></line>
@@ -8032,17 +8032,17 @@
   <line id="8030" HymnID="408" StanzaID="1574" LineNum="3" Text="Stern justice can demand no more," ></line>
   <line id="8031" HymnID="408" StanzaID="1574" LineNum="4" Text="And mercy can dispense her store." ></line>
   <line id="8032" HymnID="408" StanzaID="1575" LineNum="1" Text="The sinner who believes is free," ></line>
-  <line id="8033" HymnID="408" StanzaID="1575" LineNum="2" Text="Can say, &#34;The Saviour died for me&#34;:" ></line>
+  <line id="8033" HymnID="408" StanzaID="1575" LineNum="2" Text="Can say, &#8220;The Saviour died for me&#8221;:" ></line>
   <line id="8034" HymnID="408" StanzaID="1575" LineNum="3" Text="Can point to the atoning blood," ></line>
-  <line id="8035" HymnID="408" StanzaID="1575" LineNum="4" Text="And say, &#34;This made my peace with God.&#34;" ></line>
+  <line id="8035" HymnID="408" StanzaID="1575" LineNum="4" Text="And say, &#8220;This made my peace with God.&#8221;" ></line>
   <line id="8036" HymnID="409" StanzaID="1576" LineNum="1" Text="By faith I see the Saviour dying," ></line>
   <line id="8037" HymnID="409" StanzaID="1576" LineNum="2" Text="On the tree;" ></line>
   <line id="8038" HymnID="409" StanzaID="1576" LineNum="3" Text="To ruined sinners He is crying," ></line>
-  <line id="8039" HymnID="409" StanzaID="1576" LineNum="4" Text="&#34;Look to Me.&#34;" ></line>
+  <line id="8039" HymnID="409" StanzaID="1576" LineNum="4" Text="&#8220;Look to Me.&#8221;" ></line>
   <line id="8040" HymnID="409" StanzaID="1576" LineNum="5" Text="He bids the guilty now draw near," ></line>
   <line id="8041" HymnID="409" StanzaID="1576" LineNum="6" Text="Hark, hark! His precious words I hear--" ></line>
   <line id="8042" HymnID="409" StanzaID="1576" LineNum="7" Text="So soft, so sweet, they banish fear--" ></line>
-  <line id="8043" HymnID="409" StanzaID="1576" LineNum="8" Text="&#34;Mercy&#39;s free.&#34;" ></line>
+  <line id="8043" HymnID="409" StanzaID="1576" LineNum="8" Text="&#8220;Mercy&#39;s free.&#8221;" ></line>
   <line id="8044" HymnID="409" StanzaID="1577" LineNum="1" Text="This mercy still my soul refreshes--" ></line>
   <line id="8045" HymnID="409" StanzaID="1577" LineNum="2" Text="Oh how free," ></line>
   <line id="8046" HymnID="409" StanzaID="1577" LineNum="3" Text="And every moment Christ is precious" ></line>
@@ -8050,9 +8050,9 @@
   <line id="8048" HymnID="409" StanzaID="1577" LineNum="5" Text="None can describe the bliss I prove," ></line>
   <line id="8049" HymnID="409" StanzaID="1577" LineNum="6" Text="While through the wilderness I rove," ></line>
   <line id="8050" HymnID="409" StanzaID="1577" LineNum="7" Text="Enjoying still my Saviour&#39;s love--" ></line>
-  <line id="8051" HymnID="409" StanzaID="1577" LineNum="8" Text="&#34;Mercy&#39;s free.&#34;" ></line>
+  <line id="8051" HymnID="409" StanzaID="1577" LineNum="8" Text="&#8220;Mercy&#39;s free.&#8221;" ></line>
   <line id="8052" HymnID="409" StanzaID="1578" LineNum="1" Text="Long as I live I&#39;d still be crying," ></line>
-  <line id="8053" HymnID="409" StanzaID="1578" LineNum="2" Text="&#34;Mercy&#39;s free&#34;;" ></line>
+  <line id="8053" HymnID="409" StanzaID="1578" LineNum="2" Text="&#8220;Mercy&#39;s free&#8221;;" ></line>
   <line id="8054" HymnID="409" StanzaID="1578" LineNum="3" Text="Point to the Lamb for sinners dying" ></line>
   <line id="8055" HymnID="409" StanzaID="1578" LineNum="4" Text="On the tree." ></line>
   <line id="8056" HymnID="409" StanzaID="1578" LineNum="5" Text="There all my foes He hath withstood," ></line>
@@ -8060,13 +8060,13 @@
   <line id="8058" HymnID="409" StanzaID="1578" LineNum="7" Text="Made manifest the love of God" ></line>
   <line id="8059" HymnID="409" StanzaID="1578" LineNum="8" Text="E&#39;en to me." ></line>
   <line id="8060" HymnID="409" StanzaID="1579" LineNum="1" Text="How sweet the truth, ye sinners, hear it," ></line>
-  <line id="8061" HymnID="409" StanzaID="1579" LineNum="2" Text="&#34;Mercy&#39;s free.&#34;" ></line>
+  <line id="8061" HymnID="409" StanzaID="1579" LineNum="2" Text="&#8220;Mercy&#39;s free.&#8221;" ></line>
   <line id="8062" HymnID="409" StanzaID="1579" LineNum="3" Text="Ye saints of God, to all declare it," ></line>
-  <line id="8063" HymnID="409" StanzaID="1579" LineNum="4" Text="&#34;Mercy&#39;s free.&#34;" ></line>
+  <line id="8063" HymnID="409" StanzaID="1579" LineNum="4" Text="&#8220;Mercy&#39;s free.&#8221;" ></line>
   <line id="8064" HymnID="409" StanzaID="1579" LineNum="5" Text="Visit your neighbor&#39;s dark abode," ></line>
   <line id="8065" HymnID="409" StanzaID="1579" LineNum="6" Text="Proclaim to all this love of God," ></line>
   <line id="8066" HymnID="409" StanzaID="1579" LineNum="7" Text="Oh spread the joyful news abroad," ></line>
-  <line id="8067" HymnID="409" StanzaID="1579" LineNum="8" Text="&#34;Mercy&#39;s free.&#34;" ></line>
+  <line id="8067" HymnID="409" StanzaID="1579" LineNum="8" Text="&#8220;Mercy&#39;s free.&#8221;" ></line>
   <line id="8068" HymnID="410" StanzaID="1580" LineNum="1" Text="Oh! the peace forever flowing" ></line>
   <line id="8069" HymnID="410" StanzaID="1580" LineNum="2" Text="From God&#39;s thoughts of His own Son," ></line>
   <line id="8070" HymnID="410" StanzaID="1580" LineNum="3" Text="Oh, the peace of simply knowing" ></line>
@@ -8151,7 +8151,7 @@
   <line id="8149" HymnID="413" StanzaID="1599" LineNum="2" Text="Or look of love to Thee I&#39;ve ever brought;" ></line>
   <line id="8150" HymnID="413" StanzaID="1599" LineNum="3" Text="Yet I &#60;I&#62;may&#60;i&#62; come, and come again to Thee," ></line>
   <line id="8151" HymnID="413" StanzaID="1599" LineNum="4" Text="With this the empty sinner&#39;s only plea--" ></line>
-  <line id="8152" HymnID="413" StanzaID="1599" LineNum="5" Text="&#60;I&#62;&#34;Thou lovest me!&#34;&#60;i&#62;" ></line>
+  <line id="8152" HymnID="413" StanzaID="1599" LineNum="5" Text="&#60;I&#62;&#8221;Thou lovest me!&#8221;&#60;i&#62;" ></line>
   <line id="8153" HymnID="413" StanzaID="1600" LineNum="1" Text="Oh! fill me, Jesus Saviour, with Thy love;" ></line>
   <line id="8154" HymnID="413" StanzaID="1600" LineNum="2" Text="Lead, lead me to the living fount above!" ></line>
   <line id="8155" HymnID="413" StanzaID="1600" LineNum="3" Text="Thither may I in simple faith draw nigh" ></line>
@@ -8194,55 +8194,55 @@
   <line id="8192" HymnID="414" StanzaID="1605" LineNum="6" Text="I seek no more to roam;" ></line>
   <line id="8193" HymnID="414" StanzaID="1605" LineNum="7" Text="I love my heavenly Father&#39;s voice:" ></line>
   <line id="8194" HymnID="414" StanzaID="1605" LineNum="8" Text="I love, I love His home." ></line>
-  <line id="8195" HymnID="415" StanzaID="1606" LineNum="1" Text="&#34;Behold the Lamb&#34; enthroned on high--" ></line>
-  <line id="8196" HymnID="415" StanzaID="1606" LineNum="2" Text="&#34;He is our peace&#34;;" ></line>
+  <line id="8195" HymnID="415" StanzaID="1606" LineNum="1" Text="&#8220;Behold the Lamb&#8221; enthroned on high--" ></line>
+  <line id="8196" HymnID="415" StanzaID="1606" LineNum="2" Text="&#8220;He is our peace&#8221;;" ></line>
   <line id="8197" HymnID="415" StanzaID="1606" LineNum="3" Text="In Him we are to God brought nigh--" ></line>
-  <line id="8198" HymnID="415" StanzaID="1606" LineNum="4" Text="&#34;He is our peace.&#34;" ></line>
+  <line id="8198" HymnID="415" StanzaID="1606" LineNum="4" Text="&#8220;He is our peace.&#8221;" ></line>
   <line id="8199" HymnID="415" StanzaID="1606" LineNum="5" Text="He who on Calvary&#39;s cross has bled--" ></line>
   <line id="8200" HymnID="415" StanzaID="1606" LineNum="6" Text="He who was numbered with the dead--" ></line>
   <line id="8201" HymnID="415" StanzaID="1606" LineNum="7" Text="Exalted now o&#39;er all as Head," ></line>
-  <line id="8202" HymnID="415" StanzaID="1606" LineNum="8" Text="&#34;He is our peace.&#34;" ></line>
-  <line id="8203" HymnID="415" StanzaID="1607" LineNum="1" Text="&#34;Complete in Him&#34; at God&#39;s right hand--" ></line>
-  <line id="8204" HymnID="415" StanzaID="1607" LineNum="2" Text="&#34;He is our peace&#34;;" ></line>
+  <line id="8202" HymnID="415" StanzaID="1606" LineNum="8" Text="&#8220;He is our peace.&#8221;" ></line>
+  <line id="8203" HymnID="415" StanzaID="1607" LineNum="1" Text="&#8220;Complete in Him&#8221; at God&#39;s right hand--" ></line>
+  <line id="8204" HymnID="415" StanzaID="1607" LineNum="2" Text="&#8220;He is our peace&#8221;;" ></line>
   <line id="8205" HymnID="415" StanzaID="1607" LineNum="3" Text="Before the throne we boldly stand--" ></line>
-  <line id="8206" HymnID="415" StanzaID="1607" LineNum="4" Text="&#34;He is our peace&#34;:" ></line>
+  <line id="8206" HymnID="415" StanzaID="1607" LineNum="4" Text="&#8220;He is our peace&#8221;:" ></line>
   <line id="8207" HymnID="415" StanzaID="1607" LineNum="5" Text="The blood-besprinkled mercy-seat," ></line>
   <line id="8208" HymnID="415" StanzaID="1607" LineNum="6" Text="His pierc&#232;d side, His hands and feet," ></line>
   <line id="8209" HymnID="415" StanzaID="1607" LineNum="7" Text="Proclaim redemption&#39;s work complete--" ></line>
-  <line id="8210" HymnID="415" StanzaID="1607" LineNum="8" Text="&#34;He is our peace.&#34;" ></line>
+  <line id="8210" HymnID="415" StanzaID="1607" LineNum="8" Text="&#8220;He is our peace.&#8221;" ></line>
   <line id="8211" HymnID="415" StanzaID="1608" LineNum="1" Text="God finds eternal rest in Him--" ></line>
-  <line id="8212" HymnID="415" StanzaID="1608" LineNum="2" Text="&#34;He is our peace&#34;;" ></line>
+  <line id="8212" HymnID="415" StanzaID="1608" LineNum="2" Text="&#8220;He is our peace&#8221;;" ></line>
   <line id="8213" HymnID="415" StanzaID="1608" LineNum="3" Text="That rest which was disturbed by sin--" ></line>
-  <line id="8214" HymnID="415" StanzaID="1608" LineNum="4" Text="&#34;He is our peace&#34;;" ></line>
+  <line id="8214" HymnID="415" StanzaID="1608" LineNum="4" Text="&#8220;He is our peace&#8221;;" ></line>
   <line id="8215" HymnID="415" StanzaID="1608" LineNum="5" Text="We too by faith on Him repose," ></line>
   <line id="8216" HymnID="415" StanzaID="1608" LineNum="6" Text="Who did the Father&#39;s heart disclose," ></line>
   <line id="8217" HymnID="415" StanzaID="1608" LineNum="7" Text="From which this full salvation flows--" ></line>
-  <line id="8218" HymnID="415" StanzaID="1608" LineNum="8" Text="&#34;He is our peace.&#34;" ></line>
+  <line id="8218" HymnID="415" StanzaID="1608" LineNum="8" Text="&#8220;He is our peace.&#8221;" ></line>
   <line id="8219" HymnID="415" StanzaID="1609" LineNum="1" Text="As one with Him we rest secure--" ></line>
-  <line id="8220" HymnID="415" StanzaID="1609" LineNum="2" Text="&#34;He is our peace.&#34;" ></line>
+  <line id="8220" HymnID="415" StanzaID="1609" LineNum="2" Text="&#8220;He is our peace.&#8221;" ></line>
   <line id="8221" HymnID="415" StanzaID="1609" LineNum="3" Text="Unchanging doth His work endure--" ></line>
-  <line id="8222" HymnID="415" StanzaID="1609" LineNum="4" Text="&#34;He is our peace&#34;;" ></line>
+  <line id="8222" HymnID="415" StanzaID="1609" LineNum="4" Text="&#8220;He is our peace&#8221;;" ></line>
   <line id="8223" HymnID="415" StanzaID="1609" LineNum="5" Text="Now seated on the Father&#39;s throne," ></line>
   <line id="8224" HymnID="415" StanzaID="1609" LineNum="6" Text="Elect and precious Cornerstone," ></line>
   <line id="8225" HymnID="415" StanzaID="1609" LineNum="7" Text="On Him we rest--on Him alone--" ></line>
-  <line id="8226" HymnID="415" StanzaID="1609" LineNum="8" Text="&#34;He is our peace.&#34;" ></line>
-  <line id="8227" HymnID="416" StanzaID="1610" LineNum="1" Text="&#34;No separation&#34;--oh, my soul," ></line>
+  <line id="8226" HymnID="415" StanzaID="1609" LineNum="8" Text="&#8220;He is our peace.&#8221;" ></line>
+  <line id="8227" HymnID="416" StanzaID="1610" LineNum="1" Text="&#8220;No separation&#8221;--oh, my soul," ></line>
   <line id="8228" HymnID="416" StanzaID="1610" LineNum="2" Text="&#39;Tis God who speaks the word," ></line>
   <line id="8229" HymnID="416" StanzaID="1610" LineNum="3" Text="So close the Spirit thee unites" ></line>
   <line id="8230" HymnID="416" StanzaID="1610" LineNum="4" Text="With Christ thy risen Lord." ></line>
-  <line id="8231" HymnID="416" StanzaID="1611" LineNum="1" Text="&#34;No separation&#34;--thou art His," ></line>
+  <line id="8231" HymnID="416" StanzaID="1611" LineNum="1" Text="&#8220;No separation&#8221;--thou art His," ></line>
   <line id="8232" HymnID="416" StanzaID="1611" LineNum="2" Text="And His forevermore;" ></line>
   <line id="8233" HymnID="416" StanzaID="1611" LineNum="3" Text="Upon the cross thy debt He paid," ></line>
   <line id="8234" HymnID="416" StanzaID="1611" LineNum="4" Text="And all thy judgment bore." ></line>
-  <line id="8235" HymnID="416" StanzaID="1612" LineNum="1" Text="&#34;No separation&#34;--precious word;" ></line>
+  <line id="8235" HymnID="416" StanzaID="1612" LineNum="1" Text="&#8220;No separation&#8221;--precious word;" ></line>
   <line id="8236" HymnID="416" StanzaID="1612" LineNum="2" Text="In it, my soul, be glad;" ></line>
   <line id="8237" HymnID="416" StanzaID="1612" LineNum="3" Text="Loved with an everlasting love," ></line>
   <line id="8238" HymnID="416" StanzaID="1612" LineNum="4" Text="And one with Jesus made." ></line>
-  <line id="8239" HymnID="416" StanzaID="1613" LineNum="1" Text="&#34;No separation&#34;--life nor death," ></line>
+  <line id="8239" HymnID="416" StanzaID="1613" LineNum="1" Text="&#8220;No separation&#8221;--life nor death," ></line>
   <line id="8240" HymnID="416" StanzaID="1613" LineNum="2" Text="Things present nor to come," ></line>
   <line id="8241" HymnID="416" StanzaID="1613" LineNum="3" Text="Can part thee from His precious care," ></line>
   <line id="8242" HymnID="416" StanzaID="1613" LineNum="4" Text="Or rob thee of thy home." ></line>
-  <line id="8243" HymnID="416" StanzaID="1614" LineNum="1" Text="&#34;No separation&#34;--linked with Him," ></line>
+  <line id="8243" HymnID="416" StanzaID="1614" LineNum="1" Text="&#8220;No separation&#8221;--linked with Him," ></line>
   <line id="8244" HymnID="416" StanzaID="1614" LineNum="2" Text="His glory--all is thine;" ></line>
   <line id="8245" HymnID="416" StanzaID="1614" LineNum="3" Text="Oh, wondrous love, that thus could plan" ></line>
   <line id="8246" HymnID="416" StanzaID="1614" LineNum="4" Text="A union so divine!" ></line>
@@ -8298,7 +8298,7 @@
   <line id="8296" HymnID="418" StanzaID="1623" LineNum="1" Text="Oh! I am my Belov&#232;d&#39;s," ></line>
   <line id="8297" HymnID="418" StanzaID="1623" LineNum="2" Text="And my Belov&#232;d&#39;s mine!" ></line>
   <line id="8298" HymnID="418" StanzaID="1623" LineNum="3" Text="He brings a poor, vile sinner" ></line>
-  <line id="8299" HymnID="418" StanzaID="1623" LineNum="4" Text="Into His &#34;house of wine&#34;!" ></line>
+  <line id="8299" HymnID="418" StanzaID="1623" LineNum="4" Text="Into His &#8220;house of wine&#8221;!" ></line>
   <line id="8300" HymnID="418" StanzaID="1623" LineNum="5" Text="I stand upon His merit," ></line>
   <line id="8301" HymnID="418" StanzaID="1623" LineNum="6" Text="I know no safer stand," ></line>
   <line id="8302" HymnID="418" StanzaID="1623" LineNum="7" Text="Not e&#39;en where glory dwelleth," ></line>

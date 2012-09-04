@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-        package="kaiserguy.lfhb" android:installLocation="auto" android:versionName="2.4.8" android:versionCode="34">
+        package="kaiserguy.lfhb" android:installLocation="auto" android:versionName="2.5.0" android:versionCode="35">
 
-    <uses-sdk android:minSdkVersion="4" />
+    <uses-sdk android:minSdkVersion="8" />
 
+	<uses-permission android:name="android.permission.INTERNET">
+	</uses-permission>
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE">
+	</uses-permission>
     <application android:label="@string/app_name"
-            android:icon="@drawable/ic_blacksheep" android:allowClearUserData="true" android:debuggable="true">
+            android:icon="@drawable/ic_blacksheep" android:allowClearUserData="true">
 
         <!-- The default activity of the app.  Can also display search results. -->
         <activity android:name=".SearchableHymnBook"
@@ -54,10 +58,6 @@
                 android:theme="@android:style/Theme.NoTitleBar"/>
 		        
         <!-- Displays  -->
-        <activity android:name=".AuthorActivity"
-                android:theme="@android:style/Theme.NoTitleBar"/>
-		        
-        <!-- Displays  -->
         <activity android:name=".HymnSearchPicker"
                 android:theme="@android:style/Theme.NoTitleBar"/>
 		        
@@ -92,8 +92,4 @@
         <provider android:name="HymnBookProvider"
                 android:authorities="lfhbhymnbook" android:syncable="true"/>
     </application>
-	<uses-permission android:name="android.permission.INTERNET">
-	</uses-permission>
-	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE">
-	</uses-permission>
 </manifest>

@@ -70,13 +70,24 @@ public class NumberPad extends Activity {
 	  // +" "+ dm.heightPixels, dm.widthPixels +" "+ dm.heightPixels, false);
 
 	  int height = dm.heightPixels;
-	  int width = dm.widthPixels;
-	  int numberSize = 80;
-	  int goSize = 60;
-	  int appendixSize = 40;
-	  int inputSize = 50;
+	  //int width = dm.widthPixels;
+	  int numberSize = 40;
+	  int goSize = 40;
+	  int appendixSize = 14;
+	  int inputSize = 55;
 
-	  if (height > 600 && width > 600) {
+	  if (height > 900) {
+		  numberSize = 80;
+		  goSize = 60;
+		  appendixSize = 25;
+		  inputSize = 100;
+	  } else if (height > 600) {
+		  numberSize = 60;
+		  goSize = 50;
+		  appendixSize = 16;
+		  inputSize = 75;
+	  }
+
 	   txtInput.setTextSize(inputSize);
 	   btnGo.setTextSize(goSize);
 	   btnNine.setTextSize(numberSize);
@@ -90,8 +101,7 @@ public class NumberPad extends Activity {
 	   btnOne.setTextSize(numberSize);
 	   btnZero.setTextSize(numberSize);
 	   btnAppendix.setTextSize(appendixSize);
-	  }
-
+	   
 	  /*btnZero.setTextColor(Color.MAGENTA);
 	  btnOne.setTextColor(Color.MAGENTA);
 	  btnTwo.setTextColor(Color.MAGENTA);
