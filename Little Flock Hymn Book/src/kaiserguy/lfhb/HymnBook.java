@@ -380,56 +380,67 @@ public class HymnBook {
 		int intHymnNumber;
 		Hymn currentHymn;
 		Stanza currentStanza;
-		XmlResourceParser xrpLines = resources.getXml(R.xml.hymnlines);
-		try {
-			while (xrpLines.getName() == null) {
-				xrpLines.next();
+		XmlResourceParser xrpLines;
+		for (int i=0; i<4; i++){
+			if (i==0){
+				xrpLines = resources.getXml(R.xml.hymnlines_1);
+			}else if (i==1){
+				xrpLines = resources.getXml(R.xml.hymnlines_2);
+			}else if (i==2){
+				xrpLines = resources.getXml(R.xml.hymnlines_3);
+			}else{
+				xrpLines = resources.getXml(R.xml.hymnlines_4);
 			}
-			while (xrpLines.getName().equals("line") == false) {
-				xrpLines.next();
-			}
-			while (xrpLines.getName().equals("line")) {
-				intHymnNumber = xrpLines
-						.getAttributeIntValue(null, "HymnID", 1);
-				intStanzaNumber = xrpLines.getAttributeIntValue(null,
-						"StanzaID", 1);
-				intLineNumber = xrpLines.getAttributeIntValue(null, "LineNum",
-						1);
-				currentHymn = mHymns.get(intHymnNumber - 1);
-				if (intHymnNumber - intPreviousHymnNumber > 1) {
-					intPreviousHymnNumber = intHymnNumber - 1;
-					intPreviousHymnStanzaNumber = intStanzaNumber - 1;
+			try {
+				while (xrpLines.getName() == null) {
+					xrpLines.next();
 				}
-				intStanzaNumber = intStanzaNumber - intPreviousHymnStanzaNumber;
-
-				switch (intLineNumber) {
-				case 1:
-					currentStanza = new Stanza(intStanzaNumber);
-					String temp = xrpLines.getAttributeValue(null, "Text");
-					currentStanza.lines[0] = temp;
-					currentHymn.stanzas.add(currentStanza);
-					currentHymnNumber += 1;
-					break;
-				default:
-					currentHymn.stanzas.get(intStanzaNumber - 1).lines = (String[]) resizeArray(
-							currentHymn.stanzas.get(intStanzaNumber - 1).lines,
-							intLineNumber);
-					currentHymn.stanzas.get(intStanzaNumber - 1).lines[intLineNumber - 1] = xrpLines
-							.getAttributeValue(null, "Text");
+				while (xrpLines.getName().equals("line") == false) {
+					xrpLines.next();
 				}
-				xrpLines.nextTag();
-				xrpLines.nextTag();
+				while (xrpLines.getName().equals("line")) {
+					intHymnNumber = xrpLines
+							.getAttributeIntValue(null, "HymnID", 1);
+					intStanzaNumber = xrpLines.getAttributeIntValue(null,
+							"StanzaID", 1);
+					intLineNumber = xrpLines.getAttributeIntValue(null, "LineNum",
+							1);
+					currentHymn = mHymns.get(intHymnNumber - 1);
+					if (intHymnNumber - intPreviousHymnNumber > 1) {
+						intPreviousHymnNumber = intHymnNumber - 1;
+						intPreviousHymnStanzaNumber = intStanzaNumber - 1;
+					}
+					intStanzaNumber = intStanzaNumber - intPreviousHymnStanzaNumber;
+	
+					switch (intLineNumber) {
+					case 1:
+						currentStanza = new Stanza(intStanzaNumber);
+						String temp = xrpLines.getAttributeValue(null, "Text");
+						currentStanza.lines[0] = temp;
+						currentHymn.stanzas.add(currentStanza);
+						currentHymnNumber += 1;
+						break;
+					default:
+						currentHymn.stanzas.get(intStanzaNumber - 1).lines = (String[]) resizeArray(
+								currentHymn.stanzas.get(intStanzaNumber - 1).lines,
+								intLineNumber);
+						currentHymn.stanzas.get(intStanzaNumber - 1).lines[intLineNumber - 1] = xrpLines
+								.getAttributeValue(null, "Text");
+					}
+					xrpLines.nextTag();
+					xrpLines.nextTag();
+				}
+	
+			} catch (XmlPullParserException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
 			}
-
-		} catch (XmlPullParserException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
+	
+			xrpLines.close();
 		}
-
-		xrpLines.close();
 		mLoaded = true;
 	}
 
