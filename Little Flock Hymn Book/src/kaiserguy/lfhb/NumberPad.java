@@ -32,8 +32,8 @@ public class NumberPad extends Activity {
 	 public void onCreate(Bundle savedInstanceState) {
 	  super.onCreate(savedInstanceState);
 	  setTheme(android.R.style.Theme_Black);
-	  setContentView(R.layout.number_pad);
-
+	  setContentView(R.layout.number_pad);	  
+	  
 	  initControls();
 	  initScreenLayout();
 	  reset();
@@ -184,7 +184,7 @@ public class NumberPad extends Activity {
 	  });
 	  btnGo.setOnClickListener(new Button.OnClickListener() {
 	   public void onClick(View v) {
-		   launchHymn(txtInput.getText().toString());
+		   Go();
 	   }
 	  });
 	  btnAppendix.setOnClickListener(new Button.OnClickListener() {
@@ -197,7 +197,51 @@ public class NumberPad extends Activity {
 		   }
 	   }
 	  });
+	 }	 
+
+	 public void Go(){
+		 launchHymn(txtInput.getText().toString());
 	 }
+
+	 @Override
+		public boolean onKeyUp(int keyCode, KeyEvent event) {
+		    switch (keyCode) {
+		        case KeyEvent.KEYCODE_0:
+		        	handleNumber(0);
+				    return true;
+		        case KeyEvent.KEYCODE_1:
+		        	handleNumber(1);
+				    return true;
+		        case KeyEvent.KEYCODE_2:
+		        	handleNumber(2);
+				    return true;
+		        case KeyEvent.KEYCODE_3:
+		        	handleNumber(3);
+				    return true;
+		        case KeyEvent.KEYCODE_4:
+		        	handleNumber(4);
+				    return true;
+		        case KeyEvent.KEYCODE_5:
+		        	handleNumber(5);
+				    return true;
+		        case KeyEvent.KEYCODE_6:
+		        	handleNumber(6);
+				    return true;
+		        case KeyEvent.KEYCODE_7:
+		        	handleNumber(7);
+				    return true;
+		        case KeyEvent.KEYCODE_8:
+		        	handleNumber(8);
+				    return true;
+		        case KeyEvent.KEYCODE_9:
+		        	handleNumber(9);
+				    return true;
+		        case KeyEvent.KEYCODE_ENTER:
+		        	Go();
+		        	return true;
+		    }
+		    return false;
+		}
 
 	 private void handleNumber(int num) {
 	  String strValue = txtInput.getText().toString().trim();

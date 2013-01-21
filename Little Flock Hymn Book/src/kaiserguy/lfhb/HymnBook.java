@@ -62,14 +62,8 @@ public class HymnBook {
 		public String getText() {
 			String hymnText = "";
 			for (int s = 0; s < stanzas.size() - 1; s++) {
-				hymnText += Integer.toString(s + 1) + " ";
-				for (int l = 0; l < stanzas.get(s).lines.length; l++) {
-					hymnText += stanzas.get(s).lines[l];
-				}
-				hymnText += "\n";
+				hymnText += stanzas.get(s).getText();
 			}
-			hymnText = hymnText.replaceAll("\\|\\|/?i\\|\\|", "").replace(
-					"||sp||", " ");
 			return hymnText;
 		}
 
@@ -82,16 +76,7 @@ public class HymnBook {
 		 * hymnText; }
 		 */
 		public String getStanzaText(int stanza) {
-			String hymnText = "";
-
-			hymnText = hymnText + Integer.toString(stanza + 1) + " ";
-			for (int l = 0; l < stanzas.get(stanza).lines.length; l++) {
-				hymnText += stanzas.get(stanza).lines[l];
-			}
-			hymnText += "\n";
-			hymnText = hymnText.replaceAll("\\|\\|/?i\\|\\|", "").replace(
-					"||sp||", " ");
-			return hymnText;
+			return stanzas.get(stanza).getText();
 		}
 
 		/*
@@ -166,7 +151,7 @@ public class HymnBook {
 							int firstLetter = 0;
 							int firstSpace = 0;
 							boolean bad = false;
-							Pattern p = Pattern.compile("[|i“\"’]");
+							Pattern p = Pattern.compile("[|i“\"’']");
 							
 							do {
 								bad = false;
@@ -231,6 +216,18 @@ public class HymnBook {
 
 		public Stanza(int number) {
 			this.number = number;
+		}
+		public String getText() {
+			String stanzaText = "";
+
+			stanzaText = stanzaText + Integer.toString(number) + " ";
+			for (int l = 0; l < lines.length; l++) {
+				stanzaText += lines[l];
+			}
+			stanzaText += "\n";
+			stanzaText = stanzaText.replaceAll("\\|\\|/?i\\|\\|", "").replace(
+					"||sp||", " ");
+			return stanzaText;
 		}
 	}
 
