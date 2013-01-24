@@ -240,7 +240,7 @@ public class NumberPad extends Activity {
 		        	Go();
 		        	return true;
 		    }
-		    return false;
+		    return super.onKeyUp(keyCode, event);
 		}
 
 	 private void handleNumber(int num) {
