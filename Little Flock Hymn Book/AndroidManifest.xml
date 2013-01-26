@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-        package="kaiserguy.lfhb" android:installLocation="auto" android:versionName="2.6.1" android:versionCode="39">
+        package="kaiserguy.lfhb" android:installLocation="auto" android:versionName="2.6.2" android:versionCode="40">
 
     <uses-sdk android:minSdkVersion="7" android:targetSdkVersion="16" />
 

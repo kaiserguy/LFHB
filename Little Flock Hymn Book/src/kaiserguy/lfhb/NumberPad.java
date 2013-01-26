@@ -76,15 +76,10 @@ public class NumberPad extends Activity {
 	  int appendixSize = 14;
 	  int inputSize = 55;
 
-	  if (height > 900) {
-		  numberSize = 80;
-		  goSize = 60;
-		  appendixSize = 25;
-		  inputSize = 100;
-	  } else if (height > 600) {
+	  if (height > 600) {
 		  numberSize = 60;
 		  goSize = 50;
-		  appendixSize = 16;
+		  appendixSize = 14;
 		  inputSize = 75;
 	  }
 
