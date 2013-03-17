@@ -16,6 +16,7 @@ import java.net.URL;
 import java.util.ArrayList;
 import java.util.regex.*;
 
+import android.app.DownloadManager;
 import android.app.ListActivity;
 import android.app.SearchManager;
 import android.content.Context;
@@ -23,6 +24,7 @@ import android.content.Intent;
 import android.media.AudioManager;
 import android.media.MediaPlayer;
 import android.net.Uri;
+import android.os.AsyncTask;
 import android.os.Bundle;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
@@ -87,60 +89,66 @@ public class TunesActivity extends ListActivity implements
 			getTunes(hymnMeter);
 		}
 
-		setListAdapter(new ArrayAdapter<String>(this,
-				android.R.layout.simple_list_item_1, lstTuneNames));
-
 		ListView lv = getListView();
 		lv.setTextFilterEnabled(true);
 		lv.setOnItemClickListener(new OnItemClickListener() {
 			public void onItemClick(AdapterView<?> parent, View view,
 					int position, long id) {
-				if (mp != null){
-					if (mp.isPlaying()) {
-						mp.stop();
-						mp.reset();
-					}
-				} else {
-					mp = new MediaPlayer();
-				}
 
 				String tuneName = ((TextView) view).getText().toString();
-
-				int i = 0;
-				while (tuneName != lstTuneNames[i]) {
-					i++;
-				}
-
-				DownloadFromUrl(lstTuneFileNames.get(i));
-
-				//mp.setAudioStreamType(AudioManager.STREAM_MUSIC);
-				FileInputStream fis;
-				try {
-					fis = openFileInput(lstTuneFileNames.get(i).replace("/", "_"));
-					mp.setDataSource(fis.getFD());
-					mp.prepare();
-				} catch (FileNotFoundException e1) {
-					Toast.makeText(getApplicationContext(),
-							"Was not able to find the music I just downloaded to the cache",
-							Toast.LENGTH_LONG).show();
-				} catch (IllegalArgumentException e) {
-					Toast.makeText(getApplicationContext(),
-							"Was not able to start streaming music",
-							Toast.LENGTH_SHORT).show();
-				} catch (IllegalStateException e) {
-					Toast.makeText(getApplicationContext(),
-							"Was not able to start streaming music",
-							Toast.LENGTH_SHORT).show();
-				} catch (IOException e) {
-					Toast.makeText(getApplicationContext(),
-							"Was not able to start streaming music",
-							Toast.LENGTH_SHORT).show();
-				}
-				requestAudioFocus();
+				playTune(tuneName);
 			}
 		});
 	}
 
+	private void playTune(String tuneName){
+		if (mp != null){
+			if (mp.isPlaying()) {
+				mp.stop();
+				mp.reset();
+			}
+		} else {
+			mp = new MediaPlayer();
+		}
+
+		int i = 0;
+		while (tuneName != lstTuneNames[i]) {
+			i++;
+		}
+						
+		String[] tuneInfo = new String[2];
+		tuneInfo[0] = lstTuneFileNames.get(i);
+		tuneInfo[1] = lstTuneNames[i] + ".midi";
+		new DownloadTuneTask().execute(tuneInfo);
+		
+		/*DownloadFromUrl(lstTuneFileNames.get(i));
+
+		//mp.setAudioStreamType(AudioManager.STREAM_MUSIC);
+		FileInputStream fis;
+		try {
+			fis = openFileInput(lstTuneFileNames.get(i).replace("/", "_"));
+			mp.setDataSource(fis.getFD());
+			mp.prepare();
+		} catch (FileNotFoundException e1) {
+			Toast.makeText(getApplicationContext(),
+					"Was not able to find the music I just downloaded to the cache",
+					Toast.LENGTH_LONG).show();
+		} catch (IllegalArgumentException e) {
+			Toast.makeText(getApplicationContext(),
+					"Was not able to start streaming music",
+					Toast.LENGTH_SHORT).show();
+		} catch (IllegalStateException e) {
+			Toast.makeText(getApplicationContext(),
+					"Was not able to start streaming music",
+					Toast.LENGTH_SHORT).show();
+		} catch (IOException e) {
+			Toast.makeText(getApplicationContext(),
+					"Was not able to start streaming music",
+					Toast.LENGTH_SHORT).show();
+		}
+		requestAudioFocus();*/
+	}
+	
 	public void onStop() {
 		trashMP();
 		super.onStop();
@@ -221,63 +229,151 @@ public class TunesActivity extends ListActivity implements
 	private void getTunes(String hymnMeter) {
 		try {
 			URL u = new URL(HYMNSURL + hymnMeter.replace(" ", "%20"));
-			HttpURLConnection c = (HttpURLConnection) u.openConnection();
-			c.setRequestMethod("GET");
-			c.setDoOutput(true);
-			c.connect();
-
-			InputStream is = c.getInputStream();
-			Writer writer = new StringWriter();
-
-			char[] buffer = new char[1024];
-			try {
-				Reader reader = new BufferedReader(new InputStreamReader(is));
-				int n;
-				while ((n = reader.read(buffer)) != -1) {
-					writer.write(buffer, 0, n);
-				}
-			} finally {
-				is.close();
-			}
-			String HTML = writer.toString();
-
-			// Pattern patFirstTuneName =
-			// Pattern.compile("<span class=\"tunename\">([^<>]+)</span>");
-
-			Pattern patFileName = Pattern.compile("music/(.{2,30}\\.mid)");
-			// Pattern patTuneName =
-			// Pattern.compile("<tr><td( class=\"darker\")?>([^<>]+)</td>");
-			Pattern patTuneName = Pattern
-					.compile("<tr><td( class=\"darker\")?>([^<>]+)</td>");
-
-			Matcher myMatcher = patFileName.matcher(HTML);
-			while (myMatcher.find()) {
-				lstTuneFileNames.add(myMatcher.group(1));
-			}
-
-			// myMatcher = patFirstTuneName.matcher(HTML);
-			// myMatcher.find();
+			new DownloadTunesTask().execute(u);
 			
-			lstTuneNames = (String[]) resizeArray(lstTuneNames,lstTuneFileNames.size());
-			//lstTuneNames = new String[lstTuneFileNames.size()];
-			// lstTuneNames[intTuneIndex]=myMatcher.group(1);
-			// intTuneIndex++;
-
-			myMatcher = patTuneName.matcher(HTML);
-			while (myMatcher.find()) {
-				lstTuneNames[intTuneIndex] = myMatcher.group(2);
-				intTuneIndex++;
-			}
-
-			if (lstTuneFileNames.size() < 1){
-				Toast.makeText(getApplicationContext(), "No tunes for this hymn yet",
-						Toast.LENGTH_LONG).show();
-				onBackPressed();
-			}			
 		} catch (IOException e) {
 			Log.d("ImageManager", "Error: " + e);
 		}
 	}
+	
+	private void processHTML(){
+		if (lstTuneNames.length == 1){
+			playTune(lstTuneNames[0]);
+		}else{
+			setListAdapter(new ArrayAdapter<String>(this,
+					android.R.layout.simple_list_item_1, lstTuneNames));
+		}
+	}
+	
+	private class DownloadTunesTask extends AsyncTask<URL, Integer, String> {
+	     protected String doInBackground(URL... urls) {
+	    	 String HTML = "";
+	    	 try {
+	    	 HttpURLConnection c = (HttpURLConnection) urls[0].openConnection();
+				c.setRequestMethod("GET");
+				c.setDoOutput(true);
+				c.connect();
+
+				InputStream is = c.getInputStream();
+				Writer writer = new StringWriter();
+
+				char[] buffer = new char[1024];
+				try {
+					Reader reader = new BufferedReader(new InputStreamReader(is));
+					int n;
+					while ((n = reader.read(buffer)) != -1) {
+						writer.write(buffer, 0, n);
+					}
+				} finally {
+					is.close();
+				}
+				HTML = writer.toString();} catch (IOException e) {
+					Log.d("ImageManager", "Error: " + e);
+				}
+	         return HTML;
+	     }
+
+	     protected void onPostExecute(String HTML) {
+	    	 Pattern patFileName = Pattern.compile("music/(.{2,30}\\.mid)");
+				// Pattern patTuneName =
+				// Pattern.compile("<tr><td( class=\"darker\")?>([^<>]+)</td>");
+				Pattern patTuneName = Pattern
+						.compile("<tr><td( class=\"darker\")?>([^<>]+)</td>");
+
+				Matcher myMatcher = patFileName.matcher(HTML);
+				while (myMatcher.find()) {
+					lstTuneFileNames.add(myMatcher.group(1));
+				}
+
+				// myMatcher = patFirstTuneName.matcher(HTML);
+				// myMatcher.find();
+				
+				lstTuneNames = (String[]) resizeArray(lstTuneNames,lstTuneFileNames.size());
+				//lstTuneNames = new String[lstTuneFileNames.size()];
+				// lstTuneNames[intTuneIndex]=myMatcher.group(1);
+				// intTuneIndex++;
+
+				myMatcher = patTuneName.matcher(HTML);
+				while (myMatcher.find()) {
+					lstTuneNames[intTuneIndex] = myMatcher.group(2);
+					intTuneIndex++;
+				}
+
+				if (lstTuneFileNames.size() < 1){
+					Toast.makeText(getApplicationContext(), "No tunes for this hymn yet",
+							Toast.LENGTH_LONG).show();
+					onBackPressed();
+				}
+				processHTML();
+	     }
+	 }
+	
+	private class DownloadTuneTask extends AsyncTask<String, Integer, String> {
+	     protected String doInBackground(String... fileName) {
+	    	 try {
+					URL u = new URL(TUNESURL + fileName[0]);
+					HttpURLConnection c = (HttpURLConnection) u.openConnection();
+					c.setRequestMethod("GET");
+					c.setDoOutput(true);
+					c.connect();
+					//fileName[0] = Context.getFilesDir().getPath() + fileName[0].replace("/", "_");
+					
+					FileOutputStream f = openFileOutput(fileName[1], Context.MODE_WORLD_READABLE);
+					//FileOutputStream f = openFileOutput(fileName[0].replace("/", "_"), Context.MODE_PRIVATE);
+					
+					InputStream in = c.getInputStream();
+
+					byte[] buffer = new byte[1024];
+					int len1 = 0;
+					while ((len1 = in.read(buffer)) > 0) {
+						f.write(buffer, 0, len1);
+					}
+					f.close();
+					in.close();
+			} catch (IOException e) {
+				Log.d("ImageManager", "Error: " + e);
+			}
+	    	 return getFilesDir().getPath() + "/" + fileName[1];
+	     }
+
+	     protected void onPostExecute(String fileName) {
+	    	//mp.setAudioStreamType(AudioManager.STREAM_MUSIC);
+				/*FileInputStream fis;
+				try {
+					fis = openFileInput(fileName.replace("/", "_"));
+					mp.setDataSource(fis.getFD());
+					mp.prepare();
+				} catch (FileNotFoundException e1) {
+					Toast.makeText(getApplicationContext(),
+							"Was not able to find the music I just downloaded to the cache",
+							Toast.LENGTH_LONG).show();
+				} catch (IllegalArgumentException e) {
+					Toast.makeText(getApplicationContext(),
+							"Was not able to start streaming music",
+							Toast.LENGTH_SHORT).show();
+				} catch (IllegalStateException e) {
+					Toast.makeText(getApplicationContext(),
+							"Was not able to start streaming music",
+							Toast.LENGTH_SHORT).show();
+				} catch (IOException e) {
+					Toast.makeText(getApplicationContext(),
+							"Was not able to start streaming music",
+							Toast.LENGTH_SHORT).show();
+				}
+				requestAudioFocus();*/
+	    	 	Intent i = getIntent();
+	    	    i.putExtra("fileName", fileName);
+	    	    setResult(RESULT_OK, i);
+	    	    finish();
+
+				/*Intent viewMediaIntent = new Intent();   
+				viewMediaIntent.setAction(android.content.Intent.ACTION_VIEW);   
+				File file = new File(fileName);      
+				viewMediaIntent.setDataAndType(Uri.fromFile(file), "audio/midi");   
+				//viewMediaIntent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_SINGLE_TOP);
+				startActivity(viewMediaIntent);*/
+	     }
+	 }
 
 	/**
 	* Reallocates an array with a new size, and copies the contents

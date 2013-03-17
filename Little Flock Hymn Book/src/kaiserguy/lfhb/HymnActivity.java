@@ -1,10 +1,13 @@
 package kaiserguy.lfhb;
 
+import java.io.File;
+
 import kaiserguy.lfhb.HymnBook.Hymn;
 import android.webkit.WebView;
 import android.app.Activity;
 import android.app.SearchManager;
 import android.net.ConnectivityManager;
+import android.net.Uri;
 import android.os.Bundle;
 import android.view.GestureDetector;
 import android.view.GestureDetector.SimpleOnGestureListener;
@@ -15,7 +18,9 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.view.ViewGroup;
+import android.widget.Button;
 import android.widget.FrameLayout;
+import android.widget.ImageButton;
 import android.widget.TextView;
 import android.content.Context;
 import android.content.Intent;
@@ -35,8 +40,10 @@ import android.widget.Toast;
 		private static final int MENU_SEARCH = 5;
 		private static final int MENU_SHARE_TEXT = 6;
 		private static final int MENU_SHARE_LINK = 7;
+		static final int PICK_TUNE = 0;
 	    private TextView hymnNumberView;
 	    private TextView hymnMeterView;
+		private ImageButton btnMenu;
 	    private WebView mWeb;
 	    private static final FrameLayout.LayoutParams ZOOM_PARAMS =
 	    	new FrameLayout.LayoutParams(
@@ -52,6 +59,24 @@ import android.widget.Toast;
 	    private static final int SWIPE_THRESHOLD_VELOCITY = 200;
 	    private GestureDetector gestureDetector;
 	    View.OnTouchListener gestureListener;
+	    
+	    @Override
+		protected void onActivityResult(int requestCode, int resultCode,
+	             Intent data) {
+	         if (requestCode == PICK_TUNE) {
+	             if (resultCode == RESULT_OK) {
+	                 // A contact was picked.  Here we will just display it
+	                 // to the user.
+	            	 Intent viewMediaIntent = new Intent();
+	 				viewMediaIntent.setAction(android.content.Intent.ACTION_DEFAULT);   
+	 				File file = new File(data.getStringExtra("fileName"));
+	 				viewMediaIntent.setDataAndType(Uri.fromFile(file), "audio/midi");   
+	 				viewMediaIntent.addFlags(Intent.FLAG_FROM_BACKGROUND);
+	 				//viewMediaIntent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_SINGLE_TOP | Intent.FLAG_FROM_BACKGROUND);
+	 				startActivity(viewMediaIntent);
+	             }
+	         }
+	     }
 	    
 	    @Override
 	    protected void onCreate(Bundle savedInstanceState) {
@@ -76,11 +101,24 @@ import android.widget.Toast;
 	        hymnMeterView.setOnTouchListener(gestureListener);
 	        hymnNumberView.setOnTouchListener(gestureListener);
 	        mWeb.setOnTouchListener(gestureListener);
+	        btnMenu = (ImageButton) findViewById(R.id.btnMenu);
+	        btnMenu.setOnClickListener(new Button.OnClickListener() {
+	     	   public void onClick(View v) {
+	     		 openOptionsMenu();
+	     	   }
+	     	  });
+	        
 	        
 	        FrameLayout mContentView = (FrameLayout) getWindow().
 	        getDecorView().findViewById(android.R.id.content);
-	        final View zoom = this.mWeb.getZoomControls();
-	        mContentView.addView(zoom, ZOOM_PARAMS);
+	        if (android.os.Build.VERSION.SDK_INT >=11){
+	        	mWeb.getSettings().setBuiltInZoomControls(true);
+	        	//mWeb.getSettings().setDisplayZoomControls(false);
+	        }
+	        else {
+	        	final View zoom = this.mWeb.getZoomControls();
+		        mContentView.addView(zoom, ZOOM_PARAMS);
+	        }
 	        final Intent intent = getIntent();
 
 	        hymnMeterView.setOnClickListener(onMeterClick);
@@ -256,12 +294,12 @@ import android.widget.Toast;
 	    	// Skip if no connection, or background data disabled
 	    if (theHymn.ssmeter.length() > 0){
 		    if (isNetworkAvailable()){
-				Intent next = new Intent();
+		    	Intent next = new Intent();
 				next.setClass(this, TunesActivity.class);
 				next.putExtra("hymnMeter", theHymn.meter);
 				next.putExtra("hymnSSMeter", theHymn.ssmeter);
 				next.putExtra("hymnNumber", theHymn.number);
-				startActivity(next);
+				startActivityForResult(next, PICK_TUNE);
 				//Toast.makeText(getApplicationContext(), "Feature disabled until next update",
   			          //Toast.LENGTH_LONG).show();
 				}else{

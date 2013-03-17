@@ -27,7 +27,8 @@ public class HymnBook {
 		public final String titleSort;
 		public final String author;
 		public final String meter;
-		public final String ssmeter;
+		public String ssmeter;
+		public int year;
 		public final String stanzaIndent;
 		public final String chorusIndent;
 		public final List<Stanza> stanzas;
@@ -324,14 +325,13 @@ public class HymnBook {
 		if (mLoaded)
 			return;
 		String strMeter = "";
-		String strSSMeter = "";
 		String strTitle = "";
 		String strTitleSort = "";
 		String strHymnNumber = "";
 		String strStanzaIndent = "";
 		String strChorusIndent = "";
+		String strSSMeter = "";
 		String strAuthor = "";
-		// int intYear = 0;
 		XmlResourceParser xrpTitles = resources.getXml(R.xml.hymntitles);
 		try {
 			while (xrpTitles.getName() == null) {
@@ -346,12 +346,10 @@ public class HymnBook {
 				strTitleSort = xrpTitles.getAttributeValue(null, "TitleSort");
 				strAuthor = xrpTitles.getAttributeValue(null, "Author");
 				strMeter = xrpTitles.getAttributeValue(null, "Meter");
-				// strSSMeter = xrpTitles.getAttributeValue(null, "ssmeter");
 				strStanzaIndent = xrpTitles.getAttributeValue(null,
 						"StanzaIndent");
 				strChorusIndent = xrpTitles.getAttributeValue(null,
 						"ChorusIndent");
-				// intYear = xrp.getAttributeIntValue(null, "year", 0);
 
 				addHymn(strHymnNumber, strTitle, strTitleSort, strMeter,
 						strSSMeter, strAuthor, strStanzaIndent, strChorusIndent);
@@ -369,13 +367,44 @@ public class HymnBook {
 		}
 		xrpTitles.close();
 		xrpTitles = null;
+		
+		int intYear = 0;
+		Hymn currentHymn;
+		int intHymnNumber = 0;
+		XmlResourceParser xrpSSMeters = resources.getXml(R.xml.ssmeters);
+		try {
+			while (xrpSSMeters.getName() == null) {
+				xrpSSMeters.next();
+			}
+			while (xrpSSMeters.getName().equals("hymn") == false) {
+				xrpSSMeters.next();
+			}
+			while (xrpSSMeters.getName().equals("hymn")) {
+				strSSMeter = xrpSSMeters.getAttributeValue(null, "ssmeter");
+				intYear = xrpSSMeters.getAttributeIntValue(null, "year", 0);
+
+				currentHymn = mHymns.get(intHymnNumber);
+				currentHymn.ssmeter = strSSMeter;
+				currentHymn.year = intYear;
+				intHymnNumber++;
+				xrpSSMeters.nextTag(); // read end tag
+				xrpSSMeters.nextTag(); // read start tag
+			}
+		} catch (XmlPullParserException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		xrpSSMeters.close();
+		xrpSSMeters = null;
 
 		int intStanzaNumber = 0;
 		int intLineNumber = 0;
 		int intPreviousHymnStanzaNumber = 0;
 		int intPreviousHymnNumber = 0;
-		int intHymnNumber;
-		Hymn currentHymn;
+		intHymnNumber = 0;
 		Stanza currentStanza;
 		XmlResourceParser xrpLines;
 		for (int i=0; i<4; i++){

@@ -11,6 +11,15 @@
 		<TextView android:id="@+id/hymnMeterView" android:layout_weight="1" android:textAppearance="?android:attr/textAppearanceLarge"
 		android:textSize="30sp" android:layout_height="wrap_content" android:text=""
 		android:layout_marginLeft="10dip" android:layout_marginTop="5dip" android:typeface="serif" android:textColor="#DDDDDD" android:layout_width="wrap_content"/>
+
+		<ImageButton
+		    android:id="@+id/btnMenu"
+		    android:layout_width="wrap_content"
+		    android:layout_height="match_parent"
+		    android:contentDescription="Menu"
+		    android:background="@null"
+		    android:src="@drawable/ic_menu_moreoverflow_normal_holo_light" />
+
 </LinearLayout>
 	<WebView android:id="@+id/web"
 		android:layout_height="fill_parent"
