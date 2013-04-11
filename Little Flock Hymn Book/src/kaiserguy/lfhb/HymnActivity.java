@@ -3,6 +3,7 @@ package kaiserguy.lfhb;
 import java.io.File;
 
 import kaiserguy.lfhb.HymnBook.Hymn;
+import kaiserguy.lfhb.hymnView.SwipeListener;
 import android.webkit.WebView;
 import android.app.Activity;
 import android.app.SearchManager;
@@ -44,7 +45,8 @@ import android.widget.Toast;
 	    private TextView hymnNumberView;
 	    private TextView hymnMeterView;
 		private ImageButton btnMenu;
-	    private WebView mWeb;
+	    //private WebView mWeb;
+	    private hymnView mWeb;
 	    private static final FrameLayout.LayoutParams ZOOM_PARAMS =
 	    	new FrameLayout.LayoutParams(
 	    	ViewGroup.LayoutParams.FILL_PARENT,
@@ -85,7 +87,7 @@ import android.widget.Toast;
 	        setContentView(R.layout.hymn);
 
 	     // Gesture detection
-	           gestureDetector = new GestureDetector(new MyGestureDetector());
+	           /*gestureDetector = new GestureDetector(new MyGestureDetector());
 	            gestureListener = new View.OnTouchListener() {
 	                public boolean onTouch(View v, MotionEvent event) {
 	                    if (gestureDetector.onTouchEvent(event)) {
@@ -93,10 +95,10 @@ import android.widget.Toast;
 	                    }
 	                    return false;
 	                }
-	            };
+	            };*/
 	            hymnNumberView = (TextView) findViewById(R.id.hymnNumberView);
 	            hymnMeterView = (TextView) findViewById(R.id.hymnMeterView);
-	        mWeb = (WebView) findViewById(R.id.web);
+	        mWeb = (hymnView) findViewById(R.id.web);
 
 	        hymnMeterView.setOnTouchListener(gestureListener);
 	        hymnNumberView.setOnTouchListener(gestureListener);
@@ -112,8 +114,8 @@ import android.widget.Toast;
 	        FrameLayout mContentView = (FrameLayout) getWindow().
 	        getDecorView().findViewById(android.R.id.content);
 	        if (android.os.Build.VERSION.SDK_INT >=11){
-	        	mWeb.getSettings().setBuiltInZoomControls(true);
-	        	//mWeb.getSettings().setDisplayZoomControls(false);
+	        	//mWeb.getSettings().setBuiltInZoomControls(true);
+	        	mWeb.getSettings().setDisplayZoomControls(true);
 	        }
 	        else {
 	        	final View zoom = this.mWeb.getZoomControls();
@@ -361,8 +363,42 @@ import android.widget.Toast;
 	    	String smoothScroll = "function smoothScroll(eID) { var startY = currentYPosition(); var stopY = elmYPosition(eID); var distance = stopY > startY ? stopY - startY : startY - stopY; var speed = 100; var step = Math.round(distance / 5); var leapY = stopY > startY ? startY + step : startY - step; var timer = 0; if (stopY > startY) { for ( var i=startY; i<stopY; i+=step ) { setTimeout(\"window.scrollTo(0, \"+leapY+\")\", timer * speed); leapY += step; if (leapY > stopY) leapY = stopY; timer++; } return; } for ( var i=startY; i>stopY; i-=step ) { setTimeout(\"window.scrollTo(0, \"+leapY+\")\", timer * speed); leapY -= step; if (leapY < stopY) leapY = stopY; timer++; }}function elmYPosition(eID) { var elm = document.getElementById(eID); var y = elm.offsetTop; var node = elm; while (node.offsetParent && node.offsetParent != document.body) { node = node.offsetParent; y += node.offsetTop; } return y;}function currentYPosition() { if (self.pageYOffset) return self.pageYOffset; if (document.documentElement && document.documentElement.scrollTop) return document.documentElement.scrollTop; if (document.body.scrollTop) return document.body.scrollTop; return 0;}";
 	    	mWeb.loadDataWithBaseURL(null, "<html><head><META http-equiv='Content-Type' content='text/html; charset=UTF-8'><script language='javascript'>" + smoothScroll + "</script></head><body>" 
 	    			+ text + "<hr style='width:15em;text-align:left;margin-left:2em;color:aaa;border-color:555555;' /><hr style='width:13em;text-align:left;margin-left:3em;color:888;border-color:444444;' /><br /><br /><br /></body></html>", "text/html", "utf-8", null);
-	    }
-	    class MyGestureDetector extends SimpleOnGestureListener {
+	    }	    
+	    
+	    mWeb.setOnNewsUpdateListener(new SwipeListener() {
+			public void onSwipe(Boolean forward) {
+				// TODO Auto-generated method stub
+				if (forward) {
+					Intent next = new Intent();
+            		next.setClass(HymnActivity.this, HymnActivity.class);
+            		String hymnNumber = HymnActivity.this.getIntent().getStringExtra("hymnNumber");
+            		if (hymnNumber.endsWith("*")){
+            			hymnNumber = (Integer.parseInt(hymnNumber.replace("*", ""))+1) + "*";
+            		}else{
+            			hymnNumber = (Integer.parseInt(hymnNumber)+1)+"";
+            		}
+            		next.putExtra("hymnNumber", hymnNumber);
+            		startActivity(next);
+            		overridePendingTransition(R.anim.push_left_in,R.anim.push_left_out);
+				}
+				else{
+					//Toast.makeText(HymnActivity.this, "Right Swipe", Toast.LENGTH_SHORT).show();
+                	Intent next = new Intent();
+            		next.setClass(HymnActivity.this, HymnActivity.class);
+            		String hymnNumber = HymnActivity.this.getIntent().getStringExtra("hymnNumber");
+            		if (hymnNumber.endsWith("*")){
+            			hymnNumber = (Integer.parseInt(hymnNumber.replace("*", ""))-1) + "*";
+            		}else{
+            			hymnNumber = (Integer.parseInt(hymnNumber)-1)+"";
+            		}
+            		next.putExtra("hymnNumber", hymnNumber);
+            		startActivity(next);
+            		overridePendingTransition(R.anim.push_right_in,R.anim.push_right_out);
+				}
+			}
+	    });
+}
+	    /*class MyGestureDetector extends SimpleOnGestureListener {
 	        @Override
 	        public boolean onFling(MotionEvent e1, MotionEvent e2, float velocityX, float velocityY) {
 	            try {
@@ -401,5 +437,5 @@ import android.widget.Toast;
 	            }
 	            return false;
 	        }
-	}}
+	    }*/
 	
