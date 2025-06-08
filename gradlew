@@ -22,3 +22,4 @@ SCRIPT_DIR=$(dirname "$0")
 
 # Execute the Gradle command.
 exec "$JAVACMD" -jar "$SCRIPT_DIR/gradle/wrapper/gradle-wrapper.jar" "$@"
+
