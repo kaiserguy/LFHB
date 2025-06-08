@@ -41,3 +41,10 @@ This project maintains its original licensing terms while incorporating modern d
 
 Contributions are welcome! Please ensure any changes maintain compatibility with the modernized build system and follow current Android development best practices.
 
+
+
+
+## Build Status
+
+This project now includes a GitHub Actions workflow to automate the build process.
+
