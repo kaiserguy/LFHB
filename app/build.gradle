@@ -48,9 +48,3 @@ dependencies {
 
 
 
-sourceSets {
-    main {
-        res.srcDirs = ["src/main/res"]
-    }
-}
-
