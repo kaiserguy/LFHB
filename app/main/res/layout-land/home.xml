@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:stretchColumns="1">
+        <TextView
+            android:id="@+id/textField"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="fill_parent"
+             android:textColor="#DDDDDD"
+            android:layout_height="wrap_content"
+            android:text="@string/loading_message"
+            android:visibility="gone"/>
+        <TextView android:textSize="35dp" android:gravity="center_horizontal" android:textColor="#DDDDDD" android:textAppearance="?android:attr/textAppearanceMedium" android:id="@+id/Title" android:layout_width="fill_parent" android:visibility="visible" android:text="@string/title_land" android:layout_height="wrap_content" android:typeface="serif"></TextView>
+
+            <LinearLayout android:id="@+id/linearLayout1" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <LinearLayout android:id="@+id/linearLayout2" android:layout_weight="1" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="fill_parent">
+                    <Button android:typeface="serif" android:id="@+id/btnSearch" android:layout_weight="1" android:layout_width="wrap_content" android:text="Search" android:textSize="20dp" android:background="@drawable/blackbutton" android:textColor="#DDDDDD" android:layout_height="match_parent"></Button>
+                    <Button android:typeface="serif" android:id="@+id/btnNumberPad" android:layout_weight="1" android:layout_width="wrap_content" android:text="Number Pad" android:textSize="20dp" android:background="@drawable/blackbutton" android:textColor="#DDDDDD" android:layout_height="match_parent"></Button>
+                </LinearLayout>
+                <TextView android:id="@+id/txtHomeInstructions" android:textColor="#DDDDDD" android:layout_width="fill_parent" android:text="Search or type in a hymn above, or browse by:" android:typeface="serif" android:layout_margin="10sp" android:layout_height="wrap_content"></TextView>
+                <LinearLayout android:id="@+id/linearLayout3" android:orientation="horizontal" android:layout_weight="1" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                    <Button android:typeface="serif" android:id="@+id/btnNumberPicker" android:layout_weight="1" android:layout_width="match_parent" android:gravity="center_horizontal|center_vertical" android:text="Number" android:textSize="20dp" android:background="@drawable/blackbutton" android:textColor="#DDDDDD" android:layout_height="match_parent"></Button>
+                    <Button android:typeface="serif" android:id="@+id/btnAuthor" android:layout_weight="1" android:layout_width="match_parent" android:gravity="center_horizontal|center_vertical" android:text="Author" android:textSize="20dp" android:background="@drawable/blackbutton" android:textColor="#DDDDDD" android:layout_height="match_parent"></Button>
+                    <Button android:typeface="serif" android:id="@+id/btnMeter" android:layout_weight="1" android:layout_width="match_parent" android:gravity="center_horizontal|center_vertical" android:text="Meter" android:textSize="20dp" android:background="@drawable/blackbutton" android:textColor="#DDDDDD" android:layout_height="match_parent"></Button>
+                </LinearLayout>
+                <LinearLayout android:id="@+id/linearLayout4" android:orientation="horizontal" android:layout_weight="1" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                    <Button android:typeface="serif" android:id="@+id/btnFirstLineAlpha" android:layout_weight="1" android:layout_width="match_parent" android:gravity="center_horizontal|center_vertical" android:text="First Line (A-Z)" android:textSize="20dp" android:background="@drawable/blackbutton" android:textColor="#DDDDDD" android:layout_height="match_parent"></Button>
+                    <Button android:typeface="serif" android:id="@+id/btnFirstLineNumeric" android:layout_weight="1" android:layout_width="match_parent" android:gravity="center_horizontal|center_vertical" android:text="First Line (1,2,3,etc.)" android:textSize="20dp" android:background="@drawable/blackbutton" android:textColor="#DDDDDD" android:layout_height="match_parent"></Button>
+                </LinearLayout>
+            </LinearLayout>
+    </TableLayout>
+
+
