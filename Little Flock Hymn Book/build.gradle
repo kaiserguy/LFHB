@@ -45,3 +45,11 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
 }
 
+
+
+sourceSets {
+    main {
+        res.srcDirs = ["src/main/res"]
+    }
+}
+
