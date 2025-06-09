@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <TextView
+            android:id="@+id/textField"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+             android:textColor="#DDDDDD"
+            android:text="@string/loading_message"
+            android:visibility="gone"/>
+        <TextView android:textSize="35dp" android:gravity="center_horizontal" android:textColor="#DDDDDD" android:textAppearance="?android:attr/textAppearanceMedium" android:id="@+id/Title" android:layout_width="fill_parent" android:visibility="visible" android:text="@string/title" android:layout_height="wrap_content" android:typeface="serif"></TextView>
+        <ScrollView android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/scrollView1">
+            <LinearLayout
+          android:layout_width="fill_parent"
+          android:layout_height="wrap_content"
+          android:orientation="vertical">
+            <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        		android:orientation="horizontal"
+        		android:layout_width="fill_parent"
+        		android:layout_height="wrap_content"
+        		android:layout_weight="1">
+        		<Button android:layout_width="wrap_content" android:text="Search" 		android:typeface="serif" android:background="@drawable/blackbutton" android:textColor="#DDDDDD" android:textSize="20dp" android:layout_height="wrap_content" android:layout_weight="2" android:id="@+id/btnSearch"></Button>
+        		<Button android:layout_width="wrap_content" android:text="Number Pad" 	android:typeface="serif" android:background="@drawable/blackbutton" android:textColor="#DDDDDD" android:textSize="20dp" android:layout_height="wrap_content" android:layout_weight="1" android:id="@+id/btnNumberPad"></Button>
+            </LinearLayout>
+        	<TextView android:layout_width="wrap_content" android:id="@+id/txtHomeInstructions" android:text="Search or type in a hymn above, or browse by:" android:typeface="serif" android:layout_height="wrap_content" android:textColor="#DDDDDD" android:layout_margin="10dp"></TextView>
+        
+            <Button android:layout_width="match_parent" android:text="Number" 					android:typeface="serif" android:background="@drawable/blackbutton" android:textColor="#DDDDDD" android:textSize="20dp" android:gravity="left|center_vertical" android:layout_height="wrap_content" android:id="@+id/btnNumberPicker"></Button>
+            <Button android:layout_width="match_parent" android:text="First Line (A-Z)" 		android:typeface="serif" android:background="@drawable/blackbutton" android:textColor="#DDDDDD" android:textSize="20dp" android:gravity="left|center_vertical" android:layout_height="wrap_content" android:id="@+id/btnFirstLineAlpha"></Button>
+            <Button android:layout_width="match_parent" android:text="First Line (1,2,3,etc.)" 	android:typeface="serif" android:background="@drawable/blackbutton" android:textColor="#DDDDDD" android:textSize="20dp" android:gravity="left|center_vertical" android:layout_height="wrap_content" android:id="@+id/btnFirstLineNumeric"></Button>
+            <Button android:layout_width="match_parent" android:text="Author" 					android:typeface="serif" android:background="@drawable/blackbutton" android:textColor="#DDDDDD" android:textSize="20dp" android:gravity="left|center_vertical" android:layout_height="wrap_content" android:id="@+id/btnAuthor"></Button>
+            <Button android:layout_width="match_parent" android:text="Meter" 					android:typeface="serif" android:background="@drawable/blackbutton" android:textColor="#DDDDDD" android:textSize="20dp" android:gravity="left|center_vertical" android:layout_height="wrap_content" android:id="@+id/btnMeter"></Button>
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+
+
